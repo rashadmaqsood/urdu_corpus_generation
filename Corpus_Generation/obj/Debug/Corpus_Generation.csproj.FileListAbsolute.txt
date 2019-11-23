@@ -1,0 +1,8 @@
+D:\MSCS\Thesis\Solutions\Corpus_Generation\Corpus_Generation\obj\Debug\PairSentences.Form1.resources
+D:\MSCS\Thesis\Solutions\Corpus_Generation\Corpus_Generation\obj\Debug\Corpus_Generation.Properties.Resources.resources
+D:\MSCS\Thesis\Solutions\Corpus_Generation\Corpus_Generation\obj\Debug\Corpus_Generation.csproj.GenerateResource.Cache
+D:\MSCS\Thesis\Solutions\Corpus_Generation\Corpus_Generation\bin\Debug\Corpus_Generation.exe.config
+D:\MSCS\Thesis\Solutions\Corpus_Generation\Corpus_Generation\bin\Debug\Corpus_Generation.exe
+D:\MSCS\Thesis\Solutions\Corpus_Generation\Corpus_Generation\bin\Debug\Corpus_Generation.pdb
+D:\MSCS\Thesis\Solutions\Corpus_Generation\Corpus_Generation\obj\Debug\Corpus_Generation.exe
+D:\MSCS\Thesis\Solutions\Corpus_Generation\Corpus_Generation\obj\Debug\Corpus_Generation.pdb

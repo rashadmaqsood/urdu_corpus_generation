@@ -1,0 +1,1970 @@
+<?xml version = "1.0" encoding = "utf - 8" ?>
+<sentence_pairs>
+<sentence_pair classification = "" edit_distance = "130" shared_words = "7" pair_no = "1" >
+<sentence_1>بیان میں واضح کیا گیا کہ امریکا پاکستان کے آئینی اور انتخابی عمل کی ہمیشہ حمایت کرتا رہا ہے لہٰذا پاکستان میں جمہوریت کو مضبوط کرنے کے لیے اقدامات اْٹھائے جانے چاہئیں </sentence_1>
+<sentence_2>پاکستان میں فریقین تشدد سے گریز کریں، مذاکرات کے عمل میں شامل نہیں: امریکہ</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "91" shared_words = "8" pair_no = "2" >
+<sentence_1>بنگلہ دیشی سپنر تیج الاسلام نے ون ڈے ڈیبیو میں ہیٹ ٹرک کرکے نئی تاریخ رقم کر دی</sentence_1>
+<sentence_2>تیج نے کرکٹ تاریخ میں سنہری حروف سے نام درج کرالیا ون ڈے ڈیبیو پر ہیٹرک کرنیوالے دنیا کے پہلے پلےئر،سیریز میں بنکلہ دیش کا کلین سوائپ</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "85" shared_words = "7" pair_no = "3" >
+<sentence_1>بیان میں کہا گیا کہ امریکا پاکستان کیساتھ جمہوریت کے استحکام کیلئے کام کررہا ہے فریقین کو تشدد سے گریز کرنا چاہیے</sentence_1>
+<sentence_2>پاکستان میں فریقین تشدد سے گریز کریں، مذاکرات کے عمل میں شامل نہیں: امریکہ</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "76" shared_words = "5" pair_no = "4" >
+<sentence_1>بیان میں کہا گیا کہ امریکا پاکستان کیساتھ جمہوریت کے استحکام کیلئے کام کررہا ہے فریقین کو تشدد سے گریز کرنا چاہیے</sentence_1>
+<sentence_2> ترجمان نے کہا کہ نواز شریف پاکستان کے انتخابات میں منتخب ہوئے اور وہ ملک کے وزیراعظم ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "5" pair_no = "5" >
+<sentence_1> بیان میں کہا گیا کہ سیاسی ڈائیلاگ کیلئے کافی گنجائش موجود ہے اور اسے پرامن رہنا چاہیے</sentence_1>
+<sentence_2> ترجمان نے کہا کہ نواز شریف پاکستان کے انتخابات میں منتخب ہوئے اور وہ ملک کے وزیراعظم ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "73" shared_words = "8" pair_no = "6" >
+<sentence_1> پہلا میچ بھوٹان کا مقابلہ سری لنکا سے دن گیارہ بجے جبکہ دوسرا میچ پاکستان کا مقابلہ نیپال سے دوپہر ڈھائی بجے ہوگا</sentence_1>
+<sentence_2>ساف ویمن فٹبال چیمپئن شپ ، پاکستان کا مقابلہ آج نیپال سے ہو گا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "60" shared_words = "5" pair_no = "7" >
+<sentence_1> 22 سالہ سپنر نے تناشے پیانگارا، جان نیومبو اور ٹینڈائی چتارا کو آؤٹ کرکے ہیٹ ٹرک مکمل کی</sentence_1>
+<sentence_2> شکیبالحسن نے 3 اور جوبیر حسین نے 2 وکٹین لے کر تیج کا بھر پور ساتھ دیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "6" pair_no = "8" >
+<sentence_1> بیان میں کہا گیا کہ سیاسی ڈائیلاگ کیلئے کافی گنجائش موجود ہے اور اسے پرامن رہنا چاہیے</sentence_1>
+<sentence_2> پاکستان میں ہونیوالا احتجاج پرامن ہے اور اس صورتحال میں مذاکرات کی گنجائش بھی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "69" shared_words = "5" pair_no = "9" >
+<sentence_1> انہوں نے یہ بات وطن واپسی کے لئے ہیتھرو ایئرپورٹ روانگی سے قبل صحافیوں سے گفتگو کرتے ہوئے کہی</sentence_1>
+<sentence_2> اسلام آباد میں دھرنے شروع ہوئے تو عدالتوں کے خیالات بھی سب نے دیکھ لئے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "13" shared_words = "8" pair_no = "10" >
+<sentence_1>سیاسی بحران کا جلد حل نکالا جائے ، الطاف حسین</sentence_1>
+<sentence_2>سیاسی بحران کا جلد حل نکالا جائے ، آصف علی زرداری</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "64" shared_words = "6" pair_no = "11" >
+<sentence_1> انہوں نے کہا کہ پارلیمنٹ نے جمہوریت کے استحکام کے لئے اہم کردار ادا کیا ہے</sentence_1>
+<sentence_2> وزیراعظم نے کہا کہ جنرل اسمبلی میں کی جانے والی تقریر پاکستانی اور کشمیری عوام کے جذبات کی عکاسی کرتی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "43" shared_words = "6" pair_no = "12" >
+<sentence_1> انہوں نے کہا کہ پارلیمنٹ نے جمہوریت کے استحکام کے لئے اہم کردار ادا کیا ہے</sentence_1>
+<sentence_2> انہوں نے کہا کہ سیاستدان شعور کا مظاہرہ کر رہے ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "48" shared_words = "5" pair_no = "13" >
+<sentence_1> انہوں نے کہا کہ پارلیمنٹ نے جمہوریت کے استحکام کے لئے اہم کردار ادا کیا ہے</sentence_1>
+<sentence_2> پارلیمنٹ کی تمام جماعتوں نے اکٹھے ہوکر ایک پیغام دیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "69" shared_words = "8" pair_no = "14" >
+<sentence_1> نواز شریف نے کہا کہ ان کی حکومت بھی نظام میں موجود خرابیوں کو دور کرنے کی خواہاں ہے</sentence_1>
+<sentence_2> انہیں حل کرنا ہمارے ایجنڈے میں شامل ہے‘ موقع ملا تو انتخابی عمل میں خامیوں سمیت تمام خرابیوں کو دور کرنے کی کوشش کریں گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "8" pair_no = "15" >
+<sentence_1> نواز شریف نے کہا کہ ان کی حکومت بھی نظام میں موجود خرابیوں کو دور کرنے کی خواہاں ہے</sentence_1>
+<sentence_2> وزیراعظم نے کہا کہ جنرل اسمبلی میں کی جانے والی تقریر پاکستانی اور کشمیری عوام کے جذبات کی عکاسی کرتی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "58" shared_words = "5" pair_no = "16" >
+<sentence_1> نواز شریف نے کہا کہ ان کی حکومت بھی نظام میں موجود خرابیوں کو دور کرنے کی خواہاں ہے</sentence_1>
+<sentence_2> پارلیمنٹ کی تمام جماعتوں نے اکٹھے ہوکر ایک پیغام دیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "75" shared_words = "11" pair_no = "17" >
+<sentence_1> ایک سوال کے جواب میں وزیراعظم نے کہا کہ میرا خیال نہیں کہ عدلیہ حکومت کے خلاف کسی سازش میں ملوث ہے</sentence_1>
+<sentence_2> وزیراعظم نے کہا کہ جنرل اسمبلی میں کی جانے والی تقریر پاکستانی اور کشمیری عوام کے جذبات کی عکاسی کرتی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "69" shared_words = "5" pair_no = "18" >
+<sentence_1> ایک سوال کے جواب میں وزیراعظم نے کہا کہ میرا خیال نہیں کہ عدلیہ حکومت کے خلاف کسی سازش میں ملوث ہے</sentence_1>
+<sentence_2> انہوں نے کہا کہ سیاستدان شعور کا مظاہرہ کر رہے ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "61" shared_words = "5" pair_no = "19" >
+<sentence_1>ٹویٹر پرکرن جوہر کے مداحوں کی تعداد 50 لاکھ ہوگئی</sentence_1>
+<sentence_2>ممبئی (وقت نیوز )بالی وڈ کے فلمساز کرن جوہر کے ٹوئٹر پر فالورز کی تعداد پانچ ملین سے زیادہ ہو گئی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "82" shared_words = "5" pair_no = "20" >
+<sentence_1> یکم دسمبر (اے پی پی) بالی وڈ فلمساز کرن جوہر کی سماجی رابطہ ویب سائٹ ٹوئیٹر پر مداحوں کی تعداد 50 لاکھ ہوگئی</sentence_1>
+<sentence_2>کرن کے ٹوئٹر پر فالورز کی تعداد 5 ملین سے زیادہ</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "8" pair_no = "21" >
+<sentence_1> یکم دسمبر (اے پی پی) بالی وڈ فلمساز کرن جوہر کی سماجی رابطہ ویب سائٹ ٹوئیٹر پر مداحوں کی تعداد 50 لاکھ ہوگئی</sentence_1>
+<sentence_2>ممبئی (وقت نیوز )بالی وڈ کے فلمساز کرن جوہر کے ٹوئٹر پر فالورز کی تعداد پانچ ملین سے زیادہ ہو گئی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "52" shared_words = "11" pair_no = "22" >
+<sentence_1> کرن جوہر نے ٹویٹ کیا کہ انہیں بہت خوشی ہے کہ ٹوئیٹر پر ان کے مداحوں کی تعداد بڑھ کر 50 لاکھ ہوگئی ہے</sentence_1>
+<sentence_2>تاہم اب ان کی مقبولیت میں اتنا اضافہ ہو گیا ہے کہ ٹوئٹر پر ان کے فالورز کی تعداد بڑھ رہی ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "52" shared_words = "14" pair_no = "23" >
+<sentence_1> انہوں نے کہا کہ اقوام متحدہ کی جنرل اسمبلی سے خطاب اور کشمیر پر موقف پاکستان اور کشمیری عوام کے جذبات کا عکاس ہے</sentence_1>
+<sentence_2> وزیراعظم نے کہا کہ جنرل اسمبلی میں کی جانے والی تقریر پاکستانی اور کشمیری عوام کے جذبات کی عکاسی کرتی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "82" shared_words = "7" pair_no = "24" >
+<sentence_1>الطاف حسین نے بگڑتی ہوئی سیاسی صورتحال پر تشویش کا اظہار کرتے ہوئے کہا کہ فریقین فوری طور پر دوبارہ مذاکرات شروع کریں</sentence_1>
+<sentence_2> بلاول بھٹو نے سندھ حکومت کی کارکردگی پر عدم اطمینان کا اظہار کرتے ہوئے شدید تنقید کی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "71" shared_words = "6" pair_no = "25" >
+<sentence_1> ان خیالات کا اظہار انہوں نے جمعرات کے روز پارلیمنٹ کے سامنے انقلاب مارچ کے شرکاء سے خطاب کرتے ہوئے کیا</sentence_1>
+<sentence_2>اسلام آباد (آن لائن) عوامی تحریک کے سربراہ ڈاکٹر طاہر القادری نے انقلاب مارچ کے شرکاء کو نفلی اعتکاف کی نیت کروا دی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "72" shared_words = "8" pair_no = "26" >
+<sentence_1> ان خیالات کا اظہار انہوں نے جمعرات کے روز پارلیمنٹ کے سامنے انقلاب مارچ کے شرکاء سے خطاب کرتے ہوئے کیا</sentence_1>
+<sentence_2> ریڈ زون میں خطاب کرتے ہوئے طاہر القادری کا کہنا تھا کہ انقلاب کے تمام شرکاء نفلی اعتکاف کی نیت کر لیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "69" shared_words = "7" pair_no = "27" >
+<sentence_1> ان خیالات کا اظہار انہوں نے جمعرات کے روز پارلیمنٹ کے سامنے انقلاب مارچ کے شرکاء سے خطاب کرتے ہوئے کیا</sentence_1>
+<sentence_2> عمران خان نے نماز کے بعد آزادی کا جشن منانے کا بھی اعلان کیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "85" shared_words = "5" pair_no = "28" >
+<sentence_1> 25 نومبر (اے پی پی) وزیراعظم محمد نواز شریف اٹھارویں سارک سربراہ اجلاس میں شرکت کیلئے منگل کی سہ پہر یہاں پہنچ گئے جو 26 اور 27 نومبر کو منعقد ہو رہا ہے</sentence_1>
+<sentence_2>کھٹمنڈو(خصوصی رپورٹر)وزیر اعظم نواز شریف 18 ویں سارک سربراہی کانفرنس میں شرکت کے لئے کھٹمنڈو پہنچے تو ان کا پرتپاک استقبال کیا گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "74" shared_words = "6" pair_no = "29" >
+<sentence_1> ترائی بھون انٹرنیشنل ایئرپورٹ پر نیپال کے نائب وزیراعظم بام دیو گوتم نے وزیراعظم کا پرتپاک خیر مقدم کیا</sentence_1>
+<sentence_2> نیپال کے ڈپٹی وزیر اعظم اور وزیر برائے وفاقی امور ہرکاش مان سنگھ نے ان کا استقبال کیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "77" shared_words = "5" pair_no = "30" >
+<sentence_1> ترائی بھون انٹرنیشنل ایئرپورٹ پر نیپال کے نائب وزیراعظم بام دیو گوتم نے وزیراعظم کا پرتپاک خیر مقدم کیا</sentence_1>
+<sentence_2> وزیر اعظم پاکستان اپنے وفد کے ہمراہ ہوٹل روانہ ہوئے توان کا سارے راستے پرتپاک استقبال کیا گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "70" shared_words = "5" pair_no = "31" >
+<sentence_1> وزیراعظم کی اہلیہ بیگم کلثوم نواز، وزیراعظم کے معاونین خصوصی طارق فاطمی اور عرفان صدیقی بھی ان کے ہمراہ ہیں</sentence_1>
+<sentence_2> نیپال کے ڈپٹی وزیر اعظم اور وزیر برائے وفاقی امور ہرکاش مان سنگھ نے ان کا استقبال کیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "50" shared_words = "6" pair_no = "32" >
+<sentence_1>جمہوریت کے تحفظ میں اپنی ذمہ داری پوری کریں گے، زرداری</sentence_1>
+<sentence_2> آصف زرداری نے کہاکہ جمہوریت کے تحفظ کے لئے پیپلز پارٹی ذمہ داریاں ادا کرے گی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "46" shared_words = "5" pair_no = "33" >
+<sentence_1>پیپلزپارٹی کی سنٹرل ایگزیکٹو کمیٹی نے پاکستان کی سیاسی صورتحال پر تشویش کا اظہار کیا ہے</sentence_1>
+<sentence_2> ساڑھے 4 گھنٹے کے اجلاس میں ملکی سیاسی صورتحال پر سخت تشویش کا اظہارکیا  گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "6" pair_no = "34" >
+<sentence_1>پیپلزپارٹی کی سنٹرل ایگزیکٹو کمیٹی نے پاکستان کی سیاسی صورتحال پر تشویش کا اظہار کیا ہے</sentence_1>
+<sentence_2> بلاول بھٹو نے سندھ حکومت کی کارکردگی پر عدم اطمینان کا اظہار کرتے ہوئے شدید تنقید کی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "67" shared_words = "5" pair_no = "35" >
+<sentence_1>پیپلزپارٹی کی سنٹرل ایگزیکٹو کمیٹی نے پاکستان کی سیاسی صورتحال پر تشویش کا اظہار کیا ہے</sentence_1>
+<sentence_2> پیپلز پارٹی نے انتخابی اصلاحات کا عمل وسیع تر مشاورت اور مقررہ وقت کے اندر مکمل کرنے کا بھی مطالبہ کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "58" shared_words = "5" pair_no = "36" >
+<sentence_1> ساتھ ہی اس عزم کا اظہار کیا ہے کہ پیپلزپارٹی آئین اور جمہوریت کے ساتھ کھڑی ہوگی</sentence_1>
+<sentence_2> بیشتر ارکان کا کہنا تھا کہ موجودہ صورتحال مسلم لیگ ن کی ہی پیدا کردہ ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "76" shared_words = "5" pair_no = "37" >
+<sentence_1> ساتھ ہی اس عزم کا اظہار کیا ہے کہ پیپلزپارٹی آئین اور جمہوریت کے ساتھ کھڑی ہوگی</sentence_1>
+<sentence_2> پیپلز پارٹی نے مطالبہ کیا کہ یوسف رضا گیلانی اور شہید سلیمان تاثیر کے صاحبزادوں کو فوراً بازیاب کرایا جائے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "5" pair_no = "38" >
+<sentence_1> آصف علی زرداری کہتے ہیں کہ جمہوریت کے تحفظ کے لیے پیپلز پارٹی اپنی ذمہ داری اد ا کرے گی</sentence_1>
+<sentence_2> ذرائع کے مطابق بلاول بھٹو زرداری نے کہا کہ مذاکرات کے ذریعے جمہوری عمل جاری رہنا چاہئے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "22" shared_words = "11" pair_no = "39" >
+<sentence_1> آصف علی زرداری کہتے ہیں کہ جمہوریت کے تحفظ کے لیے پیپلز پارٹی اپنی ذمہ داری اد ا کرے گی</sentence_1>
+<sentence_2> آصف زرداری نے کہاکہ جمہوریت کے تحفظ کے لئے پیپلز پارٹی ذمہ داریاں ادا کرے گی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "78" shared_words = "5" pair_no = "40" >
+<sentence_1> آصف علی زرداری کہتے ہیں کہ جمہوریت کے تحفظ کے لیے پیپلز پارٹی اپنی ذمہ داری اد ا کرے گی</sentence_1>
+<sentence_2> پیپلز پارٹی نے مطالبہ کیا کہ یوسف رضا گیلانی اور شہید سلیمان تاثیر کے صاحبزادوں کو فوراً بازیاب کرایا جائے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "55" shared_words = "6" pair_no = "41" >
+<sentence_1> بلاول بھٹو کا کہنا ہے کہ جمہوریت کو ڈی ریل نہیں ہونے دیں گے ، آئین کو مکمل سپورٹ کریں گے</sentence_1>
+<sentence_2> بلاول بھٹو نے مذاکرات کو ہی موجودہ سیاسی صورتحال کا بہترین حل قرار دیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "55" shared_words = "5" pair_no = "42" >
+<sentence_1> بلاول بھٹو کا کہنا ہے کہ جمہوریت کو ڈی ریل نہیں ہونے دیں گے ، آئین کو مکمل سپورٹ کریں گے</sentence_1>
+<sentence_2> بیشتر ارکان کا کہنا تھا کہ موجودہ صورتحال مسلم لیگ ن کی ہی پیدا کردہ ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "53" shared_words = "5" pair_no = "43" >
+<sentence_1> بلاول بھٹو کا کہنا ہے کہ جمہوریت کو ڈی ریل نہیں ہونے دیں گے ، آئین کو مکمل سپورٹ کریں گے</sentence_1>
+<sentence_2> بلاول بھٹو نے کہا کہ حکومت اگر پرفارم کرے گی تو کوئی غیرآئینی کام نہیں ہو گا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "59" shared_words = "9" pair_no = "44" >
+<sentence_1> پیپلز پارٹی سنٹرل ایگزیکٹو کمیٹی کا اجلاس دبئی میں ساڑھے چار گھنٹے جاری رہنے کے بعد ختم ہو گیا</sentence_1>
+<sentence_2> وہ دبئی میں  پارٹی کی سنٹرل ایگزیکٹو کمیٹی کے پہلے اجلاس سے خطاب کر رہے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "8" pair_no = "45" >
+<sentence_1> پیپلز پارٹی سنٹرل ایگزیکٹو کمیٹی کا اجلاس دبئی میں ساڑھے چار گھنٹے جاری رہنے کے بعد ختم ہو گیا</sentence_1>
+<sentence_2> ساڑھے 4 گھنٹے کے اجلاس میں ملکی سیاسی صورتحال پر سخت تشویش کا اظہارکیا  گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "6" pair_no = "46" >
+<sentence_1> پیپلز پارٹی سنٹرل ایگزیکٹو کمیٹی کا اجلاس دبئی میں ساڑھے چار گھنٹے جاری رہنے کے بعد ختم ہو گیا</sentence_1>
+<sentence_2> پیپلز پارٹی نے انتخابی اصلاحات کا عمل وسیع تر مشاورت اور مقررہ وقت کے اندر مکمل کرنے کا بھی مطالبہ کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "131" shared_words = "5" pair_no = "47" >
+<sentence_1>امریکی ڈالر، برطانوی پاؤنڈ اور یوروکی قدر میں اضافہ</sentence_1>
+<sentence_2>کراچی (کامرس رپورٹر ) انٹر بینک میں روپے کے مقابلے میں ڈالر کی قدر 103کی سطح پر دوبارہ جا پہنچی جبکہ اقپن مارکیٹ میں ڈالر103 روپے تک آنے میں صرف 5یسے کی دوری پر ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "109" shared_words = "8" pair_no = "48" >
+<sentence_1> 16 ستمبر (اے پی پی) پاکستانی روپے کے مقابلے میں امریکی ڈالر سمیت یورپین ممالک کی اہم کرنسیوں بشمول برطانوی پاؤنڈ اور یورو کی قدر میں تیزی کا رجحان رہا</sentence_1>
+<sentence_2>انٹر بینک میں ڈالر کی قدر 103کی سطح پر پہنچ گئی  اوپن مارکیٹ میں 45پیسے کے اضافے سے ڈالر 102.95روپے میں فروخت ہوا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "107" shared_words = "12" pair_no = "49" >
+<sentence_1> 16 ستمبر (اے پی پی) پاکستانی روپے کے مقابلے میں امریکی ڈالر سمیت یورپین ممالک کی اہم کرنسیوں بشمول برطانوی پاؤنڈ اور یورو کی قدر میں تیزی کا رجحان رہا</sentence_1>
+<sentence_2>کراچی (کامرس رپورٹر ) انٹر بینک میں روپے کے مقابلے میں ڈالر کی قدر 103کی سطح پر دوبارہ جا پہنچی جبکہ اقپن مارکیٹ میں ڈالر103 روپے تک آنے میں صرف 5یسے کی دوری پر ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "47" shared_words = "7" pair_no = "50" >
+<sentence_1> پیپلزپارٹی کی قیادت کا کہنا تھا کہ پاکستان سپریم اور آئین کی بالادستی ترجیح ہے</sentence_1>
+<sentence_2> بیشتر ارکان کا کہنا تھا کہ موجودہ صورتحال مسلم لیگ ن کی ہی پیدا کردہ ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "5" pair_no = "51" >
+<sentence_1> پیپلزپارٹی کی قیادت کا کہنا تھا کہ پاکستان سپریم اور آئین کی بالادستی ترجیح ہے</sentence_1>
+<sentence_2> پیپلز پارٹی نے انتخابی اصلاحات کا عمل وسیع تر مشاورت اور مقررہ وقت کے اندر مکمل کرنے کا بھی مطالبہ کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "58" shared_words = "7" pair_no = "52" >
+<sentence_1>سنٹرل ایگزیکٹو کمیٹی کے اجلاس میں بحران کو سیاسی انداز سے حل کرنے پر غور کیا گیا</sentence_1>
+<sentence_2> وہ دبئی میں  پارٹی کی سنٹرل ایگزیکٹو کمیٹی کے پہلے اجلاس سے خطاب کر رہے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "48" shared_words = "6" pair_no = "53" >
+<sentence_1>سنٹرل ایگزیکٹو کمیٹی کے اجلاس میں بحران کو سیاسی انداز سے حل کرنے پر غور کیا گیا</sentence_1>
+<sentence_2> ساڑھے 4 گھنٹے کے اجلاس میں ملکی سیاسی صورتحال پر سخت تشویش کا اظہارکیا  گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "65" shared_words = "5" pair_no = "54" >
+<sentence_1> تحریک انصاف اور عوامی تحریک کی جانب سے استعفوں کے مطالبے پرناپسندیدگی کا اظہار کیا گیا</sentence_1>
+<sentence_2> وہ دبئی میں  پارٹی کی سنٹرل ایگزیکٹو کمیٹی کے پہلے اجلاس سے خطاب کر رہے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "110" shared_words = "7" pair_no = "55" >
+<sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین ،دھات کی فیکٹری میں دھماکہ،65 افراد ہلاک ،150زخمی فیکٹری کنشان شہر میں واقع تھی،دھماکے کے وقت 200 افراد سے زائد پوجود تھے، بیشتر زخمیوں کی حالت نازک</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "56" shared_words = "5" pair_no = "56" >
+<sentence_1> تحریک انصاف اور عوامی تحریک کی جانب سے استعفوں کے مطالبے پرناپسندیدگی کا اظہار کیا گیا</sentence_1>
+<sentence_2> ساڑھے 4 گھنٹے کے اجلاس میں ملکی سیاسی صورتحال پر سخت تشویش کا اظہارکیا  گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "56" shared_words = "9" pair_no = "57" >
+<sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین(مانیٹرنگ ڈیسک) چین کے مشرقی علاقےمیں ایک فیکٹری میں دھماکے کے نتیجے میں،65 افراد ہلاک اور 150 زخمی ہو گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "112" shared_words = "7" pair_no = "58" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین ،دھات کی فیکٹری میں دھماکہ،65 افراد ہلاک ،150زخمی فیکٹری کنشان شہر میں واقع تھی،دھماکے کے وقت 200 افراد سے زائد پوجود تھے، بیشتر زخمیوں کی حالت نازک</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "70" shared_words = "5" pair_no = "59" >
+<sentence_1> تحریک انصاف اور عوامی تحریک کی جانب سے استعفوں کے مطالبے پرناپسندیدگی کا اظہار کیا گیا</sentence_1>
+<sentence_2> بلاول بھٹو نے سندھ حکومت کی کارکردگی پر عدم اطمینان کا اظہار کرتے ہوئے شدید تنقید کی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "49" shared_words = "9" pair_no = "60" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین(مانیٹرنگ ڈیسک) چین کے مشرقی علاقےمیں ایک فیکٹری میں دھماکے کے نتیجے میں،65 افراد ہلاک اور 150 زخمی ہو گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "77" shared_words = "6" pair_no = "61" >
+<sentence_1> تحریک انصاف اور عوامی تحریک کی جانب سے استعفوں کے مطالبے پرناپسندیدگی کا اظہار کیا گیا</sentence_1>
+<sentence_2> پیپلز پارٹی نے انتخابی اصلاحات کا عمل وسیع تر مشاورت اور مقررہ وقت کے اندر مکمل کرنے کا بھی مطالبہ کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "58" shared_words = "9" pair_no = "62" >
+<sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+<sentence_2>چین(مانیٹرنگ ڈیسک) چین کے مشرقی علاقےمیں ایک فیکٹری میں دھماکے کے نتیجے میں،65 افراد ہلاک اور 150 زخمی ہو گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "79" shared_words = "6" pair_no = "63" >
+<sentence_1> تحریک انصاف اور عوامی تحریک کی جانب سے استعفوں کے مطالبے پرناپسندیدگی کا اظہار کیا گیا</sentence_1>
+<sentence_2> اس موقع پر ذوالفقار علی بھٹو، بینظیر بھٹو کی قربانیوں کو خراج تحسین اور زرداری کی فراست کو خراج تحسین پیش کیا گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "71" shared_words = "8" pair_no = "64" >
+<sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+<sentence_2>مکامی لوگوں کا کہنا ہے کہ دھماکے کے وقت فیکٹری میں 200 سے زائد افراد موجود تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "8" pair_no = "65" >
+<sentence_1> کمیٹی نے بدلتی صورتحال میں فیصلوں کا اختیار آصف علی زرداری اور بلاول بھٹو کو دے دیا ہے</sentence_1>
+<sentence_2> بلاول بھٹو نے مذاکرات کو ہی موجودہ سیاسی صورتحال کا بہترین حل قرار دیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "70" shared_words = "5" pair_no = "66" >
+<sentence_1> کمیٹی نے بدلتی صورتحال میں فیصلوں کا اختیار آصف علی زرداری اور بلاول بھٹو کو دے دیا ہے</sentence_1>
+<sentence_2> بلاول بھٹو نے سندھ حکومت کی کارکردگی پر عدم اطمینان کا اظہار کرتے ہوئے شدید تنقید کی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "72" shared_words = "6" pair_no = "67" >
+<sentence_1> کمیٹی نے بدلتی صورتحال میں فیصلوں کا اختیار آصف علی زرداری اور بلاول بھٹو کو دے دیا ہے</sentence_1>
+<sentence_2> پیپلز پارٹی نے انتخابی اصلاحات کا عمل وسیع تر مشاورت اور مقررہ وقت کے اندر مکمل کرنے کا بھی مطالبہ کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "95" shared_words = "6" pair_no = "68" >
+<sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین میں کاروں کے پرزے بنانیوالی فیکٹری میں دھماکہ،68 ہلاک  120 افراد زخمی،کئی کی حالت تشویشناک،امدادی کاروائیاں جاری ،تحقیقات شروع</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "90" shared_words = "6" pair_no = "69" >
+<sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>بیجنگ(نیوز ایجنسیاں،مانیٹرنگ ڈیسک) چین کے مشرقی علاقے میں کاروں کے پرزے بنانے والی ایک فیکٹری میں دھماکہ ،68 افراد ہلاک،120 زخمی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "109" shared_words = "13" pair_no = "70" >
+<sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین کے سرکاری ٹی وی کی رپورٹ کے مطابق ملک کے مشرقی صوبےجیانگ سو کے کنشان شہرکی فیکٹری میں صبح کے وقت دھماکہ ہوا جس کے نتیجے میں68افراد ہلاک اور 120 زخمی ہو گئے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "106" shared_words = "17" pair_no = "71" >
+<sentence_1>چیمپئنز لیگ ٹی 20 میں لاہور لائنز اپنا آخری اور اہم لیگ میچ (آج) آسٹریلیا کی پرتھ سکارچرز کے خلاف کھیلے گی لاہور لائنز کو سیمی فائنل میں پہنچنے کیلئے پرتھ سکارچر کو بڑے مارجن سے شکست دینا ہوگی</sentence_1>
+<sentence_2>چیمپئنز لیگ :لاہور لائنز کے لیے ’’کرو یا مرو ‘‘ کی صورتحال سیمی فائنل میں رسائی کیلیے آج پرتھ اسکور چرز کو بھاری مارجن سے کچلنا ہو گا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "92" shared_words = "6" pair_no = "72" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین میں کاروں کے پرزے بنانیوالی فیکٹری میں دھماکہ،68 ہلاک  120 افراد زخمی،کئی کی حالت تشویشناک،امدادی کاروائیاں جاری ،تحقیقات شروع</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "86" shared_words = "6" pair_no = "73" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>بیجنگ(نیوز ایجنسیاں،مانیٹرنگ ڈیسک) چین کے مشرقی علاقے میں کاروں کے پرزے بنانے والی ایک فیکٹری میں دھماکہ ،68 افراد ہلاک،120 زخمی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "169" shared_words = "5" pair_no = "74" >
+<sentence_1>بھارتی فوجیوں کے ہاتھوں کولگام میں دو کشمیر ی نوجوان شہید</sentence_1>
+<sentence_2>مقبوضہ کشمیربھارتی فوج نے 4 نوجوانوں کو شہید کر ڈالا 3نوجوانوں کوکولگام میں محاصرے اور تلاشی کی کارروائی کے دوران شہید کیا گیا،بمباری سے دو گھر تباہ،عوام کا شہادتوں کیخلاف احتجاج،پولیس نے گولی چلا دی،متعدد افراد زخمی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "101" shared_words = "13" pair_no = "75" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین کے سرکاری ٹی وی کی رپورٹ کے مطابق ملک کے مشرقی صوبےجیانگ سو کے کنشان شہرکی فیکٹری میں صبح کے وقت دھماکہ ہوا جس کے نتیجے میں68افراد ہلاک اور 120 زخمی ہو گئے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "56" shared_words = "5" pair_no = "76" >
+<sentence_1>بھارتی فوجیوں کے ہاتھوں کولگام میں دو کشمیر ی نوجوان شہید</sentence_1>
+<sentence_2>کولگام میں ہی بھارتی فوج نے ایک نوجوان طالبعلم کو بھی گولی ما ر کر شہید کر ڈالا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "150" shared_words = "12" pair_no = "77" >
+<sentence_1>14 نومبر (اے پی پی) مقبوضہ کشمیرمیں بھارتی فوجیوں نے ریاستی دہشت گردی کی تازہ کارروائی کے دوران ضلع کولگام میں دو کشمیری نوجوا ن شہید کر دیے </sentence_1>
+<sentence_2>مقبوضہ کشمیربھارتی فوج نے 4 نوجوانوں کو شہید کر ڈالا 3نوجوانوں کوکولگام میں محاصرے اور تلاشی کی کارروائی کے دوران شہید کیا گیا،بمباری سے دو گھر تباہ،عوام کا شہادتوں کیخلاف احتجاج،پولیس نے گولی چلا دی،متعدد افراد زخمی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "7" pair_no = "78" >
+<sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>بیجنگ (نیٹ نیوز) چین میں فیکٹری میں دھماکے سے65 افراد ہلاک جبکہ تقریباً 120 کے زخمی ہونے کی اطلاعات ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "76" shared_words = "6" pair_no = "79" >
+<sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>سرکاری ٹی وی کے مطابق ملک کے مشرق میں واقع صنعتی صوبے جیانگ سو کے کنشان شہرکی فیکٹری میں دھماکہ ہوا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "46" shared_words = "5" pair_no = "80" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین :فیکٹری میں دھماکہ،65 افراد ہلاک</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "61" shared_words = "7" pair_no = "81" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>بیجنگ (نیٹ نیوز) چین میں فیکٹری میں دھماکے سے65 افراد ہلاک جبکہ تقریباً 120 کے زخمی ہونے کی اطلاعات ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "75" shared_words = "6" pair_no = "82" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>سرکاری ٹی وی کے مطابق ملک کے مشرق میں واقع صنعتی صوبے جیانگ سو کے کنشان شہرکی فیکٹری میں دھماکہ ہوا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "77" shared_words = "7" pair_no = "83" >
+<sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+<sentence_2>بیجنگ (نیٹ نیوز) چین میں فیکٹری میں دھماکے سے65 افراد ہلاک جبکہ تقریباً 120 کے زخمی ہونے کی اطلاعات ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "51" shared_words = "7" pair_no = "84" >
+<sentence_1> فوجیوں نے علاقے میں دو رہائشی مکانات بھی گولہ باری کر کے مسمار کر دیے</sentence_1>
+<sentence_2>فوج نے علاقے میں گولہ باری کی جسکے نتیجے میں دو گھر تباہ اور متعدد افراد زخمی ہوگئے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "55" shared_words = "5" pair_no = "85" >
+<sentence_1> فوجیوں نے علاقے میں دو رہائشی مکانات بھی گولہ باری کر کے مسمار کر دیے</sentence_1>
+<sentence_2>کولگام میں ہی بھارتی فوج نے ایک نوجوان طالبعلم کو بھی گولی ما ر کر شہید کر ڈالا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "154" shared_words = "5" pair_no = "86" >
+<sentence_1>افغانستان سرحد پار حملوں بارے ثبوت فراہم کرے،سرتاج عزیز</sentence_1>
+<sentence_2>اسلام آباد (اے این این+ آن لائن+ سٹاف رپورٹر+ این این آئی) پاکستان نے افغانستان سے کہا ہے کہ وہ اس کے دہشت گردی کی کارروائیاں اور سرحد پار گولہ باری میں ملوث ہونے کے ثبوت فراہم کرے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "71" shared_words = "7" pair_no = "87" >
+<sentence_1>چین نیا بین البراعظمی بلیسٹک میزائل بنانے پر کام کر رہا ہے</sentence_1>
+<sentence_2>چین کی نئے بین البر اعظمی میزائل بنانے کی تصدیق  بیلسٹک میزائل امریکہ میں کئی اہداف کو نشانہ بنانے کی صلاحیت رکھتا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "48" shared_words = "5" pair_no = "88" >
+<sentence_1>چین نیا بین البراعظمی بلیسٹک میزائل بنانے پر کام کر رہا ہے</sentence_1>
+<sentence_2>بیجنگ(مانیٹرنگ ڈیسک ) چین کی نئے بین البر اعظمی میزائل بنانے کی تصدیق کر دی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "80" shared_words = "8" pair_no = "89" >
+<sentence_1>02 اگست (اے پی پی) چین نیا بین البراعظمی بلیسٹک میزائل بنانے پر کام کر رہا ہے </sentence_1>
+<sentence_2>چین کی نئے بین البر اعظمی میزائل بنانے کی تصدیق  بیلسٹک میزائل امریکہ میں کئی اہداف کو نشانہ بنانے کی صلاحیت رکھتا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "44" shared_words = "5" pair_no = "90" >
+<sentence_1>02 اگست (اے پی پی) چین نیا بین البراعظمی بلیسٹک میزائل بنانے پر کام کر رہا ہے </sentence_1>
+<sentence_2>بیجنگ(مانیٹرنگ ڈیسک ) چین کی نئے بین البر اعظمی میزائل بنانے کی تصدیق کر دی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "5" pair_no = "91" >
+<sentence_1> ذرائع ابلاغ کے مطابق چین نیا بین البراعظمی بیلسٹک میزائل ’’ دون فین 41‘‘ بنانے پر کام کر رہا ہے</sentence_1>
+<sentence_2>بیجنگ(مانیٹرنگ ڈیسک ) چین کی نئے بین البر اعظمی میزائل بنانے کی تصدیق کر دی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "67" shared_words = "5" pair_no = "92" >
+<sentence_1> ذرائع ابلاغ کے مطابق چین نیا بین البراعظمی بیلسٹک میزائل ’’ دون فین 41‘‘ بنانے پر کام کر رہا ہے</sentence_1>
+<sentence_2>بیلسٹک میزائل امریکہ میں کئی اہداف کو نشانہ بنانے کی صلاحیت رکھتا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "31" shared_words = "5" pair_no = "93" >
+<sentence_1>دپیکا پڈوکون نے فلم ’’پیکو‘‘ کے لئے بنگالی زبان سیکھنا شروع کردی</sentence_1>
+<sentence_2>میں نے فلم " پیکو" کے لئے بنگالی سیکھی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "5" pair_no = "94" >
+<sentence_1> اس بات کی تصدیق چینی فوج کی طرف سے یکم اگست کو چین کے یوم آزادی کے موقع پر کی گئی </sentence_1>
+<sentence_2>چین کے فوجی امور انتہائی خفیہ رکھے جاتے ہیں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "60" shared_words = "10" pair_no = "95" >
+<sentence_1> فلم پیکو کی مرکزی کاسٹ میں امیتابھ بچن بھی شامل ہیں جو کہ فلم میں دپیکا کے والد بنیں گے</sentence_1>
+<sentence_2>شوجت سرکار کی ہدایتکاری میں بننے والی فلم " پیکو" میں امیتابھ بچن ،دیپیکا کے والد کا کردار کریں گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "79" shared_words = "6" pair_no = "96" >
+<sentence_1> فلم پیکو کی مرکزی کاسٹ میں امیتابھ بچن بھی شامل ہیں جو کہ فلم میں دپیکا کے والد بنیں گے</sentence_1>
+<sentence_2>میں عرفان خان اور امتیاز علی کی فلم"تماشہ" کے علاوہ سنجے لیلا بھنسالی فلم "باجی راؤ مستانی "کر رہی ہوں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "146" shared_words = "11" pair_no = "97" >
+<sentence_1>سپریم کورٹ نے جسٹس انورظہیرجمالی کی بطورقائم مقام چیف الیکشن کمشنر نامزدگی واپس لے لی فیصلہ 5 دسمبرسے نافذ العمل ہوگا</sentence_1>
+<sentence_2>اسلام آباد(نیوز ایجنسیاں)چیف جسٹس آف پاکستان جسٹس ناصر الملک نے حکومت کو مستقل چیف الیکشن کمشنرکیلئے 5تک کی مہلت دیتے ہوئے قائم مقام چیف الیکشن کمشنرانور ظہیر جمالی کی خدمات کو واپس لینے حکم نامہ جاری کر دیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "77" shared_words = "5" pair_no = "98" >
+<sentence_1>سپریم کورٹ نے جسٹس انورظہیرجمالی کی بطورقائم مقام چیف الیکشن کمشنر نامزدگی واپس لے لی فیصلہ 5 دسمبرسے نافذ العمل ہوگا</sentence_1>
+<sentence_2>انہوں نے عدالت سے استدعاکی کہ چیف الیکشن کمشنر کی تعیناتی کے لئے مزید قوت دیا جائے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "130" shared_words = "5" pair_no = "99" >
+<sentence_1>جج لوگوں کو شاہراہ دستور سے نہیں ہٹا سکتے ،سپریم کورٹ</sentence_1>
+<sentence_2>مظاہرین شاہراہ دستور کی بجائے دوسری جگہ دھرنا دیں : سپریم کورٹ حکومت کو کنٹینر ہٹانے کی ہدایت‘ کسی غیر آئینی اقدام کی حمایت نہیں کرینگے عمران نے جواب داخل کرا دیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "132" shared_words = "11" pair_no = "100" >
+<sentence_1>24 نومبر (اے پی پی) چیف جسٹس ناصرالملک نے سپریم کورٹ کے جج انورظہیرجمالی کی بطورقائم مقام چیف الیکشن کمشنرکی نامزدگی واپس لے لی، یہ فیصلہ 5 دسمبرسے نافذ العمل ہوگا </sentence_1>
+<sentence_2>اسلام آباد(نیوز ایجنسیاں)چیف جسٹس آف پاکستان جسٹس ناصر الملک نے حکومت کو مستقل چیف الیکشن کمشنرکیلئے 5تک کی مہلت دیتے ہوئے قائم مقام چیف الیکشن کمشنرانور ظہیر جمالی کی خدمات کو واپس لینے حکم نامہ جاری کر دیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "48" shared_words = "11" pair_no = "101" >
+<sentence_1> تحریک انصاف نے کہا ہے کہ ان کے کسی اقدام سے ماورائے آئین اقدام کا کوئی خطرہ نہیں</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "70" shared_words = "8" pair_no = "102" >
+<sentence_1>پاکستان سمیت دنیا بھر میں خواتین پر تشدد کے خاتمہ کا عالمی دن آج منایا جائیگا</sentence_1>
+<sentence_2>پاکستان میں خواتین پر جنسی حملوں میں لگ بھگ 50فیصد اور گھریلو تشدد کے واقعات میں 25فیصد اضافہ ریکارڈ ہوا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "60" shared_words = "6" pair_no = "103" >
+<sentence_1>پاکستان سمیت دنیا بھر میں خواتین پر تشدد کے خاتمہ کا عالمی دن آج منایا جائیگا</sentence_1>
+<sentence_2>پاکستان میں خواتین کے ساتھ امتیازی سلوک کے خاتمے کیلئے حالیہ برسوں میں نئی قانون سازی بھی ہوئی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "76" shared_words = "7" pair_no = "104" >
+<sentence_1>چیف جسٹس ناصرالملک نے جواب دیتے ہوئے کہا کہ ایمرجنسی کے حوالے سے اعتزاز احسن کی درخواست پر کوئی حکم جاری نہیں ہوا تھا</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "2" shared_words = "36" pair_no = "105" >
+<sentence_1>جسٹس جواد ایس خواجہ نے ریمارکس دیتے ہوئے کہا کہ ہم پانچ جج جاکر لوگوں کو شاہراہ دستور سے نہیں ہٹا سکتے یہ کام انتظامیہ کا ہے‘ حکومت کہاں ہے وہ اپنا فرض کیوں ادا نہیں کررہی</sentence_1>
+<sentence_2> جسٹس جواد ایس خواجہ نے ریمارکس دیتے ہوئے کہا کہ ہم پانچ جج جاکر لوگوں کو شاہراہ دستور سے نہیں ہٹا سکتے یہ کام انتظامیہ کا ہے‘ حکومت کہاں ہے وہ اپنا فرض کیوں ادا نہیں کر رہی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "46" shared_words = "7" pair_no = "106" >
+<sentence_1>جسٹس ثاقب نثار نے ریمارکس دیتے ہوئے کہا کہ حکومت کنٹینر ہٹائے اور مظاہرین شاہراہ دستور خالی کردیں</sentence_1>
+<sentence_2> حکومت کنیٹنرز ہٹائے اور مظاہرین شاہراہ دستور خالی کر دیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "71" shared_words = "6" pair_no = "107" >
+<sentence_1>جسٹس ثاقب نثار نے ریمارکس دیتے ہوئے کہا کہ حکومت کنٹینر ہٹائے اور مظاہرین شاہراہ دستور خالی کردیں</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "26" shared_words = "7" pair_no = "108" >
+<sentence_1>بالی وڈ فلم ’’انگلش ونگلش‘‘ نے جاپان میں 10 لاکھ ڈالر کا بزنس کر لیا</sentence_1>
+<sentence_2>"انگلش ونگلش" نے جاپان میں ایک ملین ڈالر کا بزنس لیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "55" shared_words = "10" pair_no = "109" >
+<sentence_1>بالی وڈ فلم ’’انگلش ونگلش‘‘ نے جاپان میں 10 لاکھ ڈالر کا بزنس کر لیا</sentence_1>
+<sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ سری دیوی کی فلم "انگلش ونگلش" نے جاپان میں ایک ملین ڈالر کا بزنس لیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "59" shared_words = "7" pair_no = "110" >
+<sentence_1> 02 ستمبر (اے پی پی) بالی وڈ فلم ’’انگلش ونگلش‘‘ نے جاپان کے باکس آفس میں 10 لاکھ ڈالر کا بزنس کر لیا</sentence_1>
+<sentence_2>"انگلش ونگلش" نے جاپان میں ایک ملین ڈالر کا بزنس لیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "10" pair_no = "111" >
+<sentence_1> 02 ستمبر (اے پی پی) بالی وڈ فلم ’’انگلش ونگلش‘‘ نے جاپان کے باکس آفس میں 10 لاکھ ڈالر کا بزنس کر لیا</sentence_1>
+<sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ سری دیوی کی فلم "انگلش ونگلش" نے جاپان میں ایک ملین ڈالر کا بزنس لیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "78" shared_words = "5" pair_no = "112" >
+<sentence_1> 02 ستمبر (اے پی پی) بالی وڈ فلم ’’انگلش ونگلش‘‘ نے جاپان کے باکس آفس میں 10 لاکھ ڈالر کا بزنس کر لیا</sentence_1>
+<sentence_2> یہ فلم جاپان میں 28 جون کر ریلیز ہوئی تھی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "72" shared_words = "7" pair_no = "113" >
+<sentence_1> اداکارہ سری دیوی نے کہا کہ وہ جاپان میں فلم کو پذیرائی ملنے پر بہت خوش ہیں</sentence_1>
+<sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ سری دیوی کی فلم "انگلش ونگلش" نے جاپان میں ایک ملین ڈالر کا بزنس لیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "58" shared_words = "11" pair_no = "114" >
+<sentence_1> اداکارہ سری دیوی نے کہا کہ وہ جاپان میں فلم کو پذیرائی ملنے پر بہت خوش ہیں</sentence_1>
+<sentence_2>اس بارے میں سری دیوی نے کہا کہ مجھے خوشی ہے کہ میری فلم "انگلش ونگلش" نے جاپان میں اچھا بزنس کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "6" pair_no = "115" >
+<sentence_1> اداکارہ سری دیوی نے کہا کہ وہ جاپان میں فلم کو پذیرائی ملنے پر بہت خوش ہیں</sentence_1>
+<sentence_2>انہوں نے کہا کہ تعریف ہر کسی کو اچھی لگتی ہے لیکن میں تعریف کے ساتھ ساتھ تنقید پر توجہ دیتی ہوں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "7" pair_no = "116" >
+<sentence_1> اداکارہ سری دیوی نے کہا کہ وہ جاپان میں فلم کو پذیرائی ملنے پر بہت خوش ہیں</sentence_1>
+<sentence_2> انہوں نے کہا کہ تعریف ہر کسی کو اچھی لگتی ہے لیکن میں تعریف کے ساتھ ساتھ تنقید پر توجہ دیتی ہوں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "64" shared_words = "9" pair_no = "117" >
+<sentence_1> امید ہے کہ فلم آئندہ دنوں میں مزید اچھا بزنس کرے گی</sentence_1>
+<sentence_2>اس بارے میں سری دیوی نے کہا کہ مجھے خوشی ہے کہ میری فلم "انگلش ونگلش" نے جاپان میں اچھا بزنس کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "51" shared_words = "5" pair_no = "118" >
+<sentence_1> امید ہے کہ فلم آئندہ دنوں میں مزید اچھا بزنس کرے گی</sentence_1>
+<sentence_2>مجھے اس بات کی خوشی ہے کہ جاپان میں پرستاروں کی تعداد میں اضافہ ہوا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "71" shared_words = "5" pair_no = "119" >
+<sentence_1> امید ہے کہ فلم آئندہ دنوں میں مزید اچھا بزنس کرے گی</sentence_1>
+<sentence_2>مجھے مشکل کردار کر کے خوشی ہوتی ہے کیونکہ جو مزہ مشکل کرداروں میں ہے وہ کسی اور کردار میں نہیں ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "71" shared_words = "8" pair_no = "120" >
+<sentence_1>تحریک انصاف یقین دلاتی ہے کہ کوئی ایسا اقدام نہیں اٹھایا جائے گا کہ جس سے ماورائے آئین اقدام ہونے کا کوئی امکان ہو</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "115" shared_words = "14" pair_no = "121" >
+<sentence_1>میسی کے ریکارڈز بنانے کا سلسلہ جاری،سٹار فٹ بالر نے چیمپئنز لیگ تاریخ میں زیادہ گولز کا نیا عالمی ریکارڈ اپنے قبضے میں کر لیا</sentence_1>
+<sentence_2>بارسلونا(نیٹ نیوز)بارسلونا کے فٹ بالر لیونل لیگ میں سب سے زیادہ اپول نکوسیا کے خلاف ہیٹ ٹرک کرکے چیمپےئز لیگ میں سب سے زیادہ گول کرنے والے کھلاڑی ہونے کا اعزاز اپنے نام کر لیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "85" shared_words = "6" pair_no = "122" >
+<sentence_1>میسی کے ریکارڈز بنانے کا سلسلہ جاری،سٹار فٹ بالر نے چیمپئنز لیگ تاریخ میں زیادہ گولز کا نیا عالمی ریکارڈ اپنے قبضے میں کر لیا</sentence_1>
+<sentence_2>میسی نے اس میچ سے قبل چیمپئنز لیگ میں 71گول کئے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "124" shared_words = "15" pair_no = "123" >
+<sentence_1>26 نومبر (اے پی پی) شہرہ آفاق ارجنٹائن فٹ بالر لائنل میسی کے ریکارڈز بنانے کا سلسلہ جاری ہے، سٹار فٹ بالر نے چیمپئنز فٹ بال لیگ تاریخ میں زیادہ گولز کا نیا عالمی ریکارڈ اپنے قبضے میں کر لیا</sentence_1>
+<sentence_2>بارسلونا(نیٹ نیوز)بارسلونا کے فٹ بالر لیونل لیگ میں سب سے زیادہ اپول نکوسیا کے خلاف ہیٹ ٹرک کرکے چیمپےئز لیگ میں سب سے زیادہ گول کرنے والے کھلاڑی ہونے کا اعزاز اپنے نام کر لیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "147" shared_words = "6" pair_no = "124" >
+<sentence_1>26 نومبر (اے پی پی) شہرہ آفاق ارجنٹائن فٹ بالر لائنل میسی کے ریکارڈز بنانے کا سلسلہ جاری ہے، سٹار فٹ بالر نے چیمپئنز فٹ بال لیگ تاریخ میں زیادہ گولز کا نیا عالمی ریکارڈ اپنے قبضے میں کر لیا</sentence_1>
+<sentence_2>میسی نے اس میچ سے قبل چیمپئنز لیگ میں 71گول کئے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "7" pair_no = "125" >
+<sentence_1> میسی نے چیمپئنز لیگ میں نیکوسیا کے خلاف میچ میں شاندار ہیٹرک کر کے یہ کارنامہ انجام دیا</sentence_1>
+<sentence_2>میسی نے اس میچ سے قبل چیمپئنز لیگ میں 71گول کئے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "59" shared_words = "5" pair_no = "126" >
+<sentence_1> میسی نے چیمپئنز لیگ میں نیکوسیا کے خلاف میچ میں شاندار ہیٹرک کر کے یہ کارنامہ انجام دیا</sentence_1>
+<sentence_2>میسی نے اپنا پہلا گول میچ میں 38ویں منٹ میں کیا،دوسرا 58ویں منٹ اور تیسرا87ویں منٹ میں کیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "5" pair_no = "127" >
+<sentence_1> میسی نے چیمپئنز لیگ میں نیکوسیا کے خلاف میچ میں شاندار ہیٹرک کر کے یہ کارنامہ انجام دیا</sentence_1>
+<sentence_2>رال نے 71گول142میچوں مے کیے تھے جب کہ میسی نے 74گول 91میچوں میں کیے ہیں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "48" shared_words = "6" pair_no = "128" >
+<sentence_1> اس سے قبل اس ریکارڈ پر راہول کا قبضہ تھا، انہوں نے 71 گول سکور کر رکھے تھے</sentence_1>
+<sentence_2>میسی نے اس میچ سے قبل چیمپئنز لیگ میں 71گول کئے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "41" shared_words = "5" pair_no = "129" >
+<sentence_1> اس سے قبل اس ریکارڈ پر راہول کا قبضہ تھا، انہوں نے 71 گول سکور کر رکھے تھے</sentence_1>
+<sentence_2>اس سے قبل میسی اور رےئل میڈرڈ کے رال 71گول کرکے برابر تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "73" shared_words = "6" pair_no = "130" >
+<sentence_1>کامیڈی کے ساتھ ایکشن والی فلمیں پسند ہیں۔اکشے کمار</sentence_1>
+<sentence_2>ممبئی(وقت نیوز ) بالی وڈ کے اداکار اکشے کمار کا کہنا ہے کہ مجھے ایکشن کامیڈی فلمیں کرنا پسند ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "104" shared_words = "5" pair_no = "131" >
+<sentence_1>کامیڈی کے ساتھ ایکشن والی فلمیں پسند ہیں۔اکشے کمار</sentence_1>
+<sentence_2>انہوں نے پریس ٹرسٹ آف انڈیا سے انٹرویو میں کہا کہ میں نے اگرچہ ایکشن فلموں سے داد سمیٹی ہے لیکن مجھے اب ایکشن کامیڈی فلمیں پسند ہیں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "100" shared_words = "12" pair_no = "132" >
+<sentence_1>محمد حفیظ نے نیوزی لینڈ کے خلاف آخری ٹیسٹ کی پہلی اننگز میں سنچری داغ دی</sentence_1>
+<sentence_2>شارجہ(سپورٹس ڈیسک)محمد حفیظ کی شاندار بیٹنگ کی بدولت پاکستان نے نیوزی لینڈ کیخلاف آخری ٹیسٹ کے پہلے روز کھیل ختم ہونے تک پہلی اننگز میں 3وکٹوں پر 281رنز بنا لئے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "86" shared_words = "5" pair_no = "133" >
+<sentence_1> 03 اگست (اے پی پی) بالی ووڈ اداکار اکشے کمار نے کہا ہے کہ انہیں کامیڈی کے ساتھ ایکشن والی فلمیں پسند ہیں</sentence_1>
+<sentence_2>ایکشن کامیڈی فلمیں کرنا پسند ہے، اکشے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "52" shared_words = "11" pair_no = "134" >
+<sentence_1> 03 اگست (اے پی پی) بالی ووڈ اداکار اکشے کمار نے کہا ہے کہ انہیں کامیڈی کے ساتھ ایکشن والی فلمیں پسند ہیں</sentence_1>
+<sentence_2>ممبئی(وقت نیوز ) بالی وڈ کے اداکار اکشے کمار کا کہنا ہے کہ مجھے ایکشن کامیڈی فلمیں کرنا پسند ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "79" shared_words = "12" pair_no = "135" >
+<sentence_1> 03 اگست (اے پی پی) بالی ووڈ اداکار اکشے کمار نے کہا ہے کہ انہیں کامیڈی کے ساتھ ایکشن والی فلمیں پسند ہیں</sentence_1>
+<sentence_2>انہوں نے پریس ٹرسٹ آف انڈیا سے انٹرویو میں کہا کہ میں نے اگرچہ ایکشن فلموں سے داد سمیٹی ہے لیکن مجھے اب ایکشن کامیڈی فلمیں پسند ہیں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "56" shared_words = "10" pair_no = "136" >
+<sentence_1>عوامی تحریک نے مسلم لیگ (ن) کی طرح سپریم کورٹ پر حملہ نہیں کیا</sentence_1>
+<sentence_2> عوامی تحریک نے مسلم لیگ (ن)کی طرح عدلیہ پر حملہ نہیں کیا، لوگوں کی نقل و حرکت میں حکومت رکاوٹ بن رہی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "103" shared_words = "13" pair_no = "137" >
+<sentence_1>26 نومبر (اے پی پی) پاکستان کرکٹ ٹیم کے سٹار اوپننگ بلے باز محمد حفیظ نے نیوزی لینڈ کے خلاف آخری ٹیسٹ کی پہلی اننگز میں سنچری داغ دی</sentence_1>
+<sentence_2>شارجہ(سپورٹس ڈیسک)محمد حفیظ کی شاندار بیٹنگ کی بدولت پاکستان نے نیوزی لینڈ کیخلاف آخری ٹیسٹ کے پہلے روز کھیل ختم ہونے تک پہلی اننگز میں 3وکٹوں پر 281رنز بنا لئے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "61" shared_words = "5" pair_no = "138" >
+<sentence_1>عوامی تحریک نے مسلم لیگ (ن) کی طرح سپریم کورٹ پر حملہ نہیں کیا</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "74" shared_words = "9" pair_no = "139" >
+<sentence_1> انہوں نے کہا کہ ان کی نئی آنے والی فلم انٹرٹیمنٹ کامیڈی سے بھرپور ہے جو شائقین کو ضرور پسند آئے گی</sentence_1>
+<sentence_2>46 بس کے اداکار نے کہا کہ مجھے اب کامیڈی فلمیں کرنا اس وجہ سے پسند ہے کیونکہ میرا مزاج بدل گیا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "72" shared_words = "5" pair_no = "140" >
+<sentence_1>دھرنوں کی اجازت قانون دیتا ہے اس پر جسٹس ثاقب نثار نے کہا کہ لوگوں کو مشکلات کا سامنا ہے</sentence_1>
+<sentence_2> جسٹس جواد ایس خواجہ نے کہاکہ حکومت آئین اور قانون نافذ کرے،کوئی حائل ہورہا ہے تو بتائیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "61" shared_words = "6" pair_no = "141" >
+<sentence_1>دھرنوں کی اجازت قانون دیتا ہے اس پر جسٹس ثاقب نثار نے کہا کہ لوگوں کو مشکلات کا سامنا ہے</sentence_1>
+<sentence_2> سپریم کورٹ نے احتجاج کرنیوالوں کو دھرنے کی جگہ تبدیل کرنے کا حکم دیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "45" shared_words = "5" pair_no = "142" >
+<sentence_1> حفیظ نے عمدہ بیٹنگ کی بدولت کیریئر کی ساتویں سنچری بھی مکمل کی</sentence_1>
+<sentence_2>مارک کریگ نے 2اور ویٹوری نے ایک وکٹ حا صل کی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "51" shared_words = "10" pair_no = "143" >
+<sentence_1> یہ ان کی ایشیا میں چھٹی سنچری ہے جبکہ ایک سنچری انہوں نے ایشیا سے باہر زمبابوے میں بنائی تھی</sentence_1>
+<sentence_2>یہ انکی ایشیا میں چھٹی اور مجموعی طور پر ساتویں سنچری تھی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "39" shared_words = "18" pair_no = "144" >
+<sentence_1>جسٹس جواد ایس خواجہ نے کہا کہ عدالت کا دروازہ شاہراہ دستور پر کھلتا ہے ہمیں متبادل راستے سے آنا پڑا</sentence_1>
+<sentence_2> جسٹس جواد ایس خواجہ نے کہاکہ سپریم کورٹ کا دروازہ شاہراہ دستور پر کھلتا ہے اور احتجاج کے باعث ہمیں متبادل راستے سے عدالت آنا پڑا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "73" shared_words = "6" pair_no = "145" >
+<sentence_1>جسٹس جواد ایس خواجہ نے کہا کہ عدالت کا دروازہ شاہراہ دستور پر کھلتا ہے ہمیں متبادل راستے سے آنا پڑا</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "167" shared_words = "9" pair_no = "146" >
+<sentence_1>وزیراعلیٰ پنجاب کی کوئٹہ میں انسداد پولیو ورکرز پر حملے کی مذمت ،4افراد کے جاں بحق ہونے پراظہار افسوس قوم کے نونہالوں کو پولیو جیسی موذی بیماری سے محفوظ بنانے والوں پر حملہ وحشیانہ فعل ہے‘ شہباز شریف</sentence_1>
+<sentence_2>کوئٹہ ،لاہور(خصوصی رپورٹر،خصوصی وقائع نگار،نیوز ایجنسیاں)کوئٹہ میں نامعلوم موٹر سائیکل سوار ملزموں نے پولیو مہم پر جانے والی ٹیم کی گاڑی پر فائرنگ کرکے 3خواتین سمیت 4افراد کو قتل اور 3خواتین کو زخمی کر دیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "54" shared_words = "6" pair_no = "147" >
+<sentence_1>جسٹس جواد ایس خواجہ نے کہا کہ عدالت کا دروازہ شاہراہ دستور پر کھلتا ہے ہمیں متبادل راستے سے آنا پڑا</sentence_1>
+<sentence_2> جسٹس جواد ایس خواجہ نے کہاکہ حکومت آئین اور قانون نافذ کرے،کوئی حائل ہورہا ہے تو بتائیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "139" shared_words = "8" pair_no = "148" >
+<sentence_1>وزیراعلیٰ پنجاب کی کوئٹہ میں انسداد پولیو ورکرز پر حملے کی مذمت ،4افراد کے جاں بحق ہونے پراظہار افسوس قوم کے نونہالوں کو پولیو جیسی موذی بیماری سے محفوظ بنانے والوں پر حملہ وحشیانہ فعل ہے‘ شہباز شریف</sentence_1>
+<sentence_2>وزیر اعظم نواز شریف نے کوئٹہ میں پولیوٹیم پر فائرنگ کا نوٹس لے کر حملہ آروں کے خلاف فوری کاروائی کا حکم دے دیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "147" shared_words = "8" pair_no = "149" >
+<sentence_1>26 نومبر(اے پی پی) وزیر اعلیٰ پنجاب محمد شہباز شریف نے کوئٹہ میں مشرقی بائی پاس پر انسداد پولیو ورکرز کی گاڑی پر حملے کی شدید مذمت کی ہے</sentence_1>
+<sentence_2>کوئٹہ ،لاہور(خصوصی رپورٹر،خصوصی وقائع نگار،نیوز ایجنسیاں)کوئٹہ میں نامعلوم موٹر سائیکل سوار ملزموں نے پولیو مہم پر جانے والی ٹیم کی گاڑی پر فائرنگ کرکے 3خواتین سمیت 4افراد کو قتل اور 3خواتین کو زخمی کر دیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "95" shared_words = "7" pair_no = "150" >
+<sentence_1>26 نومبر(اے پی پی) وزیر اعلیٰ پنجاب محمد شہباز شریف نے کوئٹہ میں مشرقی بائی پاس پر انسداد پولیو ورکرز کی گاڑی پر حملے کی شدید مذمت کی ہے</sentence_1>
+<sentence_2>وزیر اعظم نواز شریف نے کوئٹہ میں پولیوٹیم پر فائرنگ کا نوٹس لے کر حملہ آروں کے خلاف فوری کاروائی کا حکم دے دیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "75" shared_words = "5" pair_no = "151" >
+<sentence_1>جس پر جسٹس جواد ایس خواجہ نے کہا کہ آپ چاہتے ہیں کہ ہم پانچ جج جائیں اور مظاہرین کو شاہراہ دستور سے اٹھائیں</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "58" shared_words = "6" pair_no = "152" >
+<sentence_1>جس پر جسٹس جواد ایس خواجہ نے کہا کہ آپ چاہتے ہیں کہ ہم پانچ جج جائیں اور مظاہرین کو شاہراہ دستور سے اٹھائیں</sentence_1>
+<sentence_2> جسٹس جواد ایس خواجہ نے کہاکہ حکومت آئین اور قانون نافذ کرے،کوئی حائل ہورہا ہے تو بتائیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "81" shared_words = "5" pair_no = "153" >
+<sentence_1> کینیڈا نے 32 طلائی تمغوں کے ساتھ تیسری جبکہ میزبان سکاٹ لینڈ نے 19 طلائی تمغوں کے ساتھ چوتھی پوزیشن حاصل کی</sentence_1>
+<sentence_2>سکاٹ لینڈ19 کولڈ کے ساتھ چوتھے،بھارت15 کے ساتھ پانچویں نمبر پر آیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "84" shared_words = "5" pair_no = "154" >
+<sentence_1> ایتھلیٹکس مقابلوں میں کینیا اور جمیکا کے ایتھلیٹس چھائے رہے اور دونوں ممالک نے بالترتیب دس، دس گولڈ میڈل حاصل کئے</sentence_1>
+<sentence_2>انگلینڈ کے کرس لیگریج اور پٹیر ملز کو برانز میڈل پر اکتفا کرنا پڑا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "73" shared_words = "5" pair_no = "155" >
+<sentence_1> تفصیلات کے مطابق میڈلز ٹیبل پر انگلینڈ کی حکمرانی کے ساتھ 2014 دولت مشترکہ کھیلوں کا اختتام ہو گیا</sentence_1>
+<sentence_2>انگلینڈ کے کرس لیگریج اور پٹیر ملز کو برانز میڈل پر اکتفا کرنا پڑا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "5" pair_no = "156" >
+<sentence_1> تیسرے نمبر پر موجود کینیڈا کے 82 تمغوں میں 32 گولڈ16 سلور اور 34 برانز میڈلز شامل ہیں</sentence_1>
+<sentence_2>3 سلور ایک برانز میڈل جیت کر پاکستان 23ویں نمبر پر رہا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "5" pair_no = "157" >
+<sentence_1> انگلینڈ نے مجموعی طور پر174 میڈل حاصل کئے جس میں58 گولڈ 59 سلور اور 57 برانز میڈلز شامل ہیں</sentence_1>
+<sentence_2>انگلینڈ کے کرس لیگریج اور پٹیر ملز کو برانز میڈل پر اکتفا کرنا پڑا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "65" shared_words = "5" pair_no = "158" >
+<sentence_1> تیسرے نمبر پر موجود کینیڈا کے 82 تمغوں میں 32 گولڈ16 سلور اور 34 برانز میڈلز شامل ہیں</sentence_1>
+<sentence_2>انگلینڈ کے کرس لیگریج اور پٹیر ملز کو برانز میڈل پر اکتفا کرنا پڑا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "54" shared_words = "9" pair_no = "159" >
+<sentence_1>اس پر چیف جسٹس نے کہا کہ اعتزاز احسن کی درخواست پر ایسا کوئی حکم جاری نہیں ہوا تھا</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "77" shared_words = "8" pair_no = "160" >
+<sentence_1>جسٹس جواد ایس خواجہ نے کہاکہ انتظامیہ کی ذمہ داری ہے کہ وہ قانون کے مطابق عمل کرے</sentence_1>
+<sentence_2> جسٹس جواد ایس خواجہ نے کہاکہ سپریم کورٹ کا دروازہ شاہراہ دستور پر کھلتا ہے اور احتجاج کے باعث ہمیں متبادل راستے سے عدالت آنا پڑا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "7" pair_no = "161" >
+<sentence_1>جسٹس جواد ایس خواجہ نے کہاکہ انتظامیہ کی ذمہ داری ہے کہ وہ قانون کے مطابق عمل کرے</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "48" shared_words = "8" pair_no = "162" >
+<sentence_1>جسٹس جواد ایس خواجہ نے کہاکہ انتظامیہ کی ذمہ داری ہے کہ وہ قانون کے مطابق عمل کرے</sentence_1>
+<sentence_2> جسٹس جواد ایس خواجہ نے کہاکہ حکومت آئین اور قانون نافذ کرے،کوئی حائل ہورہا ہے تو بتائیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "51" shared_words = "9" pair_no = "163" >
+<sentence_1>چیف جسٹس نے کہا کہ ابھی کسی اضافی دستاویزات کی ضرورت نہیں</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "72" shared_words = "7" pair_no = "164" >
+<sentence_1>انہوں نے پاکستان عوامی تحریک سے کہا کہ وہ درخواست گزاروں کے اعتراضات کا پیراوائز مفصل جواب داخل کرائیں</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "40" shared_words = "5" pair_no = "165" >
+<sentence_1> پاکستان تین چاندی اور ایک کانسی کے تمغے کے ساتھ 23 ویں نمبر پر رہا</sentence_1>
+<sentence_2>سکاٹ لینڈ19 کولڈ کے ساتھ چوتھے،بھارت15 کے ساتھ پانچویں نمبر پر آیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "38" shared_words = "6" pair_no = "166" >
+<sentence_1> پاکستان تین چاندی اور ایک کانسی کے تمغے کے ساتھ 23 ویں نمبر پر رہا</sentence_1>
+<sentence_2>3 سلور ایک برانز میڈل جیت کر پاکستان 23ویں نمبر پر رہا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "31" shared_words = "5" pair_no = "167" >
+<sentence_1>مائیکل کلارک کی فٹنس مسائل کے باعث پاکستان کے خلاف سیریز میں شرکت مشکوک</sentence_1>
+<sentence_2>کلارک کی پاکستان کیخلاف سیریز مین شکست مشکوک</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "70" shared_words = "9" pair_no = "168" >
+<sentence_1>مائیکل کلارک کی فٹنس مسائل کے باعث پاکستان کے خلاف سیریز میں شرکت مشکوک</sentence_1>
+<sentence_2>میلبورن (رائٹرز) آسٹریلوی کپتان مائیکل کلارک کی اگلے ماہ یواے ای میں پاکستان کے خلاف ہونے ؤوالی سیریزمیں بھی شرکت مشکوک ہوگئی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "61" shared_words = "5" pair_no = "169" >
+<sentence_1>مائیکل کلارک کی فٹنس مسائل کے باعث پاکستان کے خلاف سیریز میں شرکت مشکوک</sentence_1>
+<sentence_2>انہوں نے کہا ہے کہ مائیکل کلارک کی انجری سے نجات کے لئے انتہائی نگہداشت کی ضرورت ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "102" shared_words = "5" pair_no = "170" >
+<sentence_1> 03 ستمبر (اے پی پی) آسٹریلوی ٹیم کے کپتان اور مایہ ناز بلے باز مائیکل کلارک کی فٹنس مسائل کے باعث پاکستان کے خلاف سیریز میں شرکت مشکوک ہو گئی</sentence_1>
+<sentence_2>کلارک کی پاکستان کیخلاف سیریز مین شکست مشکوک</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "78" shared_words = "13" pair_no = "171" >
+<sentence_1> 03 ستمبر (اے پی پی) آسٹریلوی ٹیم کے کپتان اور مایہ ناز بلے باز مائیکل کلارک کی فٹنس مسائل کے باعث پاکستان کے خلاف سیریز میں شرکت مشکوک ہو گئی</sentence_1>
+<sentence_2>میلبورن (رائٹرز) آسٹریلوی کپتان مائیکل کلارک کی اگلے ماہ یواے ای میں پاکستان کے خلاف ہونے ؤوالی سیریزمیں بھی شرکت مشکوک ہوگئی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "21" shared_words = "7" pair_no = "172" >
+<sentence_1>مہیش بھٹ کا تلگو فلم ’’مایا‘‘ کا ہندی ریمیک بنانے کا اعلان</sentence_1>
+<sentence_2>مہیش بھٹ تیلگو فلم " مایا" کا ہندی رس میک بنائینگے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "6" pair_no = "173" >
+<sentence_1> 3 اکتوبر (اے پی پی) بالی وڈ فلمساز مہیش بھٹ نے تلگو فلم کا ہندی ریمیک بنانے کا اعلان کردیا</sentence_1>
+<sentence_2>مہیش بھٹ تیلگو فلم " مایا" کا ہندی رس میک بنائینگے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "47" shared_words = "8" pair_no = "174" >
+<sentence_1> 3 اکتوبر (اے پی پی) بالی وڈ فلمساز مہیش بھٹ نے تلگو فلم کا ہندی ریمیک بنانے کا اعلان کردیا</sentence_1>
+<sentence_2>ممبئی(وقت نیوز ) بالی وڈ کے فلمساز مہیش بھٹ تیلگو فلم" مایا" کا ہندی ری میک بنائیں گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "57" shared_words = "6" pair_no = "175" >
+<sentence_1> ذرائع ابلاغ کے مطابق فلمساز مہیشت بھٹ نے تلگو فلم ’’مایا‘‘ کے ہندی ریمیک فلم بنانے کا اعلان کردیا ہے</sentence_1>
+<sentence_2>ممبئی(وقت نیوز ) بالی وڈ کے فلمساز مہیش بھٹ تیلگو فلم" مایا" کا ہندی ری میک بنائیں گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "75" shared_words = "7" pair_no = "176" >
+<sentence_1> ذرائع ابلاغ کے مطابق فلمساز مہیشت بھٹ نے تلگو فلم ’’مایا‘‘ کے ہندی ریمیک فلم بنانے کا اعلان کردیا ہے</sentence_1>
+<sentence_2>انڈوایشین نیوز سروس کے مطابق اس فلم کے پروڈیوسر مہیش بھٹ اور ہدایتکار نیلا کانتا ہیں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "75" shared_words = "5" pair_no = "177" >
+<sentence_1> ذرائع ابلاغ کے مطابق فلمساز مہیشت بھٹ نے تلگو فلم ’’مایا‘‘ کے ہندی ریمیک فلم بنانے کا اعلان کردیا ہے</sentence_1>
+<sentence_2>میں جب بھی کوئی فلم بناتا ہوں تو لوگوں کے جذبات کو مدنظر رکھتا ہوں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "20" shared_words = "5" pair_no = "178" >
+<sentence_1> فلم کی کاسٹ کا انتخاب ابھی ہونا باقی ہے</sentence_1>
+<sentence_2>اس فلم کی کاسٹ ابھی بائنل نہیں ہوئی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "5" pair_no = "179" >
+<sentence_1> ممکن ہے فلم میں زیادہ تر نئے چہرے لئے جائیں</sentence_1>
+<sentence_2> میری کوشش ہوتی ہے میں جس بھی فنکار کو کام دوں اس میں وہ حقیقت کے قریب تر اداکاری کرے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "51" shared_words = "8" pair_no = "180" >
+<sentence_1> 22 اگست (اے پی پی) بالی وڈ اداکارہ پریانکا چوپڑا نے کہا ہے کہ وہ صبح سویرے جاگنے کی عادی نہیں ہیں</sentence_1>
+<sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ پریانکا چوپڑا کو جلدی اٹھنا پسند نہیں ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "88" shared_words = "8" pair_no = "181" >
+<sentence_1> 22 اگست (اے پی پی) بالی وڈ اداکارہ پریانکا چوپڑا نے کہا ہے کہ وہ صبح سویرے جاگنے کی عادی نہیں ہیں</sentence_1>
+<sentence_2> سانتا بانتا نیوز کے مطابق پریانکاکو صبح جلدی اٹھنا پسند نہیں ہے وہ لیٹ نائٹ شوٹ مکمل کراتی ہیں اسی جہ سے صبح جلدی نہیں اٹھ سکتیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "58" shared_words = "5" pair_no = "182" >
+<sentence_1> اداکارہ نے کہا کہ انہیں اپنے کام سے پیار ہے اس لئے وہ ہر طرح کے چیلنج کے لئے تیار رہتی ہیں</sentence_1>
+<sentence_2>انہوں نے کہا کہ میری انوشکا کو ساتھ سرد جنگ شروع ہو گئی ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "65" shared_words = "5" pair_no = "183" >
+<sentence_1> اداکارہ ان دنوں فلم ’’میری کوم‘‘ کی تشہیری مہم میں مشغول ہیں جو جلدہی ریلیزکردی جائے گی</sentence_1>
+<sentence_2> میں نے او ر رنبھیر نے فلم پائریسی پر مہم چلانی شروع کی تھی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "73" shared_words = "6" pair_no = "184" >
+<sentence_1>کونکونا سین شرما نے نئی فلم کا سکرپٹ تحریر کرنے میں مصروف</sentence_1>
+<sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ کونکونا سین شرما نے ڈائر یکشن کے میدان میں قدم رکھنے کا فیصلہ کیا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "79" shared_words = "9" pair_no = "185" >
+<sentence_1>کونکونا سین شرما نے نئی فلم کا سکرپٹ تحریر کرنے میں مصروف</sentence_1>
+<sentence_2> انڈو ایشین نیوز سروس سے کونکونا سین شرما نے انٹرویو میں کہا کہ میں نے ڈائر یکشن کے میدان میں قدم رکھنے کا فیصلہ کیا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "54" shared_words = "10" pair_no = "186" >
+<sentence_1> 22 اگست (اے پی پی) بالی وڈ اداکارہ کونکونا سین شرما اداکاری کے بعد فلم کا سکرپٹ لکھنے میں مصروف ہیں</sentence_1>
+<sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ کونکونا سین شرما نے ڈائر یکشن کے میدان میں قدم رکھنے کا فیصلہ کیا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "81" shared_words = "10" pair_no = "187" >
+<sentence_1> 22 اگست (اے پی پی) بالی وڈ اداکارہ کونکونا سین شرما اداکاری کے بعد فلم کا سکرپٹ لکھنے میں مصروف ہیں</sentence_1>
+<sentence_2> انڈو ایشین نیوز سروس سے کونکونا سین شرما نے انٹرویو میں کہا کہ میں نے ڈائر یکشن کے میدان میں قدم رکھنے کا فیصلہ کیا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "5" pair_no = "188" >
+<sentence_1> 22 اگست (اے پی پی) بالی وڈ اداکارہ کونکونا سین شرما اداکاری کے بعد فلم کا سکرپٹ لکھنے میں مصروف ہیں</sentence_1>
+<sentence_2> میں جسے ہی سکرپٹ رائٹنگ سے فار غ ہوں گی فلم کے ہدایت کے بارے میں سوچوں گی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "52" shared_words = "7" pair_no = "189" >
+<sentence_1> ممکن ہے کہ وہ اپنی تحریر کردہ فلم میں ہدایتکاری کے بھی فرائض سرانجام دیں</sentence_1>
+<sentence_2> میں جسے ہی سکرپٹ رائٹنگ سے فار غ ہوں گی فلم کے ہدایت کے بارے میں سوچوں گی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "6" pair_no = "190" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2> میں جسے ہی سکرپٹ رائٹنگ سے فار غ ہوں گی فلم کے ہدایت کے بارے میں سوچوں گی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "72" shared_words = "5" pair_no = "191" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2>میں نے فلم" مسٹر اینڈ مسز اےئر "،"امو،پیج تھری"، "ویک اپ سڈ "سے شائقین کی داد حاصل کی تھی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "5" pair_no = "192" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2>مجھے دو تین فلموں کی آفرز ہیں لیکن میں سکرپٹ پڑھے بغیر سائن نہیں کرتی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "57" shared_words = "6" pair_no = "193" >
+<sentence_1> ممکن ہے کہ وہ اپنی تحریر کردہ فلم میں ہدایتکاری کے بھی فرائض سرانجام دیں</sentence_1>
+<sentence_2> میرا ذاتی خیال ہے کہ میں مختلف زبانوں کی فلموں میں کام کرنے آئی ہوں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "5" pair_no = "194" >
+<sentence_1> ممکن ہے کہ وہ اپنی تحریر کردہ فلم میں ہدایتکاری کے بھی فرائض سرانجام دیں</sentence_1>
+<sentence_2> مجھے بنگالی زبان بہت اچھی لگتی ہے ،میں نے اسی وجہ سے بنگالی فلوں میں زیادہ کام کیا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "5" pair_no = "195" >
+<sentence_1> ممکن ہے کہ وہ اپنی تحریر کردہ فلم میں ہدایتکاری کے بھی فرائض سرانجام دیں</sentence_1>
+<sentence_2> میں ناکامیوں سے دل برداشتہ نہیں ہوں میں نے زندگی میں ہارنا نہین سیکھا اس لئے مزید محنت کروں گی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "61" shared_words = "6" pair_no = "196" >
+<sentence_1> ممکن ہے کہ وہ اپنی تحریر کردہ فلم میں ہدایتکاری کے بھی فرائض سرانجام دیں</sentence_1>
+<sentence_2>مجھے گھے کو سجانے کا بھی شوق ہے ، میں نے انٹیرےئر ڈیزائینگ کا کورس بھی کیا ہوا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "6" pair_no = "197" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2>میں نے ہندی فلم پیج تھری سے شو بز میں بہت نام کمایا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "5" pair_no = "198" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2>میں ایسی ہی فلموں کام کر کے خخوشی محسوس کرتی ہوں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "64" shared_words = "5" pair_no = "199" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2> میں وہی فلمیں پسند کرتی ہوں جو میرے مزاج کے مطابق ہوتی ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "70" shared_words = "6" pair_no = "200" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2> میں ناکامیوں سے دل برداشتہ نہیں ہوں میں نے زندگی میں ہارنا نہین سیکھا اس لئے مزید محنت کروں گی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "65" shared_words = "5" pair_no = "201" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2> میرا ذاتی خیال ہے کہ میں مختلف زبانوں کی فلموں میں کام کرنے آئی ہوں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "71" shared_words = "5" pair_no = "202" >
+<sentence_1>استعفیٰ کی پیشکش کی ہے نہ مستعفی ہوں گا؛ایاز صادق</sentence_1>
+<sentence_2>مستعفی نہیں ہوں گا قومی اسمبلی کے سپیکر سردار ایاز صادق نے واضح کیا ہے کہ وہ مستعفی نہیں ہو رہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "9" shared_words = "8" pair_no = "203" >
+<sentence_1>استعفیٰ کی پیشکش کی ہے نہ مستعفی ہوں گا؛ایاز صادق</sentence_1>
+<sentence_2>استعفیٰ کی پیشکش کی ہے نہ مستعفی ہوں گا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "20" shared_words = "19" pair_no = "204" >
+<sentence_1>اسلام آباد(ثناء نیوز) قومی اسمبلی کے سپیکر سردار ایاز صادق نے واضح کیا ہے کہ وہ مستعفی نہیں ہو رہے </sentence_1>
+<sentence_2>مستعفی نہیں ہوں گا قومی اسمبلی کے سپیکر سردار ایاز صادق نے واضح کیا ہے کہ وہ مستعفی نہیں ہو رہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "33" shared_words = "10" pair_no = "205" >
+<sentence_1>وزیرعظم محمد نواز شریف سے حالیہ دنوں میں ان کی کوئی ملاقات ہی نہیں ہوئی</sentence_1>
+<sentence_2>اسلام آباد(ثناء نیوز) وزیراعظم نوازشریف سے حالیہ دنوں میں ان کی کوئی ملاقات نہیں ہوئی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "24" shared_words = "10" pair_no = "206" >
+<sentence_1>استعفیٰ کی پیشکش کی ہے نہ مستعفی ہوں گا اور میں استعفیٰ کیوں دوں</sentence_1>
+<sentence_2>استعفیٰ کی پیشکش کی ہے نہ مستعفی ہوں گا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "102" shared_words = "17" pair_no = "207" >
+<sentence_1>صعیب مقصود فٹنس مسائل کے باعث نیوزی لینڈ کے خلاف ٹی ٹونٹی اور ون ڈے سیریز سے باہر،شہزاد، وہاب ریاض اور جنید خان کی ٹیم میں واپسی کا امکان</sentence_1>
+<sentence_2>احمد شہزاد کی فٹنس کا جائزہ کل لیا جائے گا ، وہاب ریاض فٹ  جنید خان کی پریکٹس شروع ، صہیب نیوزی لینڈ کیخلاف ٹی ٹونٹی اور ون ڈے سیریز سے آؤٹ</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "101" shared_words = "5" pair_no = "208" >
+<sentence_1>صعیب مقصود فٹنس مسائل کے باعث نیوزی لینڈ کے خلاف ٹی ٹونٹی اور ون ڈے سیریز سے باہر،شہزاد، وہاب ریاض اور جنید خان کی ٹیم میں واپسی کا امکان</sentence_1>
+<sentence_2>کراچی (نمائندہ جنگ ) پی سی بی نے قومی ٹیم کے پانچ کھلاڑیوں کی فٹنس رپورٹ جاری کی ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "75" shared_words = "11" pair_no = "209" >
+<sentence_1>صعیب مقصود فٹنس مسائل کے باعث نیوزی لینڈ کے خلاف ٹی ٹونٹی اور ون ڈے سیریز سے باہر،شہزاد، وہاب ریاض اور جنید خان کی ٹیم میں واپسی کا امکان</sentence_1>
+<sentence_2> صہیب مقصود نیوزی لینڈ کیخلاف ٹی ٹونٹی اور ون ڈے سیریز سے آؤٹ ہو گئے ہیں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "83" shared_words = "10" pair_no = "210" >
+<sentence_1>22 نومبر (اے پی پی) پاکستان کرکٹ ٹیم کے مڈل آرڈر بلے باز صعیب مقصود فٹنس مسائل کے باعث نیوزی لینڈ کے خلاف ٹی ٹونٹی اور ون ڈے سیریز سے باہر ہو گئے</sentence_1>
+<sentence_2>احمد شہزاد کی فٹنس کا جائزہ کل لیا جائے گا ، وہاب ریاض فٹ  جنید خان کی پریکٹس شروع ، صہیب نیوزی لینڈ کیخلاف ٹی ٹونٹی اور ون ڈے سیریز سے آؤٹ</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "104" shared_words = "6" pair_no = "211" >
+<sentence_1>22 نومبر (اے پی پی) پاکستان کرکٹ ٹیم کے مڈل آرڈر بلے باز صعیب مقصود فٹنس مسائل کے باعث نیوزی لینڈ کے خلاف ٹی ٹونٹی اور ون ڈے سیریز سے باہر ہو گئے</sentence_1>
+<sentence_2>کراچی (نمائندہ جنگ ) پی سی بی نے قومی ٹیم کے پانچ کھلاڑیوں کی فٹنس رپورٹ جاری کی ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "49" shared_words = "5" pair_no = "212" >
+<sentence_1> فاسٹ باؤلرز جنید خان اور وہاب ریاض کی بھی دوبارہ سکواڈ میں واپسی متوقع ہے</sentence_1>
+<sentence_2> فاسٹ بولر وہاب ریاض گھٹنے کی تکلیف سے صحت یاب ہو گئے ہیں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "57" shared_words = "6" pair_no = "213" >
+<sentence_1> فاسٹ باؤلرز جنید خان اور وہاب ریاض کی بھی دوبارہ سکواڈ میں واپسی متوقع ہے</sentence_1>
+<sentence_2> فاسٹ بولر جنید کان گھٹنے کی تکلیف سے صحت یاب ہو رہے ہیں اورانہوں نے ٹریننگ شروع کر دی ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "21" shared_words = "10" pair_no = "214" >
+<sentence_1> ان کی فٹنس کا دوبارہ جائزہ کل پیر کو لیا جائے گا</sentence_1>
+<sentence_2> کل ان کی فٹنس کا جائزہ لیا جائے گا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "101" shared_words = "10" pair_no = "215" >
+<sentence_1>کایا کنیپی تاشقند اوپن ٹینس ٹورنامنٹ کے سیمی فائنل میں پہنچ گئیں</sentence_1>
+<sentence_2>تاشقند،ہانگ کانگ (سپورٹس ڈیسک) سربیا کی بوجانا جوانسکی،ازبکستان کی نگینہ،اٹلی کی کیرن کینپ اور یوکرائن کی لیسیا تاشقند اوپن ٹینس ٹورنامنٹ کے سیمی فائنل میں پہنچ گئیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "123" shared_words = "10" pair_no = "216" >
+<sentence_1>کایا کنیپی تاشقند اوپن ٹینس ٹورنامنٹ کے سیمی فائنل میں پہنچ گئیں</sentence_1>
+<sentence_2>تاشقند اوپن ٹینس کے پہلے کوارٹر فائنل میں سربیا کی بوجانا جوانسکی نے پولینڈ کی ارسلا ریڈ وانسکا کو چار چھ،چھ چار اور چھ تین سے زیر کر کے سیمی فائنل میں رسائی حاصل کی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "102" shared_words = "7" pair_no = "217" >
+<sentence_1>سکاٹ لینڈ کے ووٹرز ریفرنڈم میں آزادی کو مسترد کر دیں برطانیہ کے وزیراعظم ڈیوڈ کیمرون کی ریفرنڈم سے قبل آخری اپیل</sentence_1>
+<sentence_2>اسکاٹ لینڈریفرنڈم،ملک کو متحد رکھنے کے لیے برطانوی قیادت سر گرم اگر اسکاٹ لینڈ برطانیہ سے علیحدہ ہو گیا تو میرا دل ٹوٹ جائے گا،وزیراعظم ڈیوڈ کیمرون</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "102" shared_words = "10" pair_no = "218" >
+<sentence_1>سکاٹ لینڈ کے ووٹرز ریفرنڈم میں آزادی کو مسترد کر دیں برطانیہ کے وزیراعظم ڈیوڈ کیمرون کی ریفرنڈم سے قبل آخری اپیل</sentence_1>
+<sentence_2>وزیراعظم کیمرون نے ایڈنبرا میں برطانیہ کو متحد رکھنے کی مہم میں حصہ لیتے ہوئے کہا:اگر اسکاٹ لینڈ برطانیہ سے علیحدہ ہو گیا تو میرا دل ٹوٹ جائے گا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "79" shared_words = "6" pair_no = "219" >
+<sentence_1>سکاٹ لینڈ کے ووٹرز ریفرنڈم میں آزادی کو مسترد کر دیں برطانیہ کے وزیراعظم ڈیوڈ کیمرون کی ریفرنڈم سے قبل آخری اپیل</sentence_1>
+<sentence_2>اسکاٹ لینڈ کے مستقبل کے بارے میں ریفرنڈم آئندہ ہفتہ ہو گا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "88" shared_words = "5" pair_no = "220" >
+<sentence_1> 12 ستمبر (اے پی پی) بالی وڈ اداکار ہریتک روشن فلم ’’موہنجو دڑو‘‘ کی عکسبندی سے قبل اس تاریخی جگہ کی ایک ماہ تک معلومات حاصل کریں گے</sentence_1>
+<sentence_2>ممبئی(نیٹ نیوز) بالی ووڈ کے سپر سٹارریتک روشن نے اپنی نئی فلم موہنجوداڑو کیلئے وادی سندھ کی تہزیب پر تفصیلی تحقیق کرنے کا فیصلہ کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "87" shared_words = "8" pair_no = "221" >
+<sentence_1>چین میں ایک شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک کر دیا</sentence_1>
+<sentence_2>چین: جنونی شخص کا سکول میں چاقو سے حملہ ،6 بچے ہلاک حملہ آور اپنے بچے کو سکول میں داخلہ نہ ملنے پر نالاں تھا ،بعد ازاں خود کشی کر لی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "8" pair_no = "222" >
+<sentence_1>چین میں ایک شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک کر دیا</sentence_1>
+<sentence_2>بیجنگ(نیوز ایجنسیا ں) وسطی چین میں ایک جنونی شخص کا پرائمری سکول میں گھس کر چاقو سے حملہ ،6 بچے ہلاک،8 زخمی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "75" shared_words = "12" pair_no = "223" >
+<sentence_1>چین میں ایک شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک کر دیا</sentence_1>
+<sentence_2>میڈیا رپورٹس کے مطابق صوبہ ہوبی کے قصبہ شیان میں واقع پرائمری سکول میں ایک جنونی شخص چاقو لے کر گھس گیا اور 6 بچوں کو قتل کر دیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "56" shared_words = "5" pair_no = "224" >
+<sentence_1>چین میں ایک شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک کر دیا</sentence_1>
+<sentence_2> جنونی شخص کے حملے میں 8 بچے اور ایک خاتون ٹیچر بھی زخمی ہو گئی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "55" shared_words = "5" pair_no = "225" >
+<sentence_1>چین میں ایک شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک کر دیا</sentence_1>
+<sentence_2>حملہ آور نے بعد ازاں ایک عمارت سے چھلانگ لگا کر خودکشی کر لی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "95" shared_words = "8" pair_no = "226" >
+<sentence_1> یکم ستمبر (اے پی پی) وسطی چین میں ایک مسلح شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک اور متعدد کو زخمی کردیا</sentence_1>
+<sentence_2>چین: جنونی شخص کا سکول میں چاقو سے حملہ ،6 بچے ہلاک حملہ آور اپنے بچے کو سکول میں داخلہ نہ ملنے پر نالاں تھا ،بعد ازاں خود کشی کر لی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "67" shared_words = "11" pair_no = "227" >
+<sentence_1> یکم ستمبر (اے پی پی) وسطی چین میں ایک مسلح شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک اور متعدد کو زخمی کردیا</sentence_1>
+<sentence_2>بیجنگ(نیوز ایجنسیا ں) وسطی چین میں ایک جنونی شخص کا پرائمری سکول میں گھس کر چاقو سے حملہ ،6 بچے ہلاک،8 زخمی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "85" shared_words = "14" pair_no = "228" >
+<sentence_1> یکم ستمبر (اے پی پی) وسطی چین میں ایک مسلح شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک اور متعدد کو زخمی کردیا</sentence_1>
+<sentence_2>میڈیا رپورٹس کے مطابق صوبہ ہوبی کے قصبہ شیان میں واقع پرائمری سکول میں ایک جنونی شخص چاقو لے کر گھس گیا اور 6 بچوں کو قتل کر دیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "86" shared_words = "6" pair_no = "229" >
+<sentence_1>سرکاری املاک پر حملہ کے الزام میں گرفتار تحریک انصاف اور پاکستان عوامی تحریک کے 103ملزمان کی درخواست ضمانت منظور</sentence_1>
+<sentence_2>پی ٹی آئی عوامی تحریک کے 136 کارکنوں کی ضمانتیں منظور‘ 39 کو جیل بھیج دیا گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "136" shared_words = "15" pair_no = "230" >
+<sentence_1>سرکاری املاک پر حملہ کے الزام میں گرفتار تحریک انصاف اور پاکستان عوامی تحریک کے 103ملزمان کی درخواست ضمانت منظور</sentence_1>
+<sentence_2> لاہور میں جوڈیشل مجسٹریٹ نے تحریک انصاف کے گرفتار 29، سرگودھا میں انسداد دہشت گردی کی عدالت نے قائد آباد تھانے کو جلانے کے الزام میں گرفتار عوامی تحریک کے 10کارکنوں کو ریمانڈ پر جیل بھجوا دیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "84" shared_words = "5" pair_no = "231" >
+<sentence_1>سرکاری املاک پر حملہ کے الزام میں گرفتار تحریک انصاف اور پاکستان عوامی تحریک کے 103ملزمان کی درخواست ضمانت منظور</sentence_1>
+<sentence_2> ان کارکنوں کو 2روز قبل میانوالی کے ایک مقدمے میں ضمانت پر رہا کیا گیا تھا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "78" shared_words = "7" pair_no = "232" >
+<sentence_1>سرکاری املاک پر حملہ کے الزام میں گرفتار تحریک انصاف اور پاکستان عوامی تحریک کے 103ملزمان کی درخواست ضمانت منظور</sentence_1>
+<sentence_2> بھکر میں پولیس نے عوامی تحریک کے عہدیداروں سمیت 6 افراد کو گرفتار کرلیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "87" shared_words = "7" pair_no = "233" >
+<sentence_1>سرکاری املاک پر حملہ کے الزام میں گرفتار تحریک انصاف اور پاکستان عوامی تحریک کے 103ملزمان کی درخواست ضمانت منظور</sentence_1>
+<sentence_2> ہائیکورٹ میں عوامی تحریک کے کارکنوں کی نظربندی کے خلاف کیس میں پنجاب حکومت نے تحریری جواب جمع کروا دیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "53" shared_words = "12" pair_no = "234" >
+<sentence_1>ہانگ کانگ میں جمہوریت نواز مظاہرین کو پولیس نے مرچوں کا سپرے کرکے منتشر کردیا</sentence_1>
+<sentence_2>دریں اثنا ہانک کانگ میں پولیس نے مرچوں کا سپرے کر کے جمہوریت نواز مظاہرین کو منتشر کر دیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "59" shared_words = "5" pair_no = "235" >
+<sentence_1>ہانگ کانگ میں جمہوریت نواز مظاہرین کو پولیس نے مرچوں کا سپرے کرکے منتشر کردیا</sentence_1>
+<sentence_2>ہانک کانگ کی تمام طلبہ تنظیموں نے رواں ماہ جمہوریت کے حق میں ریلیاں نکالنے کا اعلان کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "87" shared_words = "7" pair_no = "236" >
+<sentence_1> یکم ستمبر (اے پی پی) ہانگ کانگ میں جمہوریت نواز مظاہرین پر پولیس نے مرچوں کا سپرے کرکے ان کو منتشر کردیا</sentence_1>
+<sentence_2>ہانک کانگ (اے پی پی ) چین کے نیشنل پیپلز کانگرس کی سٹینڈنگ کمیٹی نے ہانک کانگ میں براہ راست انتخابات کی اجازت دینے سے انکار کر دیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "13" pair_no = "237" >
+<sentence_1> یکم ستمبر (اے پی پی) ہانگ کانگ میں جمہوریت نواز مظاہرین پر پولیس نے مرچوں کا سپرے کرکے ان کو منتشر کردیا</sentence_1>
+<sentence_2>دریں اثنا ہانک کانگ میں پولیس نے مرچوں کا سپرے کر کے جمہوریت نواز مظاہرین کو منتشر کر دیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "128" shared_words = "9" pair_no = "238" >
+<sentence_1>پنجاب حکومت نے زرعی تحقیق کے فروغ کے فنڈز میں 2سو گنا اضافہ کیا ہے،ڈاکٹر فرخ جاوید</sentence_1>
+<sentence_2>راولپنڈی (اے پی پی ) وزیر زراعت پنجاب ڈاکٹر فرخ جاوید نے کہا ہے کہ حکومت نے زراعت کی بحالی کے لئے 32 ارب کا تاریخی پیکج دیا ہے جس سے کسانوں کے معاشی حالات میں بہتری آئیگی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "87" shared_words = "20" pair_no = "239" >
+<sentence_1>23 نومبر (اے پی پی) وزیر زراعت پنجاب ڈاکٹر فرخ جاوید نے کہا ہے کہ زرعی خود کفالت اور ملکی معیشت کے استحکام کا دارومدار زراعت کے شعبہ کی کارکردگی پر منحصر ہے </sentence_1>
+<sentence_2>راولپنڈی (اے پی پی ) وزیر زراعت پنجاب ڈاکٹر فرخ جاوید نے کہا ہے کہ حکومت نے زراعت کی بحالی کے لئے 32 ارب کا تاریخی پیکج دیا ہے جس سے کسانوں کے معاشی حالات میں بہتری آئیگی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "118" shared_words = "7" pair_no = "240" >
+<sentence_1>افغان پارلیمنٹ کا امریکہ کے ساتھ سلامتی کے معاہدے پر خصوصی سیشن منعقد کرانے کا مطالبہ</sentence_1>
+<sentence_2>کابل(دنیا نیوز ، نیوز ایجنسیاں )افغان پارلیمنٹ نے امریکہ کے ساتھ دو طرفہ سکیورٹی معاہدے کی منظوری دے دی ، جس کے تحت2014 کے بعد بھی اتحادی افواج افغانستان میں قیام کر سکیں گی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "77" shared_words = "7" pair_no = "241" >
+<sentence_1>افغان پارلیمنٹ کا امریکہ کے ساتھ سلامتی کے معاہدے پر خصوصی سیشن منعقد کرانے کا مطالبہ</sentence_1>
+<sentence_2>پارلیمنٹ کے ایوان زیریں (ولیسی جرگہ) نے سکیورٹی معاہدے اور نیٹو کے ساتھ فوجوں کی حیثیت کے معاہدے کی منظوری دی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "104" shared_words = "8" pair_no = "242" >
+<sentence_1>23 نومبر (اے پی پی) افغان پارلیمنٹ نے امریکہ کے ساتھ سلامتی کے معاہدے پر خصوصی سیشن منعقد کرانے کا مطالبہ کیا ہے</sentence_1>
+<sentence_2>کابل(دنیا نیوز ، نیوز ایجنسیاں )افغان پارلیمنٹ نے امریکہ کے ساتھ دو طرفہ سکیورٹی معاہدے کی منظوری دے دی ، جس کے تحت2014 کے بعد بھی اتحادی افواج افغانستان میں قیام کر سکیں گی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "84" shared_words = "6" pair_no = "243" >
+<sentence_1>23 نومبر (اے پی پی) افغان پارلیمنٹ نے امریکہ کے ساتھ سلامتی کے معاہدے پر خصوصی سیشن منعقد کرانے کا مطالبہ کیا ہے</sentence_1>
+<sentence_2>پارلیمنٹ کے ایوان زیریں (ولیسی جرگہ) نے سکیورٹی معاہدے اور نیٹو کے ساتھ فوجوں کی حیثیت کے معاہدے کی منظوری دی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "91" shared_words = "6" pair_no = "244" >
+<sentence_1>سیف اور کنگنا رناوت ’’ مسٹر چالو‘‘ میں بطور جوڑی جلوہ گر ہونگے</sentence_1>
+<sentence_2>اس بارے میں سیف علی خان نے زی میڈیا بیورو سے انٹرویو میں کہا کہ میں ریما کاگتی کی فلم " مسٹر چالو" میں عورت کا روپ دھاروں گا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "7" pair_no = "245" >
+<sentence_1>19ستمبر(اے پی پی) بالی وڈ اداکار سیف علی خان اور اداکارہ کنگنا رناوت ’’ مسٹر چالو‘‘ میں بطور جوڑی جلوہ گر ہونگے </sentence_1>
+<sentence_2>ممبئی(وقت نیوز) بالی وڈ کے اداکار سیف خان فلم" مسٹر چالو" میں عورت کا روپ دھاریں گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "84" shared_words = "8" pair_no = "246" >
+<sentence_1>19ستمبر(اے پی پی) بالی وڈ اداکار سیف علی خان اور اداکارہ کنگنا رناوت ’’ مسٹر چالو‘‘ میں بطور جوڑی جلوہ گر ہونگے </sentence_1>
+<sentence_2>اس بارے میں سیف علی خان نے زی میڈیا بیورو سے انٹرویو میں کہا کہ میں ریما کاگتی کی فلم " مسٹر چالو" میں عورت کا روپ دھاروں گا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "76" shared_words = "10" pair_no = "247" >
+<sentence_1> ستمبر کی 30 تاریخ کو افغانستان اور امریکہ نے دوطرفہ سلامتی کے معاہدے پر دستخط کئے تھے</sentence_1>
+<sentence_2>پارلیمنٹ کے ایوان زیریں (ولیسی جرگہ) نے سکیورٹی معاہدے اور نیٹو کے ساتھ فوجوں کی حیثیت کے معاہدے کی منظوری دی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "67" shared_words = "5" pair_no = "248" >
+<sentence_1>بھارتی میڈیا کے مطابق سیف علی خان اور اداکارہ کنگنا رناوت فلم ’’ مسٹر چالو‘‘ میں پہلی بار بطور جوڑی جلوہ گر ہونگے</sentence_1>
+<sentence_2>ممبئی(وقت نیوز) بالی وڈ کے اداکار سیف خان فلم" مسٹر چالو" میں عورت کا روپ دھاریں گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "7" pair_no = "249" >
+<sentence_1> ستمبر کی 30 تاریخ کو افغانستان اور امریکہ نے دوطرفہ سلامتی کے معاہدے پر دستخط کئے تھے</sentence_1>
+<sentence_2> ان کا کہنا تھا کہ معاہدے کی منظوری افغانستان کی قومی سلامتی کیلئے ایک اہم قدم ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "5" pair_no = "250" >
+<sentence_1> ستمبر کی 30 تاریخ کو افغانستان اور امریکہ نے دوطرفہ سلامتی کے معاہدے پر دستخط کئے تھے</sentence_1>
+<sentence_2> ستمبر2010 میں سابق صدر حامد کرزئی نے طالبان سے مذاکرات کے لئے امن کونسل کے قیام کی منظوری دی تھی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "91" shared_words = "8" pair_no = "1" >
+<sentence_1>بنگلہ دیشی سپنر تیج الاسلام نے ون ڈے ڈیبیو میں ہیٹ ٹرک کرکے نئی تاریخ رقم کر دی</sentence_1>
+<sentence_2>تیج نے کرکٹ تاریخ میں سنہری حروف سے نام درج کرالیا ون ڈے ڈیبیو پر ہیٹرک کرنیوالے دنیا کے پہلے پلےئر،سیریز میں بنکلہ دیش کا کلین سوائپ</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "60" shared_words = "5" pair_no = "2" >
+<sentence_1> 22 سالہ سپنر نے تناشے پیانگارا، جان نیومبو اور ٹینڈائی چتارا کو آؤٹ کرکے ہیٹ ٹرک مکمل کی</sentence_1>
+<sentence_2> شکیبالحسن نے 3 اور جوبیر حسین نے 2 وکٹین لے کر تیج کا بھر پور ساتھ دیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "85" shared_words = "5" pair_no = "3" >
+<sentence_1> 25 نومبر (اے پی پی) وزیراعظم محمد نواز شریف اٹھارویں سارک سربراہ اجلاس میں شرکت کیلئے منگل کی سہ پہر یہاں پہنچ گئے جو 26 اور 27 نومبر کو منعقد ہو رہا ہے</sentence_1>
+<sentence_2>کھٹمنڈو(خصوصی رپورٹر)وزیر اعظم نواز شریف 18 ویں سارک سربراہی کانفرنس میں شرکت کے لئے کھٹمنڈو پہنچے تو ان کا پرتپاک استقبال کیا گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "74" shared_words = "6" pair_no = "4" >
+<sentence_1> ترائی بھون انٹرنیشنل ایئرپورٹ پر نیپال کے نائب وزیراعظم بام دیو گوتم نے وزیراعظم کا پرتپاک خیر مقدم کیا</sentence_1>
+<sentence_2> نیپال کے ڈپٹی وزیر اعظم اور وزیر برائے وفاقی امور ہرکاش مان سنگھ نے ان کا استقبال کیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "77" shared_words = "5" pair_no = "5" >
+<sentence_1> ترائی بھون انٹرنیشنل ایئرپورٹ پر نیپال کے نائب وزیراعظم بام دیو گوتم نے وزیراعظم کا پرتپاک خیر مقدم کیا</sentence_1>
+<sentence_2> وزیر اعظم پاکستان اپنے وفد کے ہمراہ ہوٹل روانہ ہوئے توان کا سارے راستے پرتپاک استقبال کیا گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "61" shared_words = "5" pair_no = "6" >
+<sentence_1>ٹویٹر پرکرن جوہر کے مداحوں کی تعداد 50 لاکھ ہوگئی</sentence_1>
+<sentence_2>ممبئی (وقت نیوز )بالی وڈ کے فلمساز کرن جوہر کے ٹوئٹر پر فالورز کی تعداد پانچ ملین سے زیادہ ہو گئی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "70" shared_words = "5" pair_no = "7" >
+<sentence_1> وزیراعظم کی اہلیہ بیگم کلثوم نواز، وزیراعظم کے معاونین خصوصی طارق فاطمی اور عرفان صدیقی بھی ان کے ہمراہ ہیں</sentence_1>
+<sentence_2> نیپال کے ڈپٹی وزیر اعظم اور وزیر برائے وفاقی امور ہرکاش مان سنگھ نے ان کا استقبال کیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "69" shared_words = "5" pair_no = "8" >
+<sentence_1> انہوں نے یہ بات وطن واپسی کے لئے ہیتھرو ایئرپورٹ روانگی سے قبل صحافیوں سے گفتگو کرتے ہوئے کہی</sentence_1>
+<sentence_2> اسلام آباد میں دھرنے شروع ہوئے تو عدالتوں کے خیالات بھی سب نے دیکھ لئے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "82" shared_words = "5" pair_no = "9" >
+<sentence_1> یکم دسمبر (اے پی پی) بالی وڈ فلمساز کرن جوہر کی سماجی رابطہ ویب سائٹ ٹوئیٹر پر مداحوں کی تعداد 50 لاکھ ہوگئی</sentence_1>
+<sentence_2>کرن کے ٹوئٹر پر فالورز کی تعداد 5 ملین سے زیادہ</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "8" pair_no = "10" >
+<sentence_1> یکم دسمبر (اے پی پی) بالی وڈ فلمساز کرن جوہر کی سماجی رابطہ ویب سائٹ ٹوئیٹر پر مداحوں کی تعداد 50 لاکھ ہوگئی</sentence_1>
+<sentence_2>ممبئی (وقت نیوز )بالی وڈ کے فلمساز کرن جوہر کے ٹوئٹر پر فالورز کی تعداد پانچ ملین سے زیادہ ہو گئی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "69" shared_words = "8" pair_no = "11" >
+<sentence_1> نواز شریف نے کہا کہ ان کی حکومت بھی نظام میں موجود خرابیوں کو دور کرنے کی خواہاں ہے</sentence_1>
+<sentence_2> انہیں حل کرنا ہمارے ایجنڈے میں شامل ہے‘ موقع ملا تو انتخابی عمل میں خامیوں سمیت تمام خرابیوں کو دور کرنے کی کوشش کریں گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "8" pair_no = "12" >
+<sentence_1> نواز شریف نے کہا کہ ان کی حکومت بھی نظام میں موجود خرابیوں کو دور کرنے کی خواہاں ہے</sentence_1>
+<sentence_2> وزیراعظم نے کہا کہ جنرل اسمبلی میں کی جانے والی تقریر پاکستانی اور کشمیری عوام کے جذبات کی عکاسی کرتی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "58" shared_words = "5" pair_no = "13" >
+<sentence_1> نواز شریف نے کہا کہ ان کی حکومت بھی نظام میں موجود خرابیوں کو دور کرنے کی خواہاں ہے</sentence_1>
+<sentence_2> پارلیمنٹ کی تمام جماعتوں نے اکٹھے ہوکر ایک پیغام دیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "52" shared_words = "11" pair_no = "14" >
+<sentence_1> کرن جوہر نے ٹویٹ کیا کہ انہیں بہت خوشی ہے کہ ٹوئیٹر پر ان کے مداحوں کی تعداد بڑھ کر 50 لاکھ ہوگئی ہے</sentence_1>
+<sentence_2>تاہم اب ان کی مقبولیت میں اتنا اضافہ ہو گیا ہے کہ ٹوئٹر پر ان کے فالورز کی تعداد بڑھ رہی ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "64" shared_words = "6" pair_no = "15" >
+<sentence_1> انہوں نے کہا کہ پارلیمنٹ نے جمہوریت کے استحکام کے لئے اہم کردار ادا کیا ہے</sentence_1>
+<sentence_2> وزیراعظم نے کہا کہ جنرل اسمبلی میں کی جانے والی تقریر پاکستانی اور کشمیری عوام کے جذبات کی عکاسی کرتی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "43" shared_words = "6" pair_no = "16" >
+<sentence_1> انہوں نے کہا کہ پارلیمنٹ نے جمہوریت کے استحکام کے لئے اہم کردار ادا کیا ہے</sentence_1>
+<sentence_2> انہوں نے کہا کہ سیاستدان شعور کا مظاہرہ کر رہے ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "48" shared_words = "5" pair_no = "17" >
+<sentence_1> انہوں نے کہا کہ پارلیمنٹ نے جمہوریت کے استحکام کے لئے اہم کردار ادا کیا ہے</sentence_1>
+<sentence_2> پارلیمنٹ کی تمام جماعتوں نے اکٹھے ہوکر ایک پیغام دیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "52" shared_words = "14" pair_no = "18" >
+<sentence_1> انہوں نے کہا کہ اقوام متحدہ کی جنرل اسمبلی سے خطاب اور کشمیر پر موقف پاکستان اور کشمیری عوام کے جذبات کا عکاس ہے</sentence_1>
+<sentence_2> وزیراعظم نے کہا کہ جنرل اسمبلی میں کی جانے والی تقریر پاکستانی اور کشمیری عوام کے جذبات کی عکاسی کرتی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "130" shared_words = "7" pair_no = "19" >
+<sentence_1>بیان میں واضح کیا گیا کہ امریکا پاکستان کے آئینی اور انتخابی عمل کی ہمیشہ حمایت کرتا رہا ہے لہٰذا پاکستان میں جمہوریت کو مضبوط کرنے کے لیے اقدامات اْٹھائے جانے چاہئیں </sentence_1>
+<sentence_2>پاکستان میں فریقین تشدد سے گریز کریں، مذاکرات کے عمل میں شامل نہیں: امریکہ</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "75" shared_words = "11" pair_no = "20" >
+<sentence_1> ایک سوال کے جواب میں وزیراعظم نے کہا کہ میرا خیال نہیں کہ عدلیہ حکومت کے خلاف کسی سازش میں ملوث ہے</sentence_1>
+<sentence_2> وزیراعظم نے کہا کہ جنرل اسمبلی میں کی جانے والی تقریر پاکستانی اور کشمیری عوام کے جذبات کی عکاسی کرتی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "69" shared_words = "5" pair_no = "21" >
+<sentence_1> ایک سوال کے جواب میں وزیراعظم نے کہا کہ میرا خیال نہیں کہ عدلیہ حکومت کے خلاف کسی سازش میں ملوث ہے</sentence_1>
+<sentence_2> انہوں نے کہا کہ سیاستدان شعور کا مظاہرہ کر رہے ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "85" shared_words = "7" pair_no = "22" >
+<sentence_1>بیان میں کہا گیا کہ امریکا پاکستان کیساتھ جمہوریت کے استحکام کیلئے کام کررہا ہے فریقین کو تشدد سے گریز کرنا چاہیے</sentence_1>
+<sentence_2>پاکستان میں فریقین تشدد سے گریز کریں، مذاکرات کے عمل میں شامل نہیں: امریکہ</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "76" shared_words = "5" pair_no = "23" >
+<sentence_1>بیان میں کہا گیا کہ امریکا پاکستان کیساتھ جمہوریت کے استحکام کیلئے کام کررہا ہے فریقین کو تشدد سے گریز کرنا چاہیے</sentence_1>
+<sentence_2> ترجمان نے کہا کہ نواز شریف پاکستان کے انتخابات میں منتخب ہوئے اور وہ ملک کے وزیراعظم ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "5" pair_no = "24" >
+<sentence_1> بیان میں کہا گیا کہ سیاسی ڈائیلاگ کیلئے کافی گنجائش موجود ہے اور اسے پرامن رہنا چاہیے</sentence_1>
+<sentence_2> ترجمان نے کہا کہ نواز شریف پاکستان کے انتخابات میں منتخب ہوئے اور وہ ملک کے وزیراعظم ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "6" pair_no = "25" >
+<sentence_1> بیان میں کہا گیا کہ سیاسی ڈائیلاگ کیلئے کافی گنجائش موجود ہے اور اسے پرامن رہنا چاہیے</sentence_1>
+<sentence_2> پاکستان میں ہونیوالا احتجاج پرامن ہے اور اس صورتحال میں مذاکرات کی گنجائش بھی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "73" shared_words = "8" pair_no = "26" >
+<sentence_1> پہلا میچ بھوٹان کا مقابلہ سری لنکا سے دن گیارہ بجے جبکہ دوسرا میچ پاکستان کا مقابلہ نیپال سے دوپہر ڈھائی بجے ہوگا</sentence_1>
+<sentence_2>ساف ویمن فٹبال چیمپئن شپ ، پاکستان کا مقابلہ آج نیپال سے ہو گا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "95" shared_words = "6" pair_no = "27" >
+<sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین میں کاروں کے پرزے بنانیوالی فیکٹری میں دھماکہ،68 ہلاک  120 افراد زخمی،کئی کی حالت تشویشناک،امدادی کاروائیاں جاری ،تحقیقات شروع</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "90" shared_words = "6" pair_no = "28" >
+<sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>بیجنگ(نیوز ایجنسیاں،مانیٹرنگ ڈیسک) چین کے مشرقی علاقے میں کاروں کے پرزے بنانے والی ایک فیکٹری میں دھماکہ ،68 افراد ہلاک،120 زخمی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "109" shared_words = "13" pair_no = "29" >
+<sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین کے سرکاری ٹی وی کی رپورٹ کے مطابق ملک کے مشرقی صوبےجیانگ سو کے کنشان شہرکی فیکٹری میں صبح کے وقت دھماکہ ہوا جس کے نتیجے میں68افراد ہلاک اور 120 زخمی ہو گئے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "92" shared_words = "6" pair_no = "30" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین میں کاروں کے پرزے بنانیوالی فیکٹری میں دھماکہ،68 ہلاک  120 افراد زخمی،کئی کی حالت تشویشناک،امدادی کاروائیاں جاری ،تحقیقات شروع</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "86" shared_words = "6" pair_no = "31" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>بیجنگ(نیوز ایجنسیاں،مانیٹرنگ ڈیسک) چین کے مشرقی علاقے میں کاروں کے پرزے بنانے والی ایک فیکٹری میں دھماکہ ،68 افراد ہلاک،120 زخمی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "101" shared_words = "13" pair_no = "32" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین کے سرکاری ٹی وی کی رپورٹ کے مطابق ملک کے مشرقی صوبےجیانگ سو کے کنشان شہرکی فیکٹری میں صبح کے وقت دھماکہ ہوا جس کے نتیجے میں68افراد ہلاک اور 120 زخمی ہو گئے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "7" pair_no = "33" >
+<sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>بیجنگ (نیٹ نیوز) چین میں فیکٹری میں دھماکے سے65 افراد ہلاک جبکہ تقریباً 120 کے زخمی ہونے کی اطلاعات ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "76" shared_words = "6" pair_no = "34" >
+<sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>سرکاری ٹی وی کے مطابق ملک کے مشرق میں واقع صنعتی صوبے جیانگ سو کے کنشان شہرکی فیکٹری میں دھماکہ ہوا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "13" shared_words = "8" pair_no = "35" >
+<sentence_1>سیاسی بحران کا جلد حل نکالا جائے ، الطاف حسین</sentence_1>
+<sentence_2>سیاسی بحران کا جلد حل نکالا جائے ، آصف علی زرداری</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "46" shared_words = "5" pair_no = "36" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین :فیکٹری میں دھماکہ،65 افراد ہلاک</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "61" shared_words = "7" pair_no = "37" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>بیجنگ (نیٹ نیوز) چین میں فیکٹری میں دھماکے سے65 افراد ہلاک جبکہ تقریباً 120 کے زخمی ہونے کی اطلاعات ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "75" shared_words = "6" pair_no = "38" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>سرکاری ٹی وی کے مطابق ملک کے مشرق میں واقع صنعتی صوبے جیانگ سو کے کنشان شہرکی فیکٹری میں دھماکہ ہوا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "77" shared_words = "7" pair_no = "39" >
+<sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+<sentence_2>بیجنگ (نیٹ نیوز) چین میں فیکٹری میں دھماکے سے65 افراد ہلاک جبکہ تقریباً 120 کے زخمی ہونے کی اطلاعات ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "71" shared_words = "7" pair_no = "40" >
+<sentence_1>چین نیا بین البراعظمی بلیسٹک میزائل بنانے پر کام کر رہا ہے</sentence_1>
+<sentence_2>چین کی نئے بین البر اعظمی میزائل بنانے کی تصدیق  بیلسٹک میزائل امریکہ میں کئی اہداف کو نشانہ بنانے کی صلاحیت رکھتا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "48" shared_words = "5" pair_no = "41" >
+<sentence_1>چین نیا بین البراعظمی بلیسٹک میزائل بنانے پر کام کر رہا ہے</sentence_1>
+<sentence_2>بیجنگ(مانیٹرنگ ڈیسک ) چین کی نئے بین البر اعظمی میزائل بنانے کی تصدیق کر دی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "80" shared_words = "8" pair_no = "42" >
+<sentence_1>02 اگست (اے پی پی) چین نیا بین البراعظمی بلیسٹک میزائل بنانے پر کام کر رہا ہے </sentence_1>
+<sentence_2>چین کی نئے بین البر اعظمی میزائل بنانے کی تصدیق  بیلسٹک میزائل امریکہ میں کئی اہداف کو نشانہ بنانے کی صلاحیت رکھتا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "44" shared_words = "5" pair_no = "43" >
+<sentence_1>02 اگست (اے پی پی) چین نیا بین البراعظمی بلیسٹک میزائل بنانے پر کام کر رہا ہے </sentence_1>
+<sentence_2>بیجنگ(مانیٹرنگ ڈیسک ) چین کی نئے بین البر اعظمی میزائل بنانے کی تصدیق کر دی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "5" pair_no = "44" >
+<sentence_1> ذرائع ابلاغ کے مطابق چین نیا بین البراعظمی بیلسٹک میزائل ’’ دون فین 41‘‘ بنانے پر کام کر رہا ہے</sentence_1>
+<sentence_2>بیجنگ(مانیٹرنگ ڈیسک ) چین کی نئے بین البر اعظمی میزائل بنانے کی تصدیق کر دی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "67" shared_words = "5" pair_no = "45" >
+<sentence_1> ذرائع ابلاغ کے مطابق چین نیا بین البراعظمی بیلسٹک میزائل ’’ دون فین 41‘‘ بنانے پر کام کر رہا ہے</sentence_1>
+<sentence_2>بیلسٹک میزائل امریکہ میں کئی اہداف کو نشانہ بنانے کی صلاحیت رکھتا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "5" pair_no = "46" >
+<sentence_1> اس بات کی تصدیق چینی فوج کی طرف سے یکم اگست کو چین کے یوم آزادی کے موقع پر کی گئی </sentence_1>
+<sentence_2>چین کے فوجی امور انتہائی خفیہ رکھے جاتے ہیں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "110" shared_words = "7" pair_no = "47" >
+<sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین ،دھات کی فیکٹری میں دھماکہ،65 افراد ہلاک ،150زخمی فیکٹری کنشان شہر میں واقع تھی،دھماکے کے وقت 200 افراد سے زائد پوجود تھے، بیشتر زخمیوں کی حالت نازک</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "56" shared_words = "9" pair_no = "48" >
+<sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین(مانیٹرنگ ڈیسک) چین کے مشرقی علاقےمیں ایک فیکٹری میں دھماکے کے نتیجے میں،65 افراد ہلاک اور 150 زخمی ہو گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "112" shared_words = "7" pair_no = "49" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین ،دھات کی فیکٹری میں دھماکہ،65 افراد ہلاک ،150زخمی فیکٹری کنشان شہر میں واقع تھی،دھماکے کے وقت 200 افراد سے زائد پوجود تھے، بیشتر زخمیوں کی حالت نازک</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "82" shared_words = "7" pair_no = "50" >
+<sentence_1>الطاف حسین نے بگڑتی ہوئی سیاسی صورتحال پر تشویش کا اظہار کرتے ہوئے کہا کہ فریقین فوری طور پر دوبارہ مذاکرات شروع کریں</sentence_1>
+<sentence_2> بلاول بھٹو نے سندھ حکومت کی کارکردگی پر عدم اطمینان کا اظہار کرتے ہوئے شدید تنقید کی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "49" shared_words = "9" pair_no = "51" >
+<sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+<sentence_2>چین(مانیٹرنگ ڈیسک) چین کے مشرقی علاقےمیں ایک فیکٹری میں دھماکے کے نتیجے میں،65 افراد ہلاک اور 150 زخمی ہو گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "169" shared_words = "5" pair_no = "52" >
+<sentence_1>بھارتی فوجیوں کے ہاتھوں کولگام میں دو کشمیر ی نوجوان شہید</sentence_1>
+<sentence_2>مقبوضہ کشمیربھارتی فوج نے 4 نوجوانوں کو شہید کر ڈالا 3نوجوانوں کوکولگام میں محاصرے اور تلاشی کی کارروائی کے دوران شہید کیا گیا،بمباری سے دو گھر تباہ،عوام کا شہادتوں کیخلاف احتجاج،پولیس نے گولی چلا دی،متعدد افراد زخمی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "56" shared_words = "5" pair_no = "53" >
+<sentence_1>بھارتی فوجیوں کے ہاتھوں کولگام میں دو کشمیر ی نوجوان شہید</sentence_1>
+<sentence_2>کولگام میں ہی بھارتی فوج نے ایک نوجوان طالبعلم کو بھی گولی ما ر کر شہید کر ڈالا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "71" shared_words = "8" pair_no = "54" >
+<sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+<sentence_2>مکامی لوگوں کا کہنا ہے کہ دھماکے کے وقت فیکٹری میں 200 سے زائد افراد موجود تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "58" shared_words = "9" pair_no = "55" >
+<sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+<sentence_2>چین(مانیٹرنگ ڈیسک) چین کے مشرقی علاقےمیں ایک فیکٹری میں دھماکے کے نتیجے میں،65 افراد ہلاک اور 150 زخمی ہو گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "51" shared_words = "7" pair_no = "56" >
+<sentence_1> فوجیوں نے علاقے میں دو رہائشی مکانات بھی گولہ باری کر کے مسمار کر دیے</sentence_1>
+<sentence_2>فوج نے علاقے میں گولہ باری کی جسکے نتیجے میں دو گھر تباہ اور متعدد افراد زخمی ہوگئے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "71" shared_words = "6" pair_no = "57" >
+<sentence_1> ان خیالات کا اظہار انہوں نے جمعرات کے روز پارلیمنٹ کے سامنے انقلاب مارچ کے شرکاء سے خطاب کرتے ہوئے کیا</sentence_1>
+<sentence_2>اسلام آباد (آن لائن) عوامی تحریک کے سربراہ ڈاکٹر طاہر القادری نے انقلاب مارچ کے شرکاء کو نفلی اعتکاف کی نیت کروا دی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "72" shared_words = "8" pair_no = "58" >
+<sentence_1> ان خیالات کا اظہار انہوں نے جمعرات کے روز پارلیمنٹ کے سامنے انقلاب مارچ کے شرکاء سے خطاب کرتے ہوئے کیا</sentence_1>
+<sentence_2> ریڈ زون میں خطاب کرتے ہوئے طاہر القادری کا کہنا تھا کہ انقلاب کے تمام شرکاء نفلی اعتکاف کی نیت کر لیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "69" shared_words = "7" pair_no = "59" >
+<sentence_1> ان خیالات کا اظہار انہوں نے جمعرات کے روز پارلیمنٹ کے سامنے انقلاب مارچ کے شرکاء سے خطاب کرتے ہوئے کیا</sentence_1>
+<sentence_2> عمران خان نے نماز کے بعد آزادی کا جشن منانے کا بھی اعلان کیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "55" shared_words = "5" pair_no = "60" >
+<sentence_1> فوجیوں نے علاقے میں دو رہائشی مکانات بھی گولہ باری کر کے مسمار کر دیے</sentence_1>
+<sentence_2>کولگام میں ہی بھارتی فوج نے ایک نوجوان طالبعلم کو بھی گولی ما ر کر شہید کر ڈالا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "150" shared_words = "12" pair_no = "61" >
+<sentence_1>14 نومبر (اے پی پی) مقبوضہ کشمیرمیں بھارتی فوجیوں نے ریاستی دہشت گردی کی تازہ کارروائی کے دوران ضلع کولگام میں دو کشمیری نوجوا ن شہید کر دیے </sentence_1>
+<sentence_2>مقبوضہ کشمیربھارتی فوج نے 4 نوجوانوں کو شہید کر ڈالا 3نوجوانوں کوکولگام میں محاصرے اور تلاشی کی کارروائی کے دوران شہید کیا گیا،بمباری سے دو گھر تباہ،عوام کا شہادتوں کیخلاف احتجاج،پولیس نے گولی چلا دی،متعدد افراد زخمی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "50" shared_words = "6" pair_no = "62" >
+<sentence_1>جمہوریت کے تحفظ میں اپنی ذمہ داری پوری کریں گے، زرداری</sentence_1>
+<sentence_2> آصف زرداری نے کہاکہ جمہوریت کے تحفظ کے لئے پیپلز پارٹی ذمہ داریاں ادا کرے گی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "46" shared_words = "5" pair_no = "63" >
+<sentence_1>پیپلزپارٹی کی سنٹرل ایگزیکٹو کمیٹی نے پاکستان کی سیاسی صورتحال پر تشویش کا اظہار کیا ہے</sentence_1>
+<sentence_2> ساڑھے 4 گھنٹے کے اجلاس میں ملکی سیاسی صورتحال پر سخت تشویش کا اظہارکیا  گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "6" pair_no = "64" >
+<sentence_1>پیپلزپارٹی کی سنٹرل ایگزیکٹو کمیٹی نے پاکستان کی سیاسی صورتحال پر تشویش کا اظہار کیا ہے</sentence_1>
+<sentence_2> بلاول بھٹو نے سندھ حکومت کی کارکردگی پر عدم اطمینان کا اظہار کرتے ہوئے شدید تنقید کی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "67" shared_words = "5" pair_no = "65" >
+<sentence_1>پیپلزپارٹی کی سنٹرل ایگزیکٹو کمیٹی نے پاکستان کی سیاسی صورتحال پر تشویش کا اظہار کیا ہے</sentence_1>
+<sentence_2> پیپلز پارٹی نے انتخابی اصلاحات کا عمل وسیع تر مشاورت اور مقررہ وقت کے اندر مکمل کرنے کا بھی مطالبہ کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "58" shared_words = "5" pair_no = "66" >
+<sentence_1> ساتھ ہی اس عزم کا اظہار کیا ہے کہ پیپلزپارٹی آئین اور جمہوریت کے ساتھ کھڑی ہوگی</sentence_1>
+<sentence_2> بیشتر ارکان کا کہنا تھا کہ موجودہ صورتحال مسلم لیگ ن کی ہی پیدا کردہ ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "76" shared_words = "5" pair_no = "67" >
+<sentence_1> ساتھ ہی اس عزم کا اظہار کیا ہے کہ پیپلزپارٹی آئین اور جمہوریت کے ساتھ کھڑی ہوگی</sentence_1>
+<sentence_2> پیپلز پارٹی نے مطالبہ کیا کہ یوسف رضا گیلانی اور شہید سلیمان تاثیر کے صاحبزادوں کو فوراً بازیاب کرایا جائے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "59" shared_words = "9" pair_no = "68" >
+<sentence_1> پیپلز پارٹی سنٹرل ایگزیکٹو کمیٹی کا اجلاس دبئی میں ساڑھے چار گھنٹے جاری رہنے کے بعد ختم ہو گیا</sentence_1>
+<sentence_2> وہ دبئی میں  پارٹی کی سنٹرل ایگزیکٹو کمیٹی کے پہلے اجلاس سے خطاب کر رہے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "5" pair_no = "69" >
+<sentence_1> آصف علی زرداری کہتے ہیں کہ جمہوریت کے تحفظ کے لیے پیپلز پارٹی اپنی ذمہ داری اد ا کرے گی</sentence_1>
+<sentence_2> ذرائع کے مطابق بلاول بھٹو زرداری نے کہا کہ مذاکرات کے ذریعے جمہوری عمل جاری رہنا چاہئے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "22" shared_words = "11" pair_no = "70" >
+<sentence_1> آصف علی زرداری کہتے ہیں کہ جمہوریت کے تحفظ کے لیے پیپلز پارٹی اپنی ذمہ داری اد ا کرے گی</sentence_1>
+<sentence_2> آصف زرداری نے کہاکہ جمہوریت کے تحفظ کے لئے پیپلز پارٹی ذمہ داریاں ادا کرے گی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "8" pair_no = "71" >
+<sentence_1> پیپلز پارٹی سنٹرل ایگزیکٹو کمیٹی کا اجلاس دبئی میں ساڑھے چار گھنٹے جاری رہنے کے بعد ختم ہو گیا</sentence_1>
+<sentence_2> ساڑھے 4 گھنٹے کے اجلاس میں ملکی سیاسی صورتحال پر سخت تشویش کا اظہارکیا  گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "78" shared_words = "5" pair_no = "72" >
+<sentence_1> آصف علی زرداری کہتے ہیں کہ جمہوریت کے تحفظ کے لیے پیپلز پارٹی اپنی ذمہ داری اد ا کرے گی</sentence_1>
+<sentence_2> پیپلز پارٹی نے مطالبہ کیا کہ یوسف رضا گیلانی اور شہید سلیمان تاثیر کے صاحبزادوں کو فوراً بازیاب کرایا جائے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "131" shared_words = "5" pair_no = "73" >
+<sentence_1>امریکی ڈالر، برطانوی پاؤنڈ اور یوروکی قدر میں اضافہ</sentence_1>
+<sentence_2>کراچی (کامرس رپورٹر ) انٹر بینک میں روپے کے مقابلے میں ڈالر کی قدر 103کی سطح پر دوبارہ جا پہنچی جبکہ اقپن مارکیٹ میں ڈالر103 روپے تک آنے میں صرف 5یسے کی دوری پر ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "109" shared_words = "8" pair_no = "74" >
+<sentence_1> 16 ستمبر (اے پی پی) پاکستانی روپے کے مقابلے میں امریکی ڈالر سمیت یورپین ممالک کی اہم کرنسیوں بشمول برطانوی پاؤنڈ اور یورو کی قدر میں تیزی کا رجحان رہا</sentence_1>
+<sentence_2>انٹر بینک میں ڈالر کی قدر 103کی سطح پر پہنچ گئی  اوپن مارکیٹ میں 45پیسے کے اضافے سے ڈالر 102.95روپے میں فروخت ہوا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "107" shared_words = "12" pair_no = "75" >
+<sentence_1> 16 ستمبر (اے پی پی) پاکستانی روپے کے مقابلے میں امریکی ڈالر سمیت یورپین ممالک کی اہم کرنسیوں بشمول برطانوی پاؤنڈ اور یورو کی قدر میں تیزی کا رجحان رہا</sentence_1>
+<sentence_2>کراچی (کامرس رپورٹر ) انٹر بینک میں روپے کے مقابلے میں ڈالر کی قدر 103کی سطح پر دوبارہ جا پہنچی جبکہ اقپن مارکیٹ میں ڈالر103 روپے تک آنے میں صرف 5یسے کی دوری پر ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "55" shared_words = "6" pair_no = "76" >
+<sentence_1> بلاول بھٹو کا کہنا ہے کہ جمہوریت کو ڈی ریل نہیں ہونے دیں گے ، آئین کو مکمل سپورٹ کریں گے</sentence_1>
+<sentence_2> بلاول بھٹو نے مذاکرات کو ہی موجودہ سیاسی صورتحال کا بہترین حل قرار دیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "55" shared_words = "5" pair_no = "77" >
+<sentence_1> بلاول بھٹو کا کہنا ہے کہ جمہوریت کو ڈی ریل نہیں ہونے دیں گے ، آئین کو مکمل سپورٹ کریں گے</sentence_1>
+<sentence_2> بیشتر ارکان کا کہنا تھا کہ موجودہ صورتحال مسلم لیگ ن کی ہی پیدا کردہ ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "53" shared_words = "5" pair_no = "78" >
+<sentence_1> بلاول بھٹو کا کہنا ہے کہ جمہوریت کو ڈی ریل نہیں ہونے دیں گے ، آئین کو مکمل سپورٹ کریں گے</sentence_1>
+<sentence_2> بلاول بھٹو نے کہا کہ حکومت اگر پرفارم کرے گی تو کوئی غیرآئینی کام نہیں ہو گا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "6" pair_no = "79" >
+<sentence_1> پیپلز پارٹی سنٹرل ایگزیکٹو کمیٹی کا اجلاس دبئی میں ساڑھے چار گھنٹے جاری رہنے کے بعد ختم ہو گیا</sentence_1>
+<sentence_2> پیپلز پارٹی نے انتخابی اصلاحات کا عمل وسیع تر مشاورت اور مقررہ وقت کے اندر مکمل کرنے کا بھی مطالبہ کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "73" shared_words = "6" pair_no = "80" >
+<sentence_1>کامیڈی کے ساتھ ایکشن والی فلمیں پسند ہیں۔اکشے کمار</sentence_1>
+<sentence_2>ممبئی(وقت نیوز ) بالی وڈ کے اداکار اکشے کمار کا کہنا ہے کہ مجھے ایکشن کامیڈی فلمیں کرنا پسند ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "104" shared_words = "5" pair_no = "81" >
+<sentence_1>کامیڈی کے ساتھ ایکشن والی فلمیں پسند ہیں۔اکشے کمار</sentence_1>
+<sentence_2>انہوں نے پریس ٹرسٹ آف انڈیا سے انٹرویو میں کہا کہ میں نے اگرچہ ایکشن فلموں سے داد سمیٹی ہے لیکن مجھے اب ایکشن کامیڈی فلمیں پسند ہیں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "47" shared_words = "7" pair_no = "82" >
+<sentence_1> پیپلزپارٹی کی قیادت کا کہنا تھا کہ پاکستان سپریم اور آئین کی بالادستی ترجیح ہے</sentence_1>
+<sentence_2> بیشتر ارکان کا کہنا تھا کہ موجودہ صورتحال مسلم لیگ ن کی ہی پیدا کردہ ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "5" pair_no = "83" >
+<sentence_1> پیپلزپارٹی کی قیادت کا کہنا تھا کہ پاکستان سپریم اور آئین کی بالادستی ترجیح ہے</sentence_1>
+<sentence_2> پیپلز پارٹی نے انتخابی اصلاحات کا عمل وسیع تر مشاورت اور مقررہ وقت کے اندر مکمل کرنے کا بھی مطالبہ کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "86" shared_words = "5" pair_no = "84" >
+<sentence_1> 03 اگست (اے پی پی) بالی ووڈ اداکار اکشے کمار نے کہا ہے کہ انہیں کامیڈی کے ساتھ ایکشن والی فلمیں پسند ہیں</sentence_1>
+<sentence_2>ایکشن کامیڈی فلمیں کرنا پسند ہے، اکشے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "52" shared_words = "11" pair_no = "85" >
+<sentence_1> 03 اگست (اے پی پی) بالی ووڈ اداکار اکشے کمار نے کہا ہے کہ انہیں کامیڈی کے ساتھ ایکشن والی فلمیں پسند ہیں</sentence_1>
+<sentence_2>ممبئی(وقت نیوز ) بالی وڈ کے اداکار اکشے کمار کا کہنا ہے کہ مجھے ایکشن کامیڈی فلمیں کرنا پسند ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "79" shared_words = "12" pair_no = "86" >
+<sentence_1> 03 اگست (اے پی پی) بالی ووڈ اداکار اکشے کمار نے کہا ہے کہ انہیں کامیڈی کے ساتھ ایکشن والی فلمیں پسند ہیں</sentence_1>
+<sentence_2>انہوں نے پریس ٹرسٹ آف انڈیا سے انٹرویو میں کہا کہ میں نے اگرچہ ایکشن فلموں سے داد سمیٹی ہے لیکن مجھے اب ایکشن کامیڈی فلمیں پسند ہیں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "146" shared_words = "11" pair_no = "87" >
+<sentence_1>سپریم کورٹ نے جسٹس انورظہیرجمالی کی بطورقائم مقام چیف الیکشن کمشنر نامزدگی واپس لے لی فیصلہ 5 دسمبرسے نافذ العمل ہوگا</sentence_1>
+<sentence_2>اسلام آباد(نیوز ایجنسیاں)چیف جسٹس آف پاکستان جسٹس ناصر الملک نے حکومت کو مستقل چیف الیکشن کمشنرکیلئے 5تک کی مہلت دیتے ہوئے قائم مقام چیف الیکشن کمشنرانور ظہیر جمالی کی خدمات کو واپس لینے حکم نامہ جاری کر دیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "26" shared_words = "7" pair_no = "88" >
+<sentence_1>بالی وڈ فلم ’’انگلش ونگلش‘‘ نے جاپان میں 10 لاکھ ڈالر کا بزنس کر لیا</sentence_1>
+<sentence_2>"انگلش ونگلش" نے جاپان میں ایک ملین ڈالر کا بزنس لیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "8" pair_no = "89" >
+<sentence_1> کمیٹی نے بدلتی صورتحال میں فیصلوں کا اختیار آصف علی زرداری اور بلاول بھٹو کو دے دیا ہے</sentence_1>
+<sentence_2> بلاول بھٹو نے مذاکرات کو ہی موجودہ سیاسی صورتحال کا بہترین حل قرار دیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "55" shared_words = "10" pair_no = "90" >
+<sentence_1>بالی وڈ فلم ’’انگلش ونگلش‘‘ نے جاپان میں 10 لاکھ ڈالر کا بزنس کر لیا</sentence_1>
+<sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ سری دیوی کی فلم "انگلش ونگلش" نے جاپان میں ایک ملین ڈالر کا بزنس لیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "58" shared_words = "7" pair_no = "91" >
+<sentence_1>سنٹرل ایگزیکٹو کمیٹی کے اجلاس میں بحران کو سیاسی انداز سے حل کرنے پر غور کیا گیا</sentence_1>
+<sentence_2> وہ دبئی میں  پارٹی کی سنٹرل ایگزیکٹو کمیٹی کے پہلے اجلاس سے خطاب کر رہے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "59" shared_words = "7" pair_no = "92" >
+<sentence_1> 02 ستمبر (اے پی پی) بالی وڈ فلم ’’انگلش ونگلش‘‘ نے جاپان کے باکس آفس میں 10 لاکھ ڈالر کا بزنس کر لیا</sentence_1>
+<sentence_2>"انگلش ونگلش" نے جاپان میں ایک ملین ڈالر کا بزنس لیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "48" shared_words = "6" pair_no = "93" >
+<sentence_1>سنٹرل ایگزیکٹو کمیٹی کے اجلاس میں بحران کو سیاسی انداز سے حل کرنے پر غور کیا گیا</sentence_1>
+<sentence_2> ساڑھے 4 گھنٹے کے اجلاس میں ملکی سیاسی صورتحال پر سخت تشویش کا اظہارکیا  گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "77" shared_words = "5" pair_no = "94" >
+<sentence_1>سپریم کورٹ نے جسٹس انورظہیرجمالی کی بطورقائم مقام چیف الیکشن کمشنر نامزدگی واپس لے لی فیصلہ 5 دسمبرسے نافذ العمل ہوگا</sentence_1>
+<sentence_2>انہوں نے عدالت سے استدعاکی کہ چیف الیکشن کمشنر کی تعیناتی کے لئے مزید قوت دیا جائے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "106" shared_words = "17" pair_no = "95" >
+<sentence_1>چیمپئنز لیگ ٹی 20 میں لاہور لائنز اپنا آخری اور اہم لیگ میچ (آج) آسٹریلیا کی پرتھ سکارچرز کے خلاف کھیلے گی لاہور لائنز کو سیمی فائنل میں پہنچنے کیلئے پرتھ سکارچر کو بڑے مارجن سے شکست دینا ہوگی</sentence_1>
+<sentence_2>چیمپئنز لیگ :لاہور لائنز کے لیے ’’کرو یا مرو ‘‘ کی صورتحال سیمی فائنل میں رسائی کیلیے آج پرتھ اسکور چرز کو بھاری مارجن سے کچلنا ہو گا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "74" shared_words = "9" pair_no = "96" >
+<sentence_1> انہوں نے کہا کہ ان کی نئی آنے والی فلم انٹرٹیمنٹ کامیڈی سے بھرپور ہے جو شائقین کو ضرور پسند آئے گی</sentence_1>
+<sentence_2>46 بس کے اداکار نے کہا کہ مجھے اب کامیڈی فلمیں کرنا اس وجہ سے پسند ہے کیونکہ میرا مزاج بدل گیا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "132" shared_words = "11" pair_no = "97" >
+<sentence_1>24 نومبر (اے پی پی) چیف جسٹس ناصرالملک نے سپریم کورٹ کے جج انورظہیرجمالی کی بطورقائم مقام چیف الیکشن کمشنرکی نامزدگی واپس لے لی، یہ فیصلہ 5 دسمبرسے نافذ العمل ہوگا </sentence_1>
+<sentence_2>اسلام آباد(نیوز ایجنسیاں)چیف جسٹس آف پاکستان جسٹس ناصر الملک نے حکومت کو مستقل چیف الیکشن کمشنرکیلئے 5تک کی مہلت دیتے ہوئے قائم مقام چیف الیکشن کمشنرانور ظہیر جمالی کی خدمات کو واپس لینے حکم نامہ جاری کر دیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "70" shared_words = "5" pair_no = "98" >
+<sentence_1> کمیٹی نے بدلتی صورتحال میں فیصلوں کا اختیار آصف علی زرداری اور بلاول بھٹو کو دے دیا ہے</sentence_1>
+<sentence_2> بلاول بھٹو نے سندھ حکومت کی کارکردگی پر عدم اطمینان کا اظہار کرتے ہوئے شدید تنقید کی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "10" pair_no = "99" >
+<sentence_1> 02 ستمبر (اے پی پی) بالی وڈ فلم ’’انگلش ونگلش‘‘ نے جاپان کے باکس آفس میں 10 لاکھ ڈالر کا بزنس کر لیا</sentence_1>
+<sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ سری دیوی کی فلم "انگلش ونگلش" نے جاپان میں ایک ملین ڈالر کا بزنس لیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "78" shared_words = "5" pair_no = "100" >
+<sentence_1> 02 ستمبر (اے پی پی) بالی وڈ فلم ’’انگلش ونگلش‘‘ نے جاپان کے باکس آفس میں 10 لاکھ ڈالر کا بزنس کر لیا</sentence_1>
+<sentence_2> یہ فلم جاپان میں 28 جون کر ریلیز ہوئی تھی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "72" shared_words = "6" pair_no = "101" >
+<sentence_1> کمیٹی نے بدلتی صورتحال میں فیصلوں کا اختیار آصف علی زرداری اور بلاول بھٹو کو دے دیا ہے</sentence_1>
+<sentence_2> پیپلز پارٹی نے انتخابی اصلاحات کا عمل وسیع تر مشاورت اور مقررہ وقت کے اندر مکمل کرنے کا بھی مطالبہ کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "72" shared_words = "7" pair_no = "102" >
+<sentence_1> اداکارہ سری دیوی نے کہا کہ وہ جاپان میں فلم کو پذیرائی ملنے پر بہت خوش ہیں</sentence_1>
+<sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ سری دیوی کی فلم "انگلش ونگلش" نے جاپان میں ایک ملین ڈالر کا بزنس لیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "65" shared_words = "5" pair_no = "103" >
+<sentence_1> تحریک انصاف اور عوامی تحریک کی جانب سے استعفوں کے مطالبے پرناپسندیدگی کا اظہار کیا گیا</sentence_1>
+<sentence_2> وہ دبئی میں  پارٹی کی سنٹرل ایگزیکٹو کمیٹی کے پہلے اجلاس سے خطاب کر رہے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "56" shared_words = "5" pair_no = "104" >
+<sentence_1> تحریک انصاف اور عوامی تحریک کی جانب سے استعفوں کے مطالبے پرناپسندیدگی کا اظہار کیا گیا</sentence_1>
+<sentence_2> ساڑھے 4 گھنٹے کے اجلاس میں ملکی سیاسی صورتحال پر سخت تشویش کا اظہارکیا  گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "58" shared_words = "11" pair_no = "105" >
+<sentence_1> اداکارہ سری دیوی نے کہا کہ وہ جاپان میں فلم کو پذیرائی ملنے پر بہت خوش ہیں</sentence_1>
+<sentence_2>اس بارے میں سری دیوی نے کہا کہ مجھے خوشی ہے کہ میری فلم "انگلش ونگلش" نے جاپان میں اچھا بزنس کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "6" pair_no = "106" >
+<sentence_1> اداکارہ سری دیوی نے کہا کہ وہ جاپان میں فلم کو پذیرائی ملنے پر بہت خوش ہیں</sentence_1>
+<sentence_2>انہوں نے کہا کہ تعریف ہر کسی کو اچھی لگتی ہے لیکن میں تعریف کے ساتھ ساتھ تنقید پر توجہ دیتی ہوں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "7" pair_no = "107" >
+<sentence_1> اداکارہ سری دیوی نے کہا کہ وہ جاپان میں فلم کو پذیرائی ملنے پر بہت خوش ہیں</sentence_1>
+<sentence_2> انہوں نے کہا کہ تعریف ہر کسی کو اچھی لگتی ہے لیکن میں تعریف کے ساتھ ساتھ تنقید پر توجہ دیتی ہوں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "64" shared_words = "9" pair_no = "108" >
+<sentence_1> امید ہے کہ فلم آئندہ دنوں میں مزید اچھا بزنس کرے گی</sentence_1>
+<sentence_2>اس بارے میں سری دیوی نے کہا کہ مجھے خوشی ہے کہ میری فلم "انگلش ونگلش" نے جاپان میں اچھا بزنس کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "51" shared_words = "5" pair_no = "109" >
+<sentence_1> امید ہے کہ فلم آئندہ دنوں میں مزید اچھا بزنس کرے گی</sentence_1>
+<sentence_2>مجھے اس بات کی خوشی ہے کہ جاپان میں پرستاروں کی تعداد میں اضافہ ہوا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "70" shared_words = "5" pair_no = "110" >
+<sentence_1> تحریک انصاف اور عوامی تحریک کی جانب سے استعفوں کے مطالبے پرناپسندیدگی کا اظہار کیا گیا</sentence_1>
+<sentence_2> بلاول بھٹو نے سندھ حکومت کی کارکردگی پر عدم اطمینان کا اظہار کرتے ہوئے شدید تنقید کی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "77" shared_words = "6" pair_no = "111" >
+<sentence_1> تحریک انصاف اور عوامی تحریک کی جانب سے استعفوں کے مطالبے پرناپسندیدگی کا اظہار کیا گیا</sentence_1>
+<sentence_2> پیپلز پارٹی نے انتخابی اصلاحات کا عمل وسیع تر مشاورت اور مقررہ وقت کے اندر مکمل کرنے کا بھی مطالبہ کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "81" shared_words = "5" pair_no = "112" >
+<sentence_1> کینیڈا نے 32 طلائی تمغوں کے ساتھ تیسری جبکہ میزبان سکاٹ لینڈ نے 19 طلائی تمغوں کے ساتھ چوتھی پوزیشن حاصل کی</sentence_1>
+<sentence_2>سکاٹ لینڈ19 کولڈ کے ساتھ چوتھے،بھارت15 کے ساتھ پانچویں نمبر پر آیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "73" shared_words = "5" pair_no = "113" >
+<sentence_1> تفصیلات کے مطابق میڈلز ٹیبل پر انگلینڈ کی حکمرانی کے ساتھ 2014 دولت مشترکہ کھیلوں کا اختتام ہو گیا</sentence_1>
+<sentence_2>انگلینڈ کے کرس لیگریج اور پٹیر ملز کو برانز میڈل پر اکتفا کرنا پڑا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "71" shared_words = "5" pair_no = "114" >
+<sentence_1> امید ہے کہ فلم آئندہ دنوں میں مزید اچھا بزنس کرے گی</sentence_1>
+<sentence_2>مجھے مشکل کردار کر کے خوشی ہوتی ہے کیونکہ جو مزہ مشکل کرداروں میں ہے وہ کسی اور کردار میں نہیں ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "5" pair_no = "115" >
+<sentence_1> انگلینڈ نے مجموعی طور پر174 میڈل حاصل کئے جس میں58 گولڈ 59 سلور اور 57 برانز میڈلز شامل ہیں</sentence_1>
+<sentence_2>انگلینڈ کے کرس لیگریج اور پٹیر ملز کو برانز میڈل پر اکتفا کرنا پڑا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "70" shared_words = "8" pair_no = "116" >
+<sentence_1>پاکستان سمیت دنیا بھر میں خواتین پر تشدد کے خاتمہ کا عالمی دن آج منایا جائیگا</sentence_1>
+<sentence_2>پاکستان میں خواتین پر جنسی حملوں میں لگ بھگ 50فیصد اور گھریلو تشدد کے واقعات میں 25فیصد اضافہ ریکارڈ ہوا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "60" shared_words = "6" pair_no = "117" >
+<sentence_1>پاکستان سمیت دنیا بھر میں خواتین پر تشدد کے خاتمہ کا عالمی دن آج منایا جائیگا</sentence_1>
+<sentence_2>پاکستان میں خواتین کے ساتھ امتیازی سلوک کے خاتمے کیلئے حالیہ برسوں میں نئی قانون سازی بھی ہوئی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "79" shared_words = "6" pair_no = "118" >
+<sentence_1> تحریک انصاف اور عوامی تحریک کی جانب سے استعفوں کے مطالبے پرناپسندیدگی کا اظہار کیا گیا</sentence_1>
+<sentence_2> اس موقع پر ذوالفقار علی بھٹو، بینظیر بھٹو کی قربانیوں کو خراج تحسین اور زرداری کی فراست کو خراج تحسین پیش کیا گیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "154" shared_words = "5" pair_no = "119" >
+<sentence_1>افغانستان سرحد پار حملوں بارے ثبوت فراہم کرے،سرتاج عزیز</sentence_1>
+<sentence_2>اسلام آباد (اے این این+ آن لائن+ سٹاف رپورٹر+ این این آئی) پاکستان نے افغانستان سے کہا ہے کہ وہ اس کے دہشت گردی کی کارروائیاں اور سرحد پار گولہ باری میں ملوث ہونے کے ثبوت فراہم کرے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "31" shared_words = "5" pair_no = "120" >
+<sentence_1>دپیکا پڈوکون نے فلم ’’پیکو‘‘ کے لئے بنگالی زبان سیکھنا شروع کردی</sentence_1>
+<sentence_2>میں نے فلم " پیکو" کے لئے بنگالی سیکھی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "5" pair_no = "121" >
+<sentence_1> تیسرے نمبر پر موجود کینیڈا کے 82 تمغوں میں 32 گولڈ16 سلور اور 34 برانز میڈلز شامل ہیں</sentence_1>
+<sentence_2>3 سلور ایک برانز میڈل جیت کر پاکستان 23ویں نمبر پر رہا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "84" shared_words = "5" pair_no = "122" >
+<sentence_1> ایتھلیٹکس مقابلوں میں کینیا اور جمیکا کے ایتھلیٹس چھائے رہے اور دونوں ممالک نے بالترتیب دس، دس گولڈ میڈل حاصل کئے</sentence_1>
+<sentence_2>انگلینڈ کے کرس لیگریج اور پٹیر ملز کو برانز میڈل پر اکتفا کرنا پڑا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "65" shared_words = "5" pair_no = "123" >
+<sentence_1> تیسرے نمبر پر موجود کینیڈا کے 82 تمغوں میں 32 گولڈ16 سلور اور 34 برانز میڈلز شامل ہیں</sentence_1>
+<sentence_2>انگلینڈ کے کرس لیگریج اور پٹیر ملز کو برانز میڈل پر اکتفا کرنا پڑا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "60" shared_words = "10" pair_no = "124" >
+<sentence_1> فلم پیکو کی مرکزی کاسٹ میں امیتابھ بچن بھی شامل ہیں جو کہ فلم میں دپیکا کے والد بنیں گے</sentence_1>
+<sentence_2>شوجت سرکار کی ہدایتکاری میں بننے والی فلم " پیکو" میں امیتابھ بچن ،دیپیکا کے والد کا کردار کریں گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "79" shared_words = "6" pair_no = "125" >
+<sentence_1> فلم پیکو کی مرکزی کاسٹ میں امیتابھ بچن بھی شامل ہیں جو کہ فلم میں دپیکا کے والد بنیں گے</sentence_1>
+<sentence_2>میں عرفان خان اور امتیاز علی کی فلم"تماشہ" کے علاوہ سنجے لیلا بھنسالی فلم "باجی راؤ مستانی "کر رہی ہوں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "21" shared_words = "7" pair_no = "126" >
+<sentence_1>مہیش بھٹ کا تلگو فلم ’’مایا‘‘ کا ہندی ریمیک بنانے کا اعلان</sentence_1>
+<sentence_2>مہیش بھٹ تیلگو فلم " مایا" کا ہندی رس میک بنائینگے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "6" pair_no = "127" >
+<sentence_1> 3 اکتوبر (اے پی پی) بالی وڈ فلمساز مہیش بھٹ نے تلگو فلم کا ہندی ریمیک بنانے کا اعلان کردیا</sentence_1>
+<sentence_2>مہیش بھٹ تیلگو فلم " مایا" کا ہندی رس میک بنائینگے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "47" shared_words = "8" pair_no = "128" >
+<sentence_1> 3 اکتوبر (اے پی پی) بالی وڈ فلمساز مہیش بھٹ نے تلگو فلم کا ہندی ریمیک بنانے کا اعلان کردیا</sentence_1>
+<sentence_2>ممبئی(وقت نیوز ) بالی وڈ کے فلمساز مہیش بھٹ تیلگو فلم" مایا" کا ہندی ری میک بنائیں گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "57" shared_words = "6" pair_no = "129" >
+<sentence_1> ذرائع ابلاغ کے مطابق فلمساز مہیشت بھٹ نے تلگو فلم ’’مایا‘‘ کے ہندی ریمیک فلم بنانے کا اعلان کردیا ہے</sentence_1>
+<sentence_2>ممبئی(وقت نیوز ) بالی وڈ کے فلمساز مہیش بھٹ تیلگو فلم" مایا" کا ہندی ری میک بنائیں گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "75" shared_words = "7" pair_no = "130" >
+<sentence_1> ذرائع ابلاغ کے مطابق فلمساز مہیشت بھٹ نے تلگو فلم ’’مایا‘‘ کے ہندی ریمیک فلم بنانے کا اعلان کردیا ہے</sentence_1>
+<sentence_2>انڈوایشین نیوز سروس کے مطابق اس فلم کے پروڈیوسر مہیش بھٹ اور ہدایتکار نیلا کانتا ہیں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "75" shared_words = "5" pair_no = "131" >
+<sentence_1> ذرائع ابلاغ کے مطابق فلمساز مہیشت بھٹ نے تلگو فلم ’’مایا‘‘ کے ہندی ریمیک فلم بنانے کا اعلان کردیا ہے</sentence_1>
+<sentence_2>میں جب بھی کوئی فلم بناتا ہوں تو لوگوں کے جذبات کو مدنظر رکھتا ہوں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "130" shared_words = "5" pair_no = "132" >
+<sentence_1>جج لوگوں کو شاہراہ دستور سے نہیں ہٹا سکتے ،سپریم کورٹ</sentence_1>
+<sentence_2>مظاہرین شاہراہ دستور کی بجائے دوسری جگہ دھرنا دیں : سپریم کورٹ حکومت کو کنٹینر ہٹانے کی ہدایت‘ کسی غیر آئینی اقدام کی حمایت نہیں کرینگے عمران نے جواب داخل کرا دیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "20" shared_words = "5" pair_no = "133" >
+<sentence_1> فلم کی کاسٹ کا انتخاب ابھی ہونا باقی ہے</sentence_1>
+<sentence_2>اس فلم کی کاسٹ ابھی بائنل نہیں ہوئی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "5" pair_no = "134" >
+<sentence_1> ممکن ہے فلم میں زیادہ تر نئے چہرے لئے جائیں</sentence_1>
+<sentence_2> میری کوشش ہوتی ہے میں جس بھی فنکار کو کام دوں اس میں وہ حقیقت کے قریب تر اداکاری کرے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "115" shared_words = "14" pair_no = "135" >
+<sentence_1>میسی کے ریکارڈز بنانے کا سلسلہ جاری،سٹار فٹ بالر نے چیمپئنز لیگ تاریخ میں زیادہ گولز کا نیا عالمی ریکارڈ اپنے قبضے میں کر لیا</sentence_1>
+<sentence_2>بارسلونا(نیٹ نیوز)بارسلونا کے فٹ بالر لیونل لیگ میں سب سے زیادہ اپول نکوسیا کے خلاف ہیٹ ٹرک کرکے چیمپےئز لیگ میں سب سے زیادہ گول کرنے والے کھلاڑی ہونے کا اعزاز اپنے نام کر لیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "85" shared_words = "6" pair_no = "136" >
+<sentence_1>میسی کے ریکارڈز بنانے کا سلسلہ جاری،سٹار فٹ بالر نے چیمپئنز لیگ تاریخ میں زیادہ گولز کا نیا عالمی ریکارڈ اپنے قبضے میں کر لیا</sentence_1>
+<sentence_2>میسی نے اس میچ سے قبل چیمپئنز لیگ میں 71گول کئے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "124" shared_words = "15" pair_no = "137" >
+<sentence_1>26 نومبر (اے پی پی) شہرہ آفاق ارجنٹائن فٹ بالر لائنل میسی کے ریکارڈز بنانے کا سلسلہ جاری ہے، سٹار فٹ بالر نے چیمپئنز فٹ بال لیگ تاریخ میں زیادہ گولز کا نیا عالمی ریکارڈ اپنے قبضے میں کر لیا</sentence_1>
+<sentence_2>بارسلونا(نیٹ نیوز)بارسلونا کے فٹ بالر لیونل لیگ میں سب سے زیادہ اپول نکوسیا کے خلاف ہیٹ ٹرک کرکے چیمپےئز لیگ میں سب سے زیادہ گول کرنے والے کھلاڑی ہونے کا اعزاز اپنے نام کر لیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "147" shared_words = "6" pair_no = "138" >
+<sentence_1>26 نومبر (اے پی پی) شہرہ آفاق ارجنٹائن فٹ بالر لائنل میسی کے ریکارڈز بنانے کا سلسلہ جاری ہے، سٹار فٹ بالر نے چیمپئنز فٹ بال لیگ تاریخ میں زیادہ گولز کا نیا عالمی ریکارڈ اپنے قبضے میں کر لیا</sentence_1>
+<sentence_2>میسی نے اس میچ سے قبل چیمپئنز لیگ میں 71گول کئے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "40" shared_words = "5" pair_no = "139" >
+<sentence_1> پاکستان تین چاندی اور ایک کانسی کے تمغے کے ساتھ 23 ویں نمبر پر رہا</sentence_1>
+<sentence_2>سکاٹ لینڈ19 کولڈ کے ساتھ چوتھے،بھارت15 کے ساتھ پانچویں نمبر پر آیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "38" shared_words = "6" pair_no = "140" >
+<sentence_1> پاکستان تین چاندی اور ایک کانسی کے تمغے کے ساتھ 23 ویں نمبر پر رہا</sentence_1>
+<sentence_2>3 سلور ایک برانز میڈل جیت کر پاکستان 23ویں نمبر پر رہا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "7" pair_no = "141" >
+<sentence_1> میسی نے چیمپئنز لیگ میں نیکوسیا کے خلاف میچ میں شاندار ہیٹرک کر کے یہ کارنامہ انجام دیا</sentence_1>
+<sentence_2>میسی نے اس میچ سے قبل چیمپئنز لیگ میں 71گول کئے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "59" shared_words = "5" pair_no = "142" >
+<sentence_1> میسی نے چیمپئنز لیگ میں نیکوسیا کے خلاف میچ میں شاندار ہیٹرک کر کے یہ کارنامہ انجام دیا</sentence_1>
+<sentence_2>میسی نے اپنا پہلا گول میچ میں 38ویں منٹ میں کیا،دوسرا 58ویں منٹ اور تیسرا87ویں منٹ میں کیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "5" pair_no = "143" >
+<sentence_1> میسی نے چیمپئنز لیگ میں نیکوسیا کے خلاف میچ میں شاندار ہیٹرک کر کے یہ کارنامہ انجام دیا</sentence_1>
+<sentence_2>رال نے 71گول142میچوں مے کیے تھے جب کہ میسی نے 74گول 91میچوں میں کیے ہیں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "48" shared_words = "6" pair_no = "144" >
+<sentence_1> اس سے قبل اس ریکارڈ پر راہول کا قبضہ تھا، انہوں نے 71 گول سکور کر رکھے تھے</sentence_1>
+<sentence_2>میسی نے اس میچ سے قبل چیمپئنز لیگ میں 71گول کئے تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "41" shared_words = "5" pair_no = "145" >
+<sentence_1> اس سے قبل اس ریکارڈ پر راہول کا قبضہ تھا، انہوں نے 71 گول سکور کر رکھے تھے</sentence_1>
+<sentence_2>اس سے قبل میسی اور رےئل میڈرڈ کے رال 71گول کرکے برابر تھے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "48" shared_words = "11" pair_no = "146" >
+<sentence_1> تحریک انصاف نے کہا ہے کہ ان کے کسی اقدام سے ماورائے آئین اقدام کا کوئی خطرہ نہیں</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "76" shared_words = "7" pair_no = "147" >
+<sentence_1>چیف جسٹس ناصرالملک نے جواب دیتے ہوئے کہا کہ ایمرجنسی کے حوالے سے اعتزاز احسن کی درخواست پر کوئی حکم جاری نہیں ہوا تھا</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "2" shared_words = "36" pair_no = "148" >
+<sentence_1>جسٹس جواد ایس خواجہ نے ریمارکس دیتے ہوئے کہا کہ ہم پانچ جج جاکر لوگوں کو شاہراہ دستور سے نہیں ہٹا سکتے یہ کام انتظامیہ کا ہے‘ حکومت کہاں ہے وہ اپنا فرض کیوں ادا نہیں کررہی</sentence_1>
+<sentence_2> جسٹس جواد ایس خواجہ نے ریمارکس دیتے ہوئے کہا کہ ہم پانچ جج جاکر لوگوں کو شاہراہ دستور سے نہیں ہٹا سکتے یہ کام انتظامیہ کا ہے‘ حکومت کہاں ہے وہ اپنا فرض کیوں ادا نہیں کر رہی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "46" shared_words = "7" pair_no = "149" >
+<sentence_1>جسٹس ثاقب نثار نے ریمارکس دیتے ہوئے کہا کہ حکومت کنٹینر ہٹائے اور مظاہرین شاہراہ دستور خالی کردیں</sentence_1>
+<sentence_2> حکومت کنیٹنرز ہٹائے اور مظاہرین شاہراہ دستور خالی کر دیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "71" shared_words = "6" pair_no = "150" >
+<sentence_1>جسٹس ثاقب نثار نے ریمارکس دیتے ہوئے کہا کہ حکومت کنٹینر ہٹائے اور مظاہرین شاہراہ دستور خالی کردیں</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "56" shared_words = "10" pair_no = "151" >
+<sentence_1>عوامی تحریک نے مسلم لیگ (ن) کی طرح سپریم کورٹ پر حملہ نہیں کیا</sentence_1>
+<sentence_2> عوامی تحریک نے مسلم لیگ (ن)کی طرح عدلیہ پر حملہ نہیں کیا، لوگوں کی نقل و حرکت میں حکومت رکاوٹ بن رہی ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "61" shared_words = "5" pair_no = "152" >
+<sentence_1>عوامی تحریک نے مسلم لیگ (ن) کی طرح سپریم کورٹ پر حملہ نہیں کیا</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "72" shared_words = "5" pair_no = "153" >
+<sentence_1>دھرنوں کی اجازت قانون دیتا ہے اس پر جسٹس ثاقب نثار نے کہا کہ لوگوں کو مشکلات کا سامنا ہے</sentence_1>
+<sentence_2> جسٹس جواد ایس خواجہ نے کہاکہ حکومت آئین اور قانون نافذ کرے،کوئی حائل ہورہا ہے تو بتائیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "71" shared_words = "8" pair_no = "154" >
+<sentence_1>تحریک انصاف یقین دلاتی ہے کہ کوئی ایسا اقدام نہیں اٹھایا جائے گا کہ جس سے ماورائے آئین اقدام ہونے کا کوئی امکان ہو</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "61" shared_words = "6" pair_no = "155" >
+<sentence_1>دھرنوں کی اجازت قانون دیتا ہے اس پر جسٹس ثاقب نثار نے کہا کہ لوگوں کو مشکلات کا سامنا ہے</sentence_1>
+<sentence_2> سپریم کورٹ نے احتجاج کرنیوالوں کو دھرنے کی جگہ تبدیل کرنے کا حکم دیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "100" shared_words = "12" pair_no = "156" >
+<sentence_1>محمد حفیظ نے نیوزی لینڈ کے خلاف آخری ٹیسٹ کی پہلی اننگز میں سنچری داغ دی</sentence_1>
+<sentence_2>شارجہ(سپورٹس ڈیسک)محمد حفیظ کی شاندار بیٹنگ کی بدولت پاکستان نے نیوزی لینڈ کیخلاف آخری ٹیسٹ کے پہلے روز کھیل ختم ہونے تک پہلی اننگز میں 3وکٹوں پر 281رنز بنا لئے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "39" shared_words = "18" pair_no = "157" >
+<sentence_1>جسٹس جواد ایس خواجہ نے کہا کہ عدالت کا دروازہ شاہراہ دستور پر کھلتا ہے ہمیں متبادل راستے سے آنا پڑا</sentence_1>
+<sentence_2> جسٹس جواد ایس خواجہ نے کہاکہ سپریم کورٹ کا دروازہ شاہراہ دستور پر کھلتا ہے اور احتجاج کے باعث ہمیں متبادل راستے سے عدالت آنا پڑا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "103" shared_words = "13" pair_no = "158" >
+<sentence_1>26 نومبر (اے پی پی) پاکستان کرکٹ ٹیم کے سٹار اوپننگ بلے باز محمد حفیظ نے نیوزی لینڈ کے خلاف آخری ٹیسٹ کی پہلی اننگز میں سنچری داغ دی</sentence_1>
+<sentence_2>شارجہ(سپورٹس ڈیسک)محمد حفیظ کی شاندار بیٹنگ کی بدولت پاکستان نے نیوزی لینڈ کیخلاف آخری ٹیسٹ کے پہلے روز کھیل ختم ہونے تک پہلی اننگز میں 3وکٹوں پر 281رنز بنا لئے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "72" shared_words = "7" pair_no = "159" >
+<sentence_1>انہوں نے پاکستان عوامی تحریک سے کہا کہ وہ درخواست گزاروں کے اعتراضات کا پیراوائز مفصل جواب داخل کرائیں</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "73" shared_words = "6" pair_no = "160" >
+<sentence_1>جسٹس جواد ایس خواجہ نے کہا کہ عدالت کا دروازہ شاہراہ دستور پر کھلتا ہے ہمیں متبادل راستے سے آنا پڑا</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "54" shared_words = "6" pair_no = "161" >
+<sentence_1>جسٹس جواد ایس خواجہ نے کہا کہ عدالت کا دروازہ شاہراہ دستور پر کھلتا ہے ہمیں متبادل راستے سے آنا پڑا</sentence_1>
+<sentence_2> جسٹس جواد ایس خواجہ نے کہاکہ حکومت آئین اور قانون نافذ کرے،کوئی حائل ہورہا ہے تو بتائیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "45" shared_words = "5" pair_no = "162" >
+<sentence_1> حفیظ نے عمدہ بیٹنگ کی بدولت کیریئر کی ساتویں سنچری بھی مکمل کی</sentence_1>
+<sentence_2>مارک کریگ نے 2اور ویٹوری نے ایک وکٹ حا صل کی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "51" shared_words = "8" pair_no = "163" >
+<sentence_1> 22 اگست (اے پی پی) بالی وڈ اداکارہ پریانکا چوپڑا نے کہا ہے کہ وہ صبح سویرے جاگنے کی عادی نہیں ہیں</sentence_1>
+<sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ پریانکا چوپڑا کو جلدی اٹھنا پسند نہیں ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "88" shared_words = "8" pair_no = "164" >
+<sentence_1> 22 اگست (اے پی پی) بالی وڈ اداکارہ پریانکا چوپڑا نے کہا ہے کہ وہ صبح سویرے جاگنے کی عادی نہیں ہیں</sentence_1>
+<sentence_2> سانتا بانتا نیوز کے مطابق پریانکاکو صبح جلدی اٹھنا پسند نہیں ہے وہ لیٹ نائٹ شوٹ مکمل کراتی ہیں اسی جہ سے صبح جلدی نہیں اٹھ سکتیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "51" shared_words = "10" pair_no = "165" >
+<sentence_1> یہ ان کی ایشیا میں چھٹی سنچری ہے جبکہ ایک سنچری انہوں نے ایشیا سے باہر زمبابوے میں بنائی تھی</sentence_1>
+<sentence_2>یہ انکی ایشیا میں چھٹی اور مجموعی طور پر ساتویں سنچری تھی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "75" shared_words = "5" pair_no = "166" >
+<sentence_1>جس پر جسٹس جواد ایس خواجہ نے کہا کہ آپ چاہتے ہیں کہ ہم پانچ جج جائیں اور مظاہرین کو شاہراہ دستور سے اٹھائیں</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "58" shared_words = "6" pair_no = "167" >
+<sentence_1>جس پر جسٹس جواد ایس خواجہ نے کہا کہ آپ چاہتے ہیں کہ ہم پانچ جج جائیں اور مظاہرین کو شاہراہ دستور سے اٹھائیں</sentence_1>
+<sentence_2> جسٹس جواد ایس خواجہ نے کہاکہ حکومت آئین اور قانون نافذ کرے،کوئی حائل ہورہا ہے تو بتائیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "58" shared_words = "5" pair_no = "168" >
+<sentence_1> اداکارہ نے کہا کہ انہیں اپنے کام سے پیار ہے اس لئے وہ ہر طرح کے چیلنج کے لئے تیار رہتی ہیں</sentence_1>
+<sentence_2>انہوں نے کہا کہ میری انوشکا کو ساتھ سرد جنگ شروع ہو گئی ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "167" shared_words = "9" pair_no = "169" >
+<sentence_1>وزیراعلیٰ پنجاب کی کوئٹہ میں انسداد پولیو ورکرز پر حملے کی مذمت ،4افراد کے جاں بحق ہونے پراظہار افسوس قوم کے نونہالوں کو پولیو جیسی موذی بیماری سے محفوظ بنانے والوں پر حملہ وحشیانہ فعل ہے‘ شہباز شریف</sentence_1>
+<sentence_2>کوئٹہ ،لاہور(خصوصی رپورٹر،خصوصی وقائع نگار،نیوز ایجنسیاں)کوئٹہ میں نامعلوم موٹر سائیکل سوار ملزموں نے پولیو مہم پر جانے والی ٹیم کی گاڑی پر فائرنگ کرکے 3خواتین سمیت 4افراد کو قتل اور 3خواتین کو زخمی کر دیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "139" shared_words = "8" pair_no = "170" >
+<sentence_1>وزیراعلیٰ پنجاب کی کوئٹہ میں انسداد پولیو ورکرز پر حملے کی مذمت ،4افراد کے جاں بحق ہونے پراظہار افسوس قوم کے نونہالوں کو پولیو جیسی موذی بیماری سے محفوظ بنانے والوں پر حملہ وحشیانہ فعل ہے‘ شہباز شریف</sentence_1>
+<sentence_2>وزیر اعظم نواز شریف نے کوئٹہ میں پولیوٹیم پر فائرنگ کا نوٹس لے کر حملہ آروں کے خلاف فوری کاروائی کا حکم دے دیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "65" shared_words = "5" pair_no = "171" >
+<sentence_1> اداکارہ ان دنوں فلم ’’میری کوم‘‘ کی تشہیری مہم میں مشغول ہیں جو جلدہی ریلیزکردی جائے گی</sentence_1>
+<sentence_2> میں نے او ر رنبھیر نے فلم پائریسی پر مہم چلانی شروع کی تھی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "73" shared_words = "6" pair_no = "172" >
+<sentence_1>کونکونا سین شرما نے نئی فلم کا سکرپٹ تحریر کرنے میں مصروف</sentence_1>
+<sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ کونکونا سین شرما نے ڈائر یکشن کے میدان میں قدم رکھنے کا فیصلہ کیا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "79" shared_words = "9" pair_no = "173" >
+<sentence_1>کونکونا سین شرما نے نئی فلم کا سکرپٹ تحریر کرنے میں مصروف</sentence_1>
+<sentence_2> انڈو ایشین نیوز سروس سے کونکونا سین شرما نے انٹرویو میں کہا کہ میں نے ڈائر یکشن کے میدان میں قدم رکھنے کا فیصلہ کیا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "54" shared_words = "10" pair_no = "174" >
+<sentence_1> 22 اگست (اے پی پی) بالی وڈ اداکارہ کونکونا سین شرما اداکاری کے بعد فلم کا سکرپٹ لکھنے میں مصروف ہیں</sentence_1>
+<sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ کونکونا سین شرما نے ڈائر یکشن کے میدان میں قدم رکھنے کا فیصلہ کیا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "81" shared_words = "10" pair_no = "175" >
+<sentence_1> 22 اگست (اے پی پی) بالی وڈ اداکارہ کونکونا سین شرما اداکاری کے بعد فلم کا سکرپٹ لکھنے میں مصروف ہیں</sentence_1>
+<sentence_2> انڈو ایشین نیوز سروس سے کونکونا سین شرما نے انٹرویو میں کہا کہ میں نے ڈائر یکشن کے میدان میں قدم رکھنے کا فیصلہ کیا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "5" pair_no = "176" >
+<sentence_1> 22 اگست (اے پی پی) بالی وڈ اداکارہ کونکونا سین شرما اداکاری کے بعد فلم کا سکرپٹ لکھنے میں مصروف ہیں</sentence_1>
+<sentence_2> میں جسے ہی سکرپٹ رائٹنگ سے فار غ ہوں گی فلم کے ہدایت کے بارے میں سوچوں گی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "147" shared_words = "8" pair_no = "177" >
+<sentence_1>26 نومبر(اے پی پی) وزیر اعلیٰ پنجاب محمد شہباز شریف نے کوئٹہ میں مشرقی بائی پاس پر انسداد پولیو ورکرز کی گاڑی پر حملے کی شدید مذمت کی ہے</sentence_1>
+<sentence_2>کوئٹہ ،لاہور(خصوصی رپورٹر،خصوصی وقائع نگار،نیوز ایجنسیاں)کوئٹہ میں نامعلوم موٹر سائیکل سوار ملزموں نے پولیو مہم پر جانے والی ٹیم کی گاڑی پر فائرنگ کرکے 3خواتین سمیت 4افراد کو قتل اور 3خواتین کو زخمی کر دیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "95" shared_words = "7" pair_no = "178" >
+<sentence_1>26 نومبر(اے پی پی) وزیر اعلیٰ پنجاب محمد شہباز شریف نے کوئٹہ میں مشرقی بائی پاس پر انسداد پولیو ورکرز کی گاڑی پر حملے کی شدید مذمت کی ہے</sentence_1>
+<sentence_2>وزیر اعظم نواز شریف نے کوئٹہ میں پولیوٹیم پر فائرنگ کا نوٹس لے کر حملہ آروں کے خلاف فوری کاروائی کا حکم دے دیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "52" shared_words = "7" pair_no = "179" >
+<sentence_1> ممکن ہے کہ وہ اپنی تحریر کردہ فلم میں ہدایتکاری کے بھی فرائض سرانجام دیں</sentence_1>
+<sentence_2> میں جسے ہی سکرپٹ رائٹنگ سے فار غ ہوں گی فلم کے ہدایت کے بارے میں سوچوں گی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "57" shared_words = "6" pair_no = "180" >
+<sentence_1> ممکن ہے کہ وہ اپنی تحریر کردہ فلم میں ہدایتکاری کے بھی فرائض سرانجام دیں</sentence_1>
+<sentence_2> میرا ذاتی خیال ہے کہ میں مختلف زبانوں کی فلموں میں کام کرنے آئی ہوں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "5" pair_no = "181" >
+<sentence_1> ممکن ہے کہ وہ اپنی تحریر کردہ فلم میں ہدایتکاری کے بھی فرائض سرانجام دیں</sentence_1>
+<sentence_2> مجھے بنگالی زبان بہت اچھی لگتی ہے ،میں نے اسی وجہ سے بنگالی فلوں میں زیادہ کام کیا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "5" pair_no = "182" >
+<sentence_1> ممکن ہے کہ وہ اپنی تحریر کردہ فلم میں ہدایتکاری کے بھی فرائض سرانجام دیں</sentence_1>
+<sentence_2> میں ناکامیوں سے دل برداشتہ نہیں ہوں میں نے زندگی میں ہارنا نہین سیکھا اس لئے مزید محنت کروں گی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "61" shared_words = "6" pair_no = "183" >
+<sentence_1> ممکن ہے کہ وہ اپنی تحریر کردہ فلم میں ہدایتکاری کے بھی فرائض سرانجام دیں</sentence_1>
+<sentence_2>مجھے گھے کو سجانے کا بھی شوق ہے ، میں نے انٹیرےئر ڈیزائینگ کا کورس بھی کیا ہوا ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "6" pair_no = "184" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2> میں جسے ہی سکرپٹ رائٹنگ سے فار غ ہوں گی فلم کے ہدایت کے بارے میں سوچوں گی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "72" shared_words = "5" pair_no = "185" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2>میں نے فلم" مسٹر اینڈ مسز اےئر "،"امو،پیج تھری"، "ویک اپ سڈ "سے شائقین کی داد حاصل کی تھی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "5" pair_no = "186" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2>مجھے دو تین فلموں کی آفرز ہیں لیکن میں سکرپٹ پڑھے بغیر سائن نہیں کرتی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "65" shared_words = "5" pair_no = "187" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2> میرا ذاتی خیال ہے کہ میں مختلف زبانوں کی فلموں میں کام کرنے آئی ہوں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "68" shared_words = "6" pair_no = "188" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2>میں نے ہندی فلم پیج تھری سے شو بز میں بہت نام کمایا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "63" shared_words = "5" pair_no = "189" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2>میں ایسی ہی فلموں کام کر کے خخوشی محسوس کرتی ہوں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "64" shared_words = "5" pair_no = "190" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2> میں وہی فلمیں پسند کرتی ہوں جو میرے مزاج کے مطابق ہوتی ہیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "70" shared_words = "6" pair_no = "191" >
+<sentence_1> اداکارہ نے حال میں لیکمی فیشن ویک میں ڈیزائنر انا ویلا مشرا کے خصوصی فیشن شو میں شرکت کی</sentence_1>
+<sentence_2> میں ناکامیوں سے دل برداشتہ نہیں ہوں میں نے زندگی میں ہارنا نہین سیکھا اس لئے مزید محنت کروں گی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "54" shared_words = "9" pair_no = "192" >
+<sentence_1>اس پر چیف جسٹس نے کہا کہ اعتزاز احسن کی درخواست پر ایسا کوئی حکم جاری نہیں ہوا تھا</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "77" shared_words = "8" pair_no = "193" >
+<sentence_1>جسٹس جواد ایس خواجہ نے کہاکہ انتظامیہ کی ذمہ داری ہے کہ وہ قانون کے مطابق عمل کرے</sentence_1>
+<sentence_2> جسٹس جواد ایس خواجہ نے کہاکہ سپریم کورٹ کا دروازہ شاہراہ دستور پر کھلتا ہے اور احتجاج کے باعث ہمیں متبادل راستے سے عدالت آنا پڑا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "7" pair_no = "194" >
+<sentence_1>جسٹس جواد ایس خواجہ نے کہاکہ انتظامیہ کی ذمہ داری ہے کہ وہ قانون کے مطابق عمل کرے</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "48" shared_words = "8" pair_no = "195" >
+<sentence_1>جسٹس جواد ایس خواجہ نے کہاکہ انتظامیہ کی ذمہ داری ہے کہ وہ قانون کے مطابق عمل کرے</sentence_1>
+<sentence_2> جسٹس جواد ایس خواجہ نے کہاکہ حکومت آئین اور قانون نافذ کرے،کوئی حائل ہورہا ہے تو بتائیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "51" shared_words = "9" pair_no = "196" >
+<sentence_1>چیف جسٹس نے کہا کہ ابھی کسی اضافی دستاویزات کی ضرورت نہیں</sentence_1>
+<sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "31" shared_words = "5" pair_no = "197" >
+<sentence_1>مائیکل کلارک کی فٹنس مسائل کے باعث پاکستان کے خلاف سیریز میں شرکت مشکوک</sentence_1>
+<sentence_2>کلارک کی پاکستان کیخلاف سیریز مین شکست مشکوک</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "70" shared_words = "9" pair_no = "198" >
+<sentence_1>مائیکل کلارک کی فٹنس مسائل کے باعث پاکستان کے خلاف سیریز میں شرکت مشکوک</sentence_1>
+<sentence_2>میلبورن (رائٹرز) آسٹریلوی کپتان مائیکل کلارک کی اگلے ماہ یواے ای میں پاکستان کے خلاف ہونے ؤوالی سیریزمیں بھی شرکت مشکوک ہوگئی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "61" shared_words = "5" pair_no = "199" >
+<sentence_1>مائیکل کلارک کی فٹنس مسائل کے باعث پاکستان کے خلاف سیریز میں شرکت مشکوک</sentence_1>
+<sentence_2>انہوں نے کہا ہے کہ مائیکل کلارک کی انجری سے نجات کے لئے انتہائی نگہداشت کی ضرورت ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "102" shared_words = "5" pair_no = "200" >
+<sentence_1> 03 ستمبر (اے پی پی) آسٹریلوی ٹیم کے کپتان اور مایہ ناز بلے باز مائیکل کلارک کی فٹنس مسائل کے باعث پاکستان کے خلاف سیریز میں شرکت مشکوک ہو گئی</sentence_1>
+<sentence_2>کلارک کی پاکستان کیخلاف سیریز مین شکست مشکوک</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "78" shared_words = "13" pair_no = "201" >
+<sentence_1> 03 ستمبر (اے پی پی) آسٹریلوی ٹیم کے کپتان اور مایہ ناز بلے باز مائیکل کلارک کی فٹنس مسائل کے باعث پاکستان کے خلاف سیریز میں شرکت مشکوک ہو گئی</sentence_1>
+<sentence_2>میلبورن (رائٹرز) آسٹریلوی کپتان مائیکل کلارک کی اگلے ماہ یواے ای میں پاکستان کے خلاف ہونے ؤوالی سیریزمیں بھی شرکت مشکوک ہوگئی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "53" shared_words = "12" pair_no = "202" >
+<sentence_1>ہانگ کانگ میں جمہوریت نواز مظاہرین کو پولیس نے مرچوں کا سپرے کرکے منتشر کردیا</sentence_1>
+<sentence_2>دریں اثنا ہانک کانگ میں پولیس نے مرچوں کا سپرے کر کے جمہوریت نواز مظاہرین کو منتشر کر دیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "59" shared_words = "5" pair_no = "203" >
+<sentence_1>ہانگ کانگ میں جمہوریت نواز مظاہرین کو پولیس نے مرچوں کا سپرے کرکے منتشر کردیا</sentence_1>
+<sentence_2>ہانک کانگ کی تمام طلبہ تنظیموں نے رواں ماہ جمہوریت کے حق میں ریلیاں نکالنے کا اعلان کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "87" shared_words = "7" pair_no = "204" >
+<sentence_1> یکم ستمبر (اے پی پی) ہانگ کانگ میں جمہوریت نواز مظاہرین پر پولیس نے مرچوں کا سپرے کرکے ان کو منتشر کردیا</sentence_1>
+<sentence_2>ہانک کانگ (اے پی پی ) چین کے نیشنل پیپلز کانگرس کی سٹینڈنگ کمیٹی نے ہانک کانگ میں براہ راست انتخابات کی اجازت دینے سے انکار کر دیا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "13" pair_no = "205" >
+<sentence_1> یکم ستمبر (اے پی پی) ہانگ کانگ میں جمہوریت نواز مظاہرین پر پولیس نے مرچوں کا سپرے کرکے ان کو منتشر کردیا</sentence_1>
+<sentence_2>دریں اثنا ہانک کانگ میں پولیس نے مرچوں کا سپرے کر کے جمہوریت نواز مظاہرین کو منتشر کر دیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "102" shared_words = "7" pair_no = "206" >
+<sentence_1>سکاٹ لینڈ کے ووٹرز ریفرنڈم میں آزادی کو مسترد کر دیں برطانیہ کے وزیراعظم ڈیوڈ کیمرون کی ریفرنڈم سے قبل آخری اپیل</sentence_1>
+<sentence_2>اسکاٹ لینڈریفرنڈم،ملک کو متحد رکھنے کے لیے برطانوی قیادت سر گرم اگر اسکاٹ لینڈ برطانیہ سے علیحدہ ہو گیا تو میرا دل ٹوٹ جائے گا،وزیراعظم ڈیوڈ کیمرون</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "102" shared_words = "10" pair_no = "207" >
+<sentence_1>سکاٹ لینڈ کے ووٹرز ریفرنڈم میں آزادی کو مسترد کر دیں برطانیہ کے وزیراعظم ڈیوڈ کیمرون کی ریفرنڈم سے قبل آخری اپیل</sentence_1>
+<sentence_2>وزیراعظم کیمرون نے ایڈنبرا میں برطانیہ کو متحد رکھنے کی مہم میں حصہ لیتے ہوئے کہا:اگر اسکاٹ لینڈ برطانیہ سے علیحدہ ہو گیا تو میرا دل ٹوٹ جائے گا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "79" shared_words = "6" pair_no = "208" >
+<sentence_1>سکاٹ لینڈ کے ووٹرز ریفرنڈم میں آزادی کو مسترد کر دیں برطانیہ کے وزیراعظم ڈیوڈ کیمرون کی ریفرنڈم سے قبل آخری اپیل</sentence_1>
+<sentence_2>اسکاٹ لینڈ کے مستقبل کے بارے میں ریفرنڈم آئندہ ہفتہ ہو گا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "101" shared_words = "10" pair_no = "209" >
+<sentence_1>کایا کنیپی تاشقند اوپن ٹینس ٹورنامنٹ کے سیمی فائنل میں پہنچ گئیں</sentence_1>
+<sentence_2>تاشقند،ہانگ کانگ (سپورٹس ڈیسک) سربیا کی بوجانا جوانسکی،ازبکستان کی نگینہ،اٹلی کی کیرن کینپ اور یوکرائن کی لیسیا تاشقند اوپن ٹینس ٹورنامنٹ کے سیمی فائنل میں پہنچ گئیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "123" shared_words = "10" pair_no = "210" >
+<sentence_1>کایا کنیپی تاشقند اوپن ٹینس ٹورنامنٹ کے سیمی فائنل میں پہنچ گئیں</sentence_1>
+<sentence_2>تاشقند اوپن ٹینس کے پہلے کوارٹر فائنل میں سربیا کی بوجانا جوانسکی نے پولینڈ کی ارسلا ریڈ وانسکا کو چار چھ،چھ چار اور چھ تین سے زیر کر کے سیمی فائنل میں رسائی حاصل کی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "102" shared_words = "17" pair_no = "211" >
+<sentence_1>صعیب مقصود فٹنس مسائل کے باعث نیوزی لینڈ کے خلاف ٹی ٹونٹی اور ون ڈے سیریز سے باہر،شہزاد، وہاب ریاض اور جنید خان کی ٹیم میں واپسی کا امکان</sentence_1>
+<sentence_2>احمد شہزاد کی فٹنس کا جائزہ کل لیا جائے گا ، وہاب ریاض فٹ  جنید خان کی پریکٹس شروع ، صہیب نیوزی لینڈ کیخلاف ٹی ٹونٹی اور ون ڈے سیریز سے آؤٹ</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "101" shared_words = "5" pair_no = "212" >
+<sentence_1>صعیب مقصود فٹنس مسائل کے باعث نیوزی لینڈ کے خلاف ٹی ٹونٹی اور ون ڈے سیریز سے باہر،شہزاد، وہاب ریاض اور جنید خان کی ٹیم میں واپسی کا امکان</sentence_1>
+<sentence_2>کراچی (نمائندہ جنگ ) پی سی بی نے قومی ٹیم کے پانچ کھلاڑیوں کی فٹنس رپورٹ جاری کی ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "75" shared_words = "11" pair_no = "213" >
+<sentence_1>صعیب مقصود فٹنس مسائل کے باعث نیوزی لینڈ کے خلاف ٹی ٹونٹی اور ون ڈے سیریز سے باہر،شہزاد، وہاب ریاض اور جنید خان کی ٹیم میں واپسی کا امکان</sentence_1>
+<sentence_2> صہیب مقصود نیوزی لینڈ کیخلاف ٹی ٹونٹی اور ون ڈے سیریز سے آؤٹ ہو گئے ہیں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "83" shared_words = "10" pair_no = "214" >
+<sentence_1>22 نومبر (اے پی پی) پاکستان کرکٹ ٹیم کے مڈل آرڈر بلے باز صعیب مقصود فٹنس مسائل کے باعث نیوزی لینڈ کے خلاف ٹی ٹونٹی اور ون ڈے سیریز سے باہر ہو گئے</sentence_1>
+<sentence_2>احمد شہزاد کی فٹنس کا جائزہ کل لیا جائے گا ، وہاب ریاض فٹ  جنید خان کی پریکٹس شروع ، صہیب نیوزی لینڈ کیخلاف ٹی ٹونٹی اور ون ڈے سیریز سے آؤٹ</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "104" shared_words = "6" pair_no = "215" >
+<sentence_1>22 نومبر (اے پی پی) پاکستان کرکٹ ٹیم کے مڈل آرڈر بلے باز صعیب مقصود فٹنس مسائل کے باعث نیوزی لینڈ کے خلاف ٹی ٹونٹی اور ون ڈے سیریز سے باہر ہو گئے</sentence_1>
+<sentence_2>کراچی (نمائندہ جنگ ) پی سی بی نے قومی ٹیم کے پانچ کھلاڑیوں کی فٹنس رپورٹ جاری کی ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "88" shared_words = "5" pair_no = "216" >
+<sentence_1> 12 ستمبر (اے پی پی) بالی وڈ اداکار ہریتک روشن فلم ’’موہنجو دڑو‘‘ کی عکسبندی سے قبل اس تاریخی جگہ کی ایک ماہ تک معلومات حاصل کریں گے</sentence_1>
+<sentence_2>ممبئی(نیٹ نیوز) بالی ووڈ کے سپر سٹارریتک روشن نے اپنی نئی فلم موہنجوداڑو کیلئے وادی سندھ کی تہزیب پر تفصیلی تحقیق کرنے کا فیصلہ کیا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "91" shared_words = "8" pair_no = "217" >
+<sentence_1> 27 اگست (اے پی پی) بھارتی کرکٹ ٹیم کے مڈل آرڈر بلے باز سریش رائنا نے انگلینڈ کے خلاف دوسرے ایک روزہ میچ میں سنچری داغ دی</sentence_1>
+<sentence_2>تنقید کے نشتر کھا کر بھارتی کرکٹ ٹیم جاگ اٹھی انگلینڈ کیخلاف دوسرا میچ 133رنز سے جیت لیا ،رائنا کی سنچری، جڑیجا نے 4وکٹیں لیں</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "49" shared_words = "5" pair_no = "218" >
+<sentence_1> فاسٹ باؤلرز جنید خان اور وہاب ریاض کی بھی دوبارہ سکواڈ میں واپسی متوقع ہے</sentence_1>
+<sentence_2> فاسٹ بولر وہاب ریاض گھٹنے کی تکلیف سے صحت یاب ہو گئے ہیں </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "57" shared_words = "6" pair_no = "219" >
+<sentence_1> فاسٹ باؤلرز جنید خان اور وہاب ریاض کی بھی دوبارہ سکواڈ میں واپسی متوقع ہے</sentence_1>
+<sentence_2> فاسٹ بولر جنید کان گھٹنے کی تکلیف سے صحت یاب ہو رہے ہیں اورانہوں نے ٹریننگ شروع کر دی ہے </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "21" shared_words = "10" pair_no = "220" >
+<sentence_1> ان کی فٹنس کا دوبارہ جائزہ کل پیر کو لیا جائے گا</sentence_1>
+<sentence_2> کل ان کی فٹنس کا جائزہ لیا جائے گا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "71" shared_words = "5" pair_no = "221" >
+<sentence_1>استعفیٰ کی پیشکش کی ہے نہ مستعفی ہوں گا؛ایاز صادق</sentence_1>
+<sentence_2>مستعفی نہیں ہوں گا قومی اسمبلی کے سپیکر سردار ایاز صادق نے واضح کیا ہے کہ وہ مستعفی نہیں ہو رہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "9" shared_words = "8" pair_no = "222" >
+<sentence_1>استعفیٰ کی پیشکش کی ہے نہ مستعفی ہوں گا؛ایاز صادق</sentence_1>
+<sentence_2>استعفیٰ کی پیشکش کی ہے نہ مستعفی ہوں گا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "20" shared_words = "19" pair_no = "223" >
+<sentence_1>اسلام آباد(ثناء نیوز) قومی اسمبلی کے سپیکر سردار ایاز صادق نے واضح کیا ہے کہ وہ مستعفی نہیں ہو رہے </sentence_1>
+<sentence_2>مستعفی نہیں ہوں گا قومی اسمبلی کے سپیکر سردار ایاز صادق نے واضح کیا ہے کہ وہ مستعفی نہیں ہو رہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "33" shared_words = "10" pair_no = "224" >
+<sentence_1>وزیرعظم محمد نواز شریف سے حالیہ دنوں میں ان کی کوئی ملاقات ہی نہیں ہوئی</sentence_1>
+<sentence_2>اسلام آباد(ثناء نیوز) وزیراعظم نوازشریف سے حالیہ دنوں میں ان کی کوئی ملاقات نہیں ہوئی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "24" shared_words = "10" pair_no = "225" >
+<sentence_1>استعفیٰ کی پیشکش کی ہے نہ مستعفی ہوں گا اور میں استعفیٰ کیوں دوں</sentence_1>
+<sentence_2>استعفیٰ کی پیشکش کی ہے نہ مستعفی ہوں گا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "87" shared_words = "8" pair_no = "226" >
+<sentence_1>چین میں ایک شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک کر دیا</sentence_1>
+<sentence_2>چین: جنونی شخص کا سکول میں چاقو سے حملہ ،6 بچے ہلاک حملہ آور اپنے بچے کو سکول میں داخلہ نہ ملنے پر نالاں تھا ،بعد ازاں خود کشی کر لی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "8" pair_no = "227" >
+<sentence_1>چین میں ایک شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک کر دیا</sentence_1>
+<sentence_2>بیجنگ(نیوز ایجنسیا ں) وسطی چین میں ایک جنونی شخص کا پرائمری سکول میں گھس کر چاقو سے حملہ ،6 بچے ہلاک،8 زخمی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "75" shared_words = "12" pair_no = "228" >
+<sentence_1>چین میں ایک شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک کر دیا</sentence_1>
+<sentence_2>میڈیا رپورٹس کے مطابق صوبہ ہوبی کے قصبہ شیان میں واقع پرائمری سکول میں ایک جنونی شخص چاقو لے کر گھس گیا اور 6 بچوں کو قتل کر دیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "56" shared_words = "5" pair_no = "229" >
+<sentence_1>چین میں ایک شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک کر دیا</sentence_1>
+<sentence_2> جنونی شخص کے حملے میں 8 بچے اور ایک خاتون ٹیچر بھی زخمی ہو گئی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "55" shared_words = "5" pair_no = "230" >
+<sentence_1>چین میں ایک شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک کر دیا</sentence_1>
+<sentence_2>حملہ آور نے بعد ازاں ایک عمارت سے چھلانگ لگا کر خودکشی کر لی </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "95" shared_words = "8" pair_no = "231" >
+<sentence_1> یکم ستمبر (اے پی پی) وسطی چین میں ایک مسلح شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک اور متعدد کو زخمی کردیا</sentence_1>
+<sentence_2>چین: جنونی شخص کا سکول میں چاقو سے حملہ ،6 بچے ہلاک حملہ آور اپنے بچے کو سکول میں داخلہ نہ ملنے پر نالاں تھا ،بعد ازاں خود کشی کر لی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "67" shared_words = "11" pair_no = "232" >
+<sentence_1> یکم ستمبر (اے پی پی) وسطی چین میں ایک مسلح شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک اور متعدد کو زخمی کردیا</sentence_1>
+<sentence_2>بیجنگ(نیوز ایجنسیا ں) وسطی چین میں ایک جنونی شخص کا پرائمری سکول میں گھس کر چاقو سے حملہ ،6 بچے ہلاک،8 زخمی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "85" shared_words = "14" pair_no = "233" >
+<sentence_1> یکم ستمبر (اے پی پی) وسطی چین میں ایک مسلح شخص نے پرائمری سکول میں داخل ہو کر چھرا گھونپ کر 6 بچوں کو ہلاک اور متعدد کو زخمی کردیا</sentence_1>
+<sentence_2>میڈیا رپورٹس کے مطابق صوبہ ہوبی کے قصبہ شیان میں واقع پرائمری سکول میں ایک جنونی شخص چاقو لے کر گھس گیا اور 6 بچوں کو قتل کر دیا </sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "79" shared_words = "7" pair_no = "234" >
+<sentence_1>23نومبر (اے پی پی ) پاک ایران سرحد پر سڑک کے کنارے نصب بم کے زودار دھماکہ میں ایک بچہ جاں بحق اور تین مزدور زخمی ہوگئے </sentence_1>
+<sentence_2>تربت، پاک ایران سرحد کے قریب دھماکہ ، تین افراد ذخمی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "72" shared_words = "6" pair_no = "235" >
+<sentence_1> انہوں نے کہا کہ حکومت معیشت کے استحکام کیلئے داخلی استحکام کی کوششیں کر رہی ہے</sentence_1>
+<sentence_2> وزیر اطلاعات پرویز رشید کا کہنا ہے کہ دھرنے کی وجہ سے ملکی معیشت کو ناقابل تلافی نقصان پہنچ رہا ہے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "62" shared_words = "6" pair_no = "236" >
+<sentence_1> انہوں نے پاکستان کی شمولیت کے ساتھ ایشیائی انفراسٹرکچر انوسٹمنٹ بینک کے قیام کی تعریف کی</sentence_1>
+<sentence_2> بغیر ثبوت دھاندلی کے واویلے سے انتخابات کو مشکوک بنانے کی کوشش کی گئی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "65" shared_words = "6" pair_no = "237" >
+<sentence_1> انہوں نے پاکستان کی شمولیت کے ساتھ ایشیائی انفراسٹرکچر انوسٹمنٹ بینک کے قیام کی تعریف کی</sentence_1>
+<sentence_2> بے بنیاد اور من گھڑت الزامات سے عوام کے مینڈیٹ کی توہین کی گئی</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "65" shared_words = "6" pair_no = "238" >
+<sentence_1> انہوں نے پاکستان کی شمولیت کے ساتھ ایشیائی انفراسٹرکچر انوسٹمنٹ بینک کے قیام کی تعریف کی</sentence_1>
+<sentence_2> 14 اگست کے دھرنے کی طرح عمران کا 30 نومبر کا شوشہ بھی فلاپ ہوگا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "91" shared_words = "6" pair_no = "239" >
+<sentence_1>سیف اور کنگنا رناوت ’’ مسٹر چالو‘‘ میں بطور جوڑی جلوہ گر ہونگے</sentence_1>
+<sentence_2>اس بارے میں سیف علی خان نے زی میڈیا بیورو سے انٹرویو میں کہا کہ میں ریما کاگتی کی فلم " مسٹر چالو" میں عورت کا روپ دھاروں گا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "66" shared_words = "7" pair_no = "240" >
+<sentence_1>19ستمبر(اے پی پی) بالی وڈ اداکار سیف علی خان اور اداکارہ کنگنا رناوت ’’ مسٹر چالو‘‘ میں بطور جوڑی جلوہ گر ہونگے </sentence_1>
+<sentence_2>ممبئی(وقت نیوز) بالی وڈ کے اداکار سیف خان فلم" مسٹر چالو" میں عورت کا روپ دھاریں گے</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "84" shared_words = "8" pair_no = "241" >
+<sentence_1>19ستمبر(اے پی پی) بالی وڈ اداکار سیف علی خان اور اداکارہ کنگنا رناوت ’’ مسٹر چالو‘‘ میں بطور جوڑی جلوہ گر ہونگے </sentence_1>
+<sentence_2>اس بارے میں سیف علی خان نے زی میڈیا بیورو سے انٹرویو میں کہا کہ میں ریما کاگتی کی فلم " مسٹر چالو" میں عورت کا روپ دھاروں گا</sentence_2>
+</sentence_pair>
+<sentence_pair classification = "" edit_distance = "67" shared_words = "5" pair_no = "242" >
+<sentence_1>بھارتی میڈیا کے مطابق سیف علی خان اور اداکارہ کنگنا رناوت فلم ’’ مسٹر چالو‘‘ میں پہلی بار بطور جوڑی جلوہ گر ہونگے</sentence_1>
+<sentence_2>ممبئی(وقت نیوز) بالی وڈ کے اداکار سیف خان فلم" مسٹر چالو" میں عورت کا روپ دھاریں گے</sentence_2>
+</sentence_pair>
