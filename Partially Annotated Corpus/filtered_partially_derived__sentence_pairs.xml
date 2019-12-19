@@ -1,0 +1,802 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+  <sentence_pair classification="" edit_distance="25" shared_words="6" pair_no="200">
+    <sentence_1>26 نومبر (اے پی پی) پاکستانی کیوئسٹ محمد سجاد آئی بی ایس ایف ورلڈ سنوکر چیمپئن شپ لاسٹ 32 راؤنڈ میں (آج) جمعرات کو ایکشن میں نظر آئیں گے</sentence_1>
+    <sentence_2>ورلڈ سنوکر‘پاکستان کے محمد سجاد آخری راؤنڈ میں پہنچ گئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="10" shared_words="5" pair_no="199">
+    <sentence_1>ورلڈ سنوکر چیمپئن شپ،محمد سجاد لاسٹ 32 راؤنڈ میں (آج)ایکشن میں نظر آئیں گے</sentence_1>
+    <sentence_2>ورلڈ سنوکر‘پاکستان کے محمد سجاد آخری راؤنڈ میں پہنچ گئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="24" shared_words="5" pair_no="198">
+    <sentence_1> 08 ستمبر (اے پی پی) کرکٹ آسٹریلیا نے پاکستان کے خلاف سیریز کیلئے ٹیسٹ، ون ڈے اور ٹی 20 کی الگ الگ ٹیموں کا اعلان کر دیا ہے</sentence_1>
+    <sentence_2>پاکستان کیخلاف سیریز کیلیئے آسٹریلوی ٹیموں کا اعلان</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="23" shared_words="11" pair_no="197">
+    <sentence_1>24 نومبر (اے پی پی) امریکی ریاست اوہائیو میں پولیس نے 12سالہ افریقی نژاد امریکی لڑکے کو گول مار کر ہلاک کردیا</sentence_1>
+    <sentence_2>کلیولینڈ(نیٹ نیوز)امریکی ریاست اوہایو کے شہرکلیولینڈمیں کھیل کے درمیان میں نقلی بندوق لے کر آنے والے ایک 12سالہ بچے کو پولیس نے گولی مار کر ہلاک کر دیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="23" shared_words="6" pair_no="196">
+    <sentence_1>ریاست اوہائیو میں پولیس کی فائرنگ سے 12سالہ افریقی نژاد لڑکا ہلاک ہو گیا</sentence_1>
+    <sentence_2>پولیس کے مطابق جب بچے نے ہاتھ بلند کرنے کے احکامارت کو نہیں مانا تو پولیس افسر نے دو گولیاں چلائیں جن سے بچہ ہلاک ہو گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="4" pair_no="195">
+    <sentence_1> فلم کی عکسبندی کا آغاز دسمبر سے ہو جائیگا</sentence_1>
+    <sentence_2>سدھارتھ کا کہنا تھا کہ وہ اس فلم کی جلد عکسبندی کے خواہاں ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="24" shared_words="5" pair_no="194">
+    <sentence_1>ریاست اوہائیو میں پولیس کی فائرنگ سے 12سالہ افریقی نژاد لڑکا ہلاک ہو گیا</sentence_1>
+    <sentence_2>کلیولینڈ(نیٹ نیوز)امریکی ریاست اوہایو کے شہرکلیولینڈمیں کھیل کے درمیان میں نقلی بندوق لے کر آنے والے ایک 12سالہ بچے کو پولیس نے گولی مار کر ہلاک کر دیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="25" shared_words="6" pair_no="193">
+    <sentence_1> چیئرمین شہر یار خان کی صدارت میں منعقدہ اجلاس میں چیئرمین کی جانب سے پیش کئے جانے والے کرکٹ ڈویلپمنٹ پروگرام کے علاوہ سال 13</sentence_1>
+    <sentence_2>اجلاس کے بھاری ایجنڈے میں پی سی بی کے انتظامی ڈھانچے کی تنظیم نو شامل ہوگی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="25" shared_words="5" pair_no="192">
+    <sentence_1> چیئرمین شہر یار خان کی صدارت میں منعقدہ اجلاس میں چیئرمین کی جانب سے پیش کئے جانے والے کرکٹ ڈویلپمنٹ پروگرام کے علاوہ سال 13</sentence_1>
+    <sentence_2>لاہور(سپورٹس ڈیسک)پاکستان کرکٹ بورڈ کے گورننگ بورڈ کا اجلاس (آج)جمعہ کو لاہور میں ہوگا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="5" pair_no="191">
+    <sentence_1> ایم ایس الائیڈ ہسپتال کا کہنا ہے کہ جاں بحق شخص کے خون کے نمونے تحقیقات کیلئے اسلام آباد بھجوا دیئے گئے ہیں</sentence_1>
+    <sentence_2>عالمی ادارہ صحت جاں بحق مریض کے اہلخانہ کے ٹیسٹ بھی کریگا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="24" shared_words="5" pair_no="190">
+    <sentence_1> چیئرمین شہر یار خان کی صدارت میں منعقدہ اجلاس میں چیئرمین کی جانب سے پیش کئے جانے والے کرکٹ ڈویلپمنٹ پروگرام کے علاوہ سال 13</sentence_1>
+    <sentence_2>اجلاس کی صدارت چیئر مین پی سی بی شہریار خان کریں گے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="25" shared_words="5" pair_no="189">
+    <sentence_1> چیئرمین شہر یار خان کی صدارت میں منعقدہ اجلاس میں چیئرمین کی جانب سے پیش کئے جانے والے کرکٹ ڈویلپمنٹ پروگرام کے علاوہ سال 13</sentence_1>
+    <sentence_2>پاکستان کرکٹ بورڈ کے گورننگ بورڈ کا اجلاس آج لاہور میں ہوگا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="7" shared_words="6" pair_no="188">
+    <sentence_1>آسٹریلیا کا پاکستان کے خلاف سیریز کیلئے الگ الگ ٹیموں کا اعلان</sentence_1>
+    <sentence_2>پاکستان کیخلاف سیریز کیلیئے آسٹریلوی ٹیموں کا اعلان</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="24" shared_words="4" pair_no="187">
+    <sentence_1>27 نومبر(اے پی پی) پاکستان کرکٹ بورڈ کے بورڈ آف گورنرز کا 32 واں اجلاس نیشنل کرکٹ اکیڈمی لاہور میں آج (جمعہ کو) ہو گا</sentence_1>
+    <sentence_2>اجلاس کے بھاری ایجنڈے میں پی سی بی کے انتظامی ڈھانچے کی تنظیم نو شامل ہوگی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="9" pair_no="186">
+    <sentence_1>27 نومبر(اے پی پی) پاکستان کرکٹ بورڈ کے بورڈ آف گورنرز کا 32 واں اجلاس نیشنل کرکٹ اکیڈمی لاہور میں آج (جمعہ کو) ہو گا</sentence_1>
+    <sentence_2>لاہور(سپورٹس ڈیسک)پاکستان کرکٹ بورڈ کے گورننگ بورڈ کا اجلاس (آج)جمعہ کو لاہور میں ہوگا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="39" shared_words="11" pair_no="185">
+    <sentence_1> آل سندھ صراف ایسوسی ایشن کے مطابق منگل کو صرافہ مارکیٹوں میں سونا تیزابی فی 10 گرام گذشتہ کاروباری روز کی قیمت 41 ہزار 57 روپے اور فی تولہ کے بھاؤ 47 ہزار 900 روپے پر برقرار رہے</sentence_1>
+    <sentence_2>منگل کے روز عالمی صرافہ مارکیٹ میں 4ڈالرکے اضافے سے فی اونس سونے کی قیمت 1240ڈالر پہنچی اس طرح پیر اور منگل کے دو دنوں میں سونے کی عالمی قیمت میں 10ڈالر کا اضافہ ہو چکا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="11" pair_no="184">
+    <sentence_1>27 نومبر(اے پی پی) پاکستان کرکٹ بورڈ کے بورڈ آف گورنرز کا 32 واں اجلاس نیشنل کرکٹ اکیڈمی لاہور میں آج (جمعہ کو) ہو گا</sentence_1>
+    <sentence_2>پاکستان کرکٹ بورڈ کے گورننگ بورڈ کا اجلاس آج لاہور میں ہوگا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="23" shared_words="4" pair_no="183">
+    <sentence_1> 2 اگست (اے پی پی) بالی ووڈ اداکار سدھارت ملہوترا نے کہا ہے کہ وہ نئی فلم ’’بھویش جوشی‘‘ میں بہترین پرفارمنس دینے کیلئے پرعزم ہیں</sentence_1>
+    <sentence_2>سدھارتھ کا کہنا تھا کہ وہ اس فلم کی جلد عکسبندی کے خواہاں ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="33" shared_words="9" pair_no="182">
+    <sentence_1> 16 ستمبر (اے پی پی) صرافہ مارکیٹ میں سونے کی قیمتوں میں استحکام رہا</sentence_1>
+    <sentence_2>منگل کے روز عالمی صرافہ مارکیٹ میں 4ڈالرکے اضافے سے فی اونس سونے کی قیمت 1240ڈالر پہنچی اس طرح پیر اور منگل کے دو دنوں میں سونے کی عالمی قیمت میں 10ڈالر کا اضافہ ہو چکا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="36" shared_words="8" pair_no="181">
+    <sentence_1> آل سندھ صراف ایسوسی ایشن کے مطابق منگل کو صرافہ مارکیٹوں میں سونا تیزابی فی 10 گرام گذشتہ کاروباری روز کی قیمت 41 ہزار 57 روپے اور فی تولہ کے بھاؤ 47 ہزار 900 روپے پر برقرار رہے</sentence_1>
+    <sentence_2>کراچی(کامرس رپورٹ)عالمی صرافہ مارکیٹ میں فی اونس سونے کی قیمت میں مسلسل دوسرے روز بھی اضافے کا رحجان رہا لیکن ملکی صرافہ مارکیٹوں میں سونے کی قیمت مستحکم رہی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="33" shared_words="5" pair_no="180">
+    <sentence_1> 24 نومبر (اے پی پی) بنگلہ دیش اور زمبابوے کی کرکٹ ٹیموں کے درمیان پانچ ون ڈے میچوں کی سیریز کا تیسرا (کل) بدھ کو میچ شیر بنگلہ نیشنل کرکٹ سٹیڈیم، میر پور میں کھیلا جائیگا</sentence_1>
+    <sentence_2>بنگلہ دیش اور زمبابوے آج مد مقابل ہونگے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="179">
+    <sentence_1>چیئرمین پی سی بی کی زیر صدارت بورڈ آف گورنرز کا 32واں اجلاس آج ہوگا</sentence_1>
+    <sentence_2>پی سی بی نے میڈیا رائٹس کے لئے احسان مانی کی سربراہی میں ایک کمیٹی تشکیل دی ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="32" shared_words="11" pair_no="178">
+    <sentence_1> 2 اگست (اے پی پی) بالی ووڈ اداکار سدھارت ملہوترا نے کہا ہے کہ وہ نئی فلم ’’بھویش جوشی‘‘ میں بہترین پرفارمنس دینے کیلئے پرعزم ہیں</sentence_1>
+    <sentence_2>سدھارتھ ملہوترا جن کی فلم ایک ولن نے کامیابی کے کئی ریکارڈ قائم کئے،نے اپنے حالیہ انٹرویو میں کہا کہ وہ اپنی اگلی فلم بھویش جوشی میں کیرئیر کا یادگار کردار ادا کرنے جا رہے ہیں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="26" shared_words="11" pair_no="177">
+    <sentence_1> 16 ستمبر (اے پی پی) صرافہ مارکیٹ میں سونے کی قیمتوں میں استحکام رہا</sentence_1>
+    <sentence_2>کراچی(کامرس رپورٹ)عالمی صرافہ مارکیٹ میں فی اونس سونے کی قیمت میں مسلسل دوسرے روز بھی اضافے کا رحجان رہا لیکن ملکی صرافہ مارکیٹوں میں سونے کی قیمت مستحکم رہی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="5" pair_no="176">
+    <sentence_1>چیئرمین پی سی بی کی زیر صدارت بورڈ آف گورنرز کا 32واں اجلاس آج ہوگا</sentence_1>
+    <sentence_2>13-2012 کے اکاونٹس کا آڈٹ،پانچ سال کے لئےپی سی بی کے نشریاتی حقوق کی پالیسی طے کی جائے گی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="33" shared_words="7" pair_no="175">
+    <sentence_1>سونا تیزابی فی 10 گرام اور فی تولہ کی قیمتوں میں استحکام رہا</sentence_1>
+    <sentence_2>منگل کے روز عالمی صرافہ مارکیٹ میں 4ڈالرکے اضافے سے فی اونس سونے کی قیمت 1240ڈالر پہنچی اس طرح پیر اور منگل کے دو دنوں میں سونے کی عالمی قیمت میں 10ڈالر کا اضافہ ہو چکا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="15" pair_no="174">
+    <sentence_1> 2 اگست (اے پی پی) بالی ووڈ اداکار سدھارت ملہوترا نے کہا ہے کہ وہ نئی فلم ’’بھویش جوشی‘‘ میں بہترین پرفارمنس دینے کیلئے پرعزم ہیں</sentence_1>
+    <sentence_2>ممبئی(اے پی پی ) بالی وڈ سدھارتھ ملہوترا نے کہا ہے کہ وہ نئی فلم بھویش جوشی میں بہترین پرفارمنس دینے کے لئے پر عزم ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="10" shared_words="6" pair_no="173">
+    <sentence_1> 16 ستمبر (اے پی پی) صرافہ مارکیٹ میں سونے کی قیمتوں میں استحکام رہا</sentence_1>
+    <sentence_2>سونے کی قیمتوں میں استحکام</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="11" shared_words="4" pair_no="172">
+    <sentence_1>بنگلہ دیش اور زمبابوے کے درمیان ون ڈے سیریز کا تیسرا میچ (کل) کھیلا جائیگا</sentence_1>
+    <sentence_2>بنگلہ دیش اور زمبابوے آج مد مقابل ہونگے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="26" shared_words="7" pair_no="171">
+    <sentence_1>سونا تیزابی فی 10 گرام اور فی تولہ کی قیمتوں میں استحکام رہا</sentence_1>
+    <sentence_2>کراچی(کامرس رپورٹ)عالمی صرافہ مارکیٹ میں فی اونس سونے کی قیمت میں مسلسل دوسرے روز بھی اضافے کا رحجان رہا لیکن ملکی صرافہ مارکیٹوں میں سونے کی قیمت مستحکم رہی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="35" shared_words="5" pair_no="170">
+    <sentence_1>فلم ’’بھویش جوشی‘‘ میں بہترین پرفارمنس دینے کیلئے پرعزم ہوں۔ اداکار سدھارت ملہوترا</sentence_1>
+    <sentence_2>سدھارتھ ملہوترا جن کی فلم ایک ولن نے کامیابی کے کئی ریکارڈ قائم کئے،نے اپنے حالیہ انٹرویو میں کہا کہ وہ اپنی اگلی فلم بھویش جوشی میں کیرئیر کا یادگار کردار ادا کرنے جا رہے ہیں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="5" pair_no="169">
+    <sentence_1>چیئرمین پی سی بی کی زیر صدارت بورڈ آف گورنرز کا 32واں اجلاس آج ہوگا</sentence_1>
+    <sentence_2>اجلاس کے بھاری ایجنڈے میں پی سی بی کے انتظامی ڈھانچے کی تنظیم نو شامل ہوگی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="9" shared_words="4" pair_no="168">
+    <sentence_1>سونا تیزابی فی 10 گرام اور فی تولہ کی قیمتوں میں استحکام رہا</sentence_1>
+    <sentence_2>سونے کی قیمتوں میں استحکام</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="27" shared_words="4" pair_no="167">
+    <sentence_1> 2 اگست (اے پی پی) بالی ووڈ اداکار سدھارت ملہوترا نے کہا ہے کہ وہ نئی فلم ’’بھویش جوشی‘‘ میں بہترین پرفارمنس دینے کیلئے پرعزم ہیں</sentence_1>
+    <sentence_2>بھویش جوشی میں میری پر فارمنس یاد گار ہوگی،سدھارتھ ملہوترا فلم میں گانے کا ابھی کوئی ارادہ نہیں ،کسی ساتھی اداکارہ کے ساتھ رومانس نہیں کر رہا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="31" shared_words="5" pair_no="166">
+    <sentence_1>25 نومبر (اے پی پی) فیصل آباد میں افریقہ سے وطن واپس آنے والا مبینہ طور پر ایبولا وائرس سے متاثرہ شخص ہسپتال میں علاج کے دوران جاں بحق ہوگیا ہے</sentence_1>
+    <sentence_2>40 سالہ ذوالفقار چنیوٹ کا رہائشی تھا جسے طبیعت خراب ہونے پر سول ہسپتال چنیوت میں داکل کرایا گیا اور بعد ازاں الائیڈ ہسپتال فیصل آبد منتقل کیا گیا تھا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="6" pair_no="165">
+    <sentence_1>چیئرمین پی سی بی کی زیر صدارت بورڈ آف گورنرز کا 32واں اجلاس آج ہوگا</sentence_1>
+    <sentence_2>اجلاس کی صدارت چیئر مین پی سی بی شہریار خان کریں گے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="22" shared_words="6" pair_no="164">
+    <sentence_1>فلم ’’بھویش جوشی‘‘ میں بہترین پرفارمنس دینے کیلئے پرعزم ہوں۔ اداکار سدھارت ملہوترا</sentence_1>
+    <sentence_2>ممبئی(اے پی پی ) بالی وڈ سدھارتھ ملہوترا نے کہا ہے کہ وہ نئی فلم بھویش جوشی میں بہترین پرفارمنس دینے کے لئے پر عزم ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="13" shared_words="4" pair_no="163">
+    <sentence_1>چیئرمین پی سی بی کی زیر صدارت بورڈ آف گورنرز کا 32واں اجلاس آج ہوگا</sentence_1>
+    <sentence_2>لاہور(سپورٹس ڈیسک)پاکستان کرکٹ بورڈ کے گورننگ بورڈ کا اجلاس (آج)جمعہ کو لاہور میں ہوگا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="30" shared_words="6" pair_no="162">
+    <sentence_1>25 نومبر (اے پی پی) فیصل آباد میں افریقہ سے وطن واپس آنے والا مبینہ طور پر ایبولا وائرس سے متاثرہ شخص ہسپتال میں علاج کے دوران جاں بحق ہوگیا ہے</sentence_1>
+    <sentence_2>فیسل آباد(نمائندہ وقت نیوز، نیٹ نیوز )افریقی ملک سے پاکستان آے والے ابیولا وائرس کا مشتبہ مریض سوموار اور منگل کی درمیانی شب الائیڈ ہسپتال میں چل بسا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="33" shared_words="7" pair_no="161">
+    <sentence_1> مقامی ہوٹل میں میڈیا سے بات چیت کرتے ہوئے انہوں نے کہا کہ بگ تھری کے بعد نجم سیٹھی روایتی صدر رہیں گے اور پی سی بی کو اجلاس میں دہری رکنیت مل جائے گی</sentence_1>
+    <sentence_2>انہون نے کہا کہ پاکستان کو انٹرنیشنل کرکٹ کی واپسی کے لئے اپنے سکیورٹی حالات بہتر ہونے کی یقین دہانی کرانا ہو گی </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="26" shared_words="4" pair_no="160">
+    <sentence_1>فلم ’’بھویش جوشی‘‘ میں بہترین پرفارمنس دینے کیلئے پرعزم ہوں۔ اداکار سدھارت ملہوترا</sentence_1>
+    <sentence_2>بھویش جوشی میں میری پر فارمنس یاد گار ہوگی،سدھارتھ ملہوترا فلم میں گانے کا ابھی کوئی ارادہ نہیں ،کسی ساتھی اداکارہ کے ساتھ رومانس نہیں کر رہا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="16" pair_no="159">
+    <sentence_1> مقامی ہوٹل میں میڈیا سے بات چیت کرتے ہوئے انہوں نے کہا کہ بگ تھری کے بعد نجم سیٹھی روایتی صدر رہیں گے اور پی سی بی کو اجلاس میں دہری رکنیت مل جائے گی</sentence_1>
+    <sentence_2>مقامی ہوٹل میں میڈیا سے گفتگو کرتے ہوئے انہوں نے کہا کہ فکسر کھلاڑیون کے حوالے سے قومی کرکٹ ٹیم کے سابق کپتان رمیض راجہ کا موقف درست ہے ایسے کھلاڑیوں کو نوجوانو ں کیلئے مثال نہیں بننا چاہیے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="12" shared_words="5" pair_no="158">
+    <sentence_1>چیئرمین پی سی بی کی زیر صدارت بورڈ آف گورنرز کا 32واں اجلاس آج ہوگا</sentence_1>
+    <sentence_2>پاکستان کرکٹ بورڈ کے گورننگ بورڈ کا اجلاس آج لاہور میں ہوگا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="28" shared_words="4" pair_no="157">
+    <sentence_1>25 نومبر (اے پی پی) فیصل آباد میں افریقہ سے وطن واپس آنے والا مبینہ طور پر ایبولا وائرس سے متاثرہ شخص ہسپتال میں علاج کے دوران جاں بحق ہوگیا ہے</sentence_1>
+    <sentence_2>فیصل آباد میں ابیولا کا مشتبہ مریض دم توڑ گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="11" pair_no="156">
+    <sentence_1> یہ بھی اتفاق پایا گیا کہ سیاسی مشاورت کا آئندہ دور 2015ء میں باہمی طور پر متفقہ تاریخوں پر اسلام آباد میں منعقد ہو گا</sentence_1>
+    <sentence_2>فیصلہ کیا گیا کہ اب دونوں ممالک کے مابین باہمی مشاورتی اجلاس آئندہ سال اسلام آباد میں ہو گا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="7" shared_words="17" pair_no="155">
+    <sentence_1>پاکستان کو انٹرنیشنل کرکٹ کی واپسی کے لئے اپنے سکیورٹی حالات بہتر ہونے کی یقین دہانی کروانا ہو گی،احسان مانی</sentence_1>
+    <sentence_2>انہون نے کہا کہ پاکستان کو انٹرنیشنل کرکٹ کی واپسی کے لئے اپنے سکیورٹی حالات بہتر ہونے کی یقین دہانی کرانا ہو گی </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="5" pair_no="154">
+    <sentence_1> دونوں ممالک کے درمیان سالانہ دوطرفہ مشاورت کے بارے میں مفاہمت کی یادداشت پر بھی دستخط کئے گئے</sentence_1>
+    <sentence_2>فیصلہ کیا گیا کہ اب دونوں ممالک کے مابین باہمی مشاورتی اجلاس آئندہ سال اسلام آباد میں ہو گا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="30" shared_words="14" pair_no="153">
+    <sentence_1> ذرائع ابلاغ کے مطابق نائیجیریا کے شمال مشرقی صوبے بورنو میں بوکو حرام کے شدت پسندوں نے لوگوں کے گھروں پر حملہ کرکے آگ لگا دی جس کے نتیجہ میں 20 افراد ہلاک ہوگئے</sentence_1>
+    <sentence_2>رپورٹ کے مطابق بوکوحرام کے عناصر نے شہر کے پولیس سٹیشن پر بھی حملہ کیا او ر شہر میں موجود ٹیلیفون بوتھز کو آگ لگا دی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="39" shared_words="4" pair_no="152">
+    <sentence_1>پاکستان کو انٹرنیشنل کرکٹ کی واپسی کے لئے اپنے سکیورٹی حالات بہتر ہونے کی یقین دہانی کروانا ہو گی،احسان مانی</sentence_1>
+    <sentence_2>مقامی ہوٹل میں میڈیا سے گفتگو کرتے ہوئے انہوں نے کہا کہ فکسر کھلاڑیون کے حوالے سے قومی کرکٹ ٹیم کے سابق کپتان رمیض راجہ کا موقف درست ہے ایسے کھلاڑیوں کو نوجوانو ں کیلئے مثال نہیں بننا چاہیے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="151">
+    <sentence_1> عینی شاہدین کے مطابق حملہ میں 30 سے زیادہ حملہ آور شامل تھے</sentence_1>
+    <sentence_2>عینی شاہدین کے مطابق پولیس کی ایک بیرک تباہ ہو گئی ہےتاہم کوئی جانی نقصان کی اطلاع نہیں ملی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="23" shared_words="4" pair_no="150">
+    <sentence_1> 25 نومبر (اے پی پی) پاکستان اور لٹویا کے درمیان مشاورت کا تیسرا دور ریگا میں لٹویا کی وزارت خارجہ میں منعقد ہوا</sentence_1>
+    <sentence_2>فیصلہ کیا گیا کہ اب دونوں ممالک کے مابین باہمی مشاورتی اجلاس آئندہ سال اسلام آباد میں ہو گا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="17" pair_no="149">
+    <sentence_1> ذرائع ابلاغ کے مطابق نائیجیریا کے شمال مشرقی صوبے بورنو میں بوکو حرام کے شدت پسندوں نے لوگوں کے گھروں پر حملہ کرکے آگ لگا دی جس کے نتیجہ میں 20 افراد ہلاک ہوگئے</sentence_1>
+    <sentence_2>ابوجا(مانیٹرنگ ڈیسک )نائیجیریا کے شمال مشرق میں واقع شہر بورنو پر بوکو حرام نے حملہ کر کے ؤدرجنوں افراد کو ہلاک کر دیا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="14" pair_no="148">
+    <sentence_1> 25 نومبر (اے پی پی) پاکستان اور لٹویا کے درمیان مشاورت کا تیسرا دور ریگا میں لٹویا کی وزارت خارجہ میں منعقد ہوا</sentence_1>
+    <sentence_2>دفتر خارجہ کے مطابق پاکستان اور لٹویا کے درمیان دو طرفہ سیاسی مشاورت کا تیسرا دور لٹوین دارالحکومت ریگا میں ہو گا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="5" pair_no="147">
+    <sentence_1>فیصل آباد،افریقہ سے وطن واپس آنے والا مبینہ طور پر ایبولا وائرس سے متاثرہ شخص ہسپتال میں علاج کے دوران جاں بحق ہوگیا</sentence_1>
+    <sentence_2>40 سالہ ذوالفقار چنیوٹ کا رہائشی تھا جسے طبیعت خراب ہونے پر سول ہسپتال چنیوت میں داکل کرایا گیا اور بعد ازاں الائیڈ ہسپتال فیصل آبد منتقل کیا گیا تھا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="3" pair_no="146">
+    <sentence_1> واضح رہے کہ فلم ایکشن جیکسن 5 دسمبر کو سینما گھروں کی زینت بنے گی</sentence_1>
+    <sentence_2>انہوں نے کہا کہ پربھودیوا کے ساتھ کام کر نے کی میری خواہش بہت پرانی تھی </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="145">
+    <sentence_1> اداکارہ نے کہاکہ سینئر اداکاروں سے بہت کچھ سیکھا ہے جبکہ نوجوان اداکار ایک دوسرے سے سیکھتے ہیں</sentence_1>
+    <sentence_2>میں شوبز میں آنے سے پہلے اپنے والد سے مشاورت کرتی تھی تاہم اب میں سلمان خان سے مشورہ کرتی ہوں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="28" shared_words="4" pair_no="144">
+    <sentence_1>فیصل آباد،افریقہ سے وطن واپس آنے والا مبینہ طور پر ایبولا وائرس سے متاثرہ شخص ہسپتال میں علاج کے دوران جاں بحق ہوگیا</sentence_1>
+    <sentence_2>فیسل آباد(نمائندہ وقت نیوز، نیٹ نیوز )افریقی ملک سے پاکستان آے والے ابیولا وائرس کا مشتبہ مریض سوموار اور منگل کی درمیانی شب الائیڈ ہسپتال میں چل بسا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="25" shared_words="5" pair_no="143">
+    <sentence_1> 25 نومبر (اے پی پی) پاکستان اور لٹویا کے درمیان مشاورت کا تیسرا دور ریگا میں لٹویا کی وزارت خارجہ میں منعقد ہوا</sentence_1>
+    <sentence_2>پاکستان ، لٹویا کا اقتصادی ،تعلیمی شعبوں میں تعاون پر اتفاق یاد داشت پر دستخط ،اگلا سیاسی مشاورتی اجلاس آئندہ سال اسلام آباد میں ہو گا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="24" shared_words="7" pair_no="142">
+    <sentence_1> یکم دسمبر (اے پی پی) نائیجیریا میں بوکو حرام کے دہشتگردوں نے حملہ کرکے 20 افراد کو ہلاک کردیا ہے</sentence_1>
+    <sentence_2>رپورٹ کے مطابق بوکوحرام کے عناصر نے شہر کے پولیس سٹیشن پر بھی حملہ کیا او ر شہر میں موجود ٹیلیفون بوتھز کو آگ لگا دی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="4" pair_no="141">
+    <sentence_1> اداکارہ نے کہاکہ سینئر اداکاروں سے بہت کچھ سیکھا ہے جبکہ نوجوان اداکار ایک دوسرے سے سیکھتے ہیں</sentence_1>
+    <sentence_2>میری جب کوئی فلم ریلیز ہوتی ہے تو سب ایک ساتھ دیکھتے ہیں اور مجھے میری غلطیاں بتاتے ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="11" pair_no="140">
+    <sentence_1> یکم دسمبر (اے پی پی) نائیجیریا میں بوکو حرام کے دہشتگردوں نے حملہ کرکے 20 افراد کو ہلاک کردیا ہے</sentence_1>
+    <sentence_2>ابوجا(مانیٹرنگ ڈیسک )نائیجیریا کے شمال مشرق میں واقع شہر بورنو پر بوکو حرام نے حملہ کر کے ؤدرجنوں افراد کو ہلاک کر دیا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="3" pair_no="139">
+    <sentence_1> اداکارہ نے کہاکہ سینئر اداکاروں سے بہت کچھ سیکھا ہے جبکہ نوجوان اداکار ایک دوسرے سے سیکھتے ہیں</sentence_1>
+    <sentence_2>انہوں نے کہا کہ پربھودیوا کے ساتھ کام کر نے کی میری خواہش بہت پرانی تھی </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="34" shared_words="11" pair_no="138">
+    <sentence_1> جمعہ کو قومی اسمبلی میں وزیر مملکت شیخ آفتاب احمد نے قرارداد پیش کی کہ یہ ایوان میڈیا کے نمائندوں پر حملوں کی شدید مذمت کرتا ہے اور مطالبہ کرتا ہے کہ ان حملوں کا نوٹس لیا جائے</sentence_1>
+    <sentence_2> یہ ایوان آزادی صحافت اور میڈیا کے نمائندوں کا ہر ممکن احترام یقینی بنانے پر زور دیتا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="33" shared_words="9" pair_no="137">
+    <sentence_1> 16 ستمبر (اے پی پی) کراچی اسٹاک ایکسچینج (کے ایس ای) میں تیزی کا رجحان رہا، کے ایس ای 100 انڈیکس 110.17 پوائنٹس کے اضافہ سے 30180.30 پوائنٹس پر بند ہوا</sentence_1>
+    <sentence_2>منگل کو کاروبار کے اختتام پر مارکیٹ کے سرمائے میں 11ارب89کروڑ 43لاکھ33ہزارپر16روپے کا ضافہ ریکارڈکیا گیا جس کے نتیجے میں مارکیٹ کا مجموعی سرمایہ 70کھرب 19ارب اور89کروڑ19لاکھ98ہزار249روپے سے بڑھ کر 70کھرب31ارب78کروڑ63لاکھ 31ہزار 413روپے ہو گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="33" shared_words="15" pair_no="136">
+    <sentence_1> محمد حفیظ کی طرف سے بنگلہ دیش میں ہونے والے ٹی ٹونٹی ورلڈ کپ کے بعد استعفی دینے کی و جہ سے قومی ٹی ٹونٹی کرکٹ ٹیم کی کپتانی کا عہدہ خالی پڑا تھا</sentence_1>
+    <sentence_2>سابق کپتان محمد حفیظ کی جانب سے رواں سال کے آغاز پر بنگلہ دیش میں آئی سی سی ورلڈٹی ٹوئینٹی کپ میں شکست کے بعد استعفیء دیدیا تھا جس کے بعد شاہد آفریدی کو یہ ذمہ داری سونپی گئی ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="12" shared_words="3" pair_no="135">
+    <sentence_1> قومی اسمبلی نے قرارداد کی اتفاق رائے سے منظوری دیدی</sentence_1>
+    <sentence_2>قومی اسمبلی : دھرنوں میں میڈیا نمائندوں پر حملوں کیخلاف مذمتی قرارداد منظور</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="3" pair_no="134">
+    <sentence_1> یہ ایوان آزادی صحافت اور میڈیا کے نمائندوں کا ہر ممکن احترام یقینی بنانے پر زور دیتا ہے</sentence_1>
+    <sentence_2>قومی اسمبلی : دھرنوں میں میڈیا نمائندوں پر حملوں کیخلاف مذمتی قرارداد منظور</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="25" shared_words="4" pair_no="133">
+    <sentence_1>نائیجیریا میں بوکو حرام کے دہشتگردوں کا حملہ، 20 افراد ہلاک</sentence_1>
+    <sentence_2>رپورٹ کے مطابق بوکوحرام کے عناصر نے شہر کے پولیس سٹیشن پر بھی حملہ کیا او ر شہر میں موجود ٹیلیفون بوتھز کو آگ لگا دی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="32" shared_words="7" pair_no="132">
+    <sentence_1> محمد حفیظ کی طرف سے بنگلہ دیش میں ہونے والے ٹی ٹونٹی ورلڈ کپ کے بعد استعفی دینے کی و جہ سے قومی ٹی ٹونٹی کرکٹ ٹیم کی کپتانی کا عہدہ خالی پڑا تھا</sentence_1>
+    <sentence_2>پی سی بی کے مطابق شاہد خان آفریدی کو آئی سی سی ٹی 20 ورلڈ کپ2016ءتک قومی ٹیم کا کپتان مقرر کیا گیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="14" pair_no="131">
+    <sentence_1> 16 ستمبر (اے پی پی) کراچی اسٹاک ایکسچینج (کے ایس ای) میں تیزی کا رجحان رہا، کے ایس ای 100 انڈیکس 110.17 پوائنٹس کے اضافہ سے 30180.30 پوائنٹس پر بند ہوا</sentence_1>
+    <sentence_2>بازار حصص میں تیزی 100انڈیکس میں 110پوائنٹ کا اضافہ  مارکیٹ سرمائے میں 11ارب سے زاید کا اضافہ ،کاروباری لین دین پیر کی نسبت 6کروڑ شےئر ز زاید رہا، 100انڈیکس30ہزار180پوائنٹ پر بند ہوا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="4" pair_no="130">
+    <sentence_1> واضح رہے کہ فلم ایکشن جیکسن 5 دسمبر کو سینما گھروں کی زینت بنے گی</sentence_1>
+    <sentence_2>میرا کردا رفلم" ایکشن جیکسن " میں بھی بہت اچھا ہے اور امید ہے کہ اس کردار میں سراہی جاؤں گی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="33" shared_words="9" pair_no="129">
+    <sentence_1> جمعہ کو قومی اسمبلی میں وزیر مملکت شیخ آفتاب احمد نے قرارداد پیش کی کہ یہ ایوان میڈیا کے نمائندوں پر حملوں کی شدید مذمت کرتا ہے اور مطالبہ کرتا ہے کہ ان حملوں کا نوٹس لیا جائے</sentence_1>
+    <sentence_2>قومی اسمبلی : دھرنوں میں میڈیا نمائندوں پر حملوں کیخلاف مذمتی قرارداد منظور</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="8" pair_no="128">
+    <sentence_1> انہوں نے کہاکہ میں محنت، لگن اور جذبے سے کام کرتی ہوں، اس لئے مجھے کوئی ڈر نہیں</sentence_1>
+    <sentence_2>میں شوبز میں آنے سے پہلے اپنے والد سے مشاورت کرتی تھی تاہم اب میں سلمان خان سے مشورہ کرتی ہوں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="7" pair_no="127">
+    <sentence_1>نائیجیریا میں بوکو حرام کے دہشتگردوں کا حملہ، 20 افراد ہلاک</sentence_1>
+    <sentence_2>ابوجا(مانیٹرنگ ڈیسک )نائیجیریا کے شمال مشرق میں واقع شہر بورنو پر بوکو حرام نے حملہ کر کے ؤدرجنوں افراد کو ہلاک کر دیا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="5" pair_no="126">
+    <sentence_1> انہوں نے کہاکہ میں محنت، لگن اور جذبے سے کام کرتی ہوں، اس لئے مجھے کوئی ڈر نہیں</sentence_1>
+    <sentence_2>میرے والد نہیں چاہتے تھے کہ میں اس فیلڈ میں دم رکھوں تاہم سلمان نے میرے والد کو رضا مند کیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="11" shared_words="15" pair_no="125">
+    <sentence_1>25 نومبر (اے پی پی) آسٹریلوی اوپنر فلپ ہیوز ڈومسٹک میچ کے دوران سر پر گیند لگنے سے شدید زخمی ہوگئے جن کی حالت تشویشناک ہے</sentence_1>
+    <sentence_2>سڈنی( سپورٹس ڈیسک ) آسٹریلوی اوپنر فلپ ہیوز ڈومسٹک میچ کے دوران سر پر گیند لگنے سے شدید زخمی ہو گئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="3" pair_no="124">
+    <sentence_1> انہوں نے کہاکہ میں محنت، لگن اور جذبے سے کام کرتی ہوں، اس لئے مجھے کوئی ڈر نہیں</sentence_1>
+    <sentence_2>میری جب کوئی فلم ریلیز ہوتی ہے تو سب ایک ساتھ دیکھتے ہیں اور مجھے میری غلطیاں بتاتے ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="8" pair_no="123">
+    <sentence_1>25 نومبر (اے پی پی) آسٹریلوی اوپنر فلپ ہیوز ڈومسٹک میچ کے دوران سر پر گیند لگنے سے شدید زخمی ہوگئے جن کی حالت تشویشناک ہے</sentence_1>
+    <sentence_2>فلپ ہیوز سر پر بائنسر لگنے سے زخمی ،حالت تشویشناک</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="122">
+    <sentence_1> اداکارہ نے کہاکہ سینئر اداکاروں سے بہت کچھ سیکھا ہے جبکہ نوجوان اداکار ایک دوسرے سے سیکھتے ہیں</sentence_1>
+    <sentence_2>میرا کردا رفلم" ایکشن جیکسن " میں بھی بہت اچھا ہے اور امید ہے کہ اس کردار میں سراہی جاؤں گی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="4" pair_no="121">
+    <sentence_1> انہوں نے کہاکہ میں محنت، لگن اور جذبے سے کام کرتی ہوں، اس لئے مجھے کوئی ڈر نہیں</sentence_1>
+    <sentence_2>انہوں نے کہا کہ پربھودیوا کے ساتھ کام کر نے کی میری خواہش بہت پرانی تھی </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="120">
+    <sentence_1> اداکارہ نے کہاکہ سینئر اداکاروں سے بہت کچھ سیکھا ہے جبکہ نوجوان اداکار ایک دوسرے سے سیکھتے ہیں</sentence_1>
+    <sentence_2> میں نے ہمیشہ سولو ہروئن کا کردار ادا کیا ہے اور بہت زیادہ شہرت سمیٹی ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="37" shared_words="8" pair_no="119">
+    <sentence_1>شاہد آفریدی کو پاکستان کرکٹ بورڈ نے آئی سی سی ٹی ٹونٹی ورلڈ کپ 2016ء تک کپتان مقرر کر دیا</sentence_1>
+    <sentence_2>سابق کپتان محمد حفیظ کی جانب سے رواں سال کے آغاز پر بنگلہ دیش میں آئی سی سی ورلڈٹی ٹوئینٹی کپ میں شکست کے بعد استعفیء دیدیا تھا جس کے بعد شاہد آفریدی کو یہ ذمہ داری سونپی گئی ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="3" pair_no="118">
+    <sentence_1> انہوں نے کہاکہ میں محنت، لگن اور جذبے سے کام کرتی ہوں، اس لئے مجھے کوئی ڈر نہیں</sentence_1>
+    <sentence_2>میں سلمان خان ،اکشے کمار اور رنویر سنگھ کے ساتھ کام کر کے بہت زیادہ شہرت سمیت چکی ہوں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="11" pair_no="117">
+    <sentence_1>شاہد آفریدی کو پاکستان کرکٹ بورڈ نے آئی سی سی ٹی ٹونٹی ورلڈ کپ 2016ء تک کپتان مقرر کر دیا</sentence_1>
+    <sentence_2>پی سی بی کے مطابق شاہد خان آفریدی کو آئی سی سی ٹی 20 ورلڈ کپ2016ءتک قومی ٹیم کا کپتان مقرر کیا گیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="3" pair_no="116">
+    <sentence_1> اداکارہ نے کہاکہ سینئر اداکاروں سے بہت کچھ سیکھا ہے جبکہ نوجوان اداکار ایک دوسرے سے سیکھتے ہیں</sentence_1>
+    <sentence_2>میں نے چار برسوں مین پہلی ملٹی سٹاررفلم" ایکشن جیکسن " سائن کی ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="10" shared_words="4" pair_no="115">
+    <sentence_1>قومی اسمبلی‘ آزادی صحافت کے حق میں قرارداد منظور</sentence_1>
+    <sentence_2>قومی اسمبلی : دھرنوں میں میڈیا نمائندوں پر حملوں کیخلاف مذمتی قرارداد منظور</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="4" pair_no="114">
+    <sentence_1> انہوں نے کہاکہ میں محنت، لگن اور جذبے سے کام کرتی ہوں، اس لئے مجھے کوئی ڈر نہیں</sentence_1>
+    <sentence_2> میں نے ہمیشہ سولو ہروئن کا کردار ادا کیا ہے اور بہت زیادہ شہرت سمیٹی ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="5" pair_no="113">
+    <sentence_1>باؤنسر لگنے سے آسٹریلوی بلے باز فلپ ہیوز کی حالت تشویشناک</sentence_1>
+    <sentence_2>سڈنی( سپورٹس ڈیسک ) آسٹریلوی اوپنر فلپ ہیوز ڈومسٹک میچ کے دوران سر پر گیند لگنے سے شدید زخمی ہو گئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="4" pair_no="112">
+    <sentence_1> اداکارہ نے کہاکہ سینئر اداکاروں سے بہت کچھ سیکھا ہے جبکہ نوجوان اداکار ایک دوسرے سے سیکھتے ہیں</sentence_1>
+    <sentence_2>انہوں نے سانتا بانتا نیوز سے انٹرویو میں کہاکہ میں ملٹی سٹار فلمیں سائن کرنے سے نہیں گھبراتی ہوں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="10" shared_words="5" pair_no="111">
+    <sentence_1>باؤنسر لگنے سے آسٹریلوی بلے باز فلپ ہیوز کی حالت تشویشناک</sentence_1>
+    <sentence_2>فلپ ہیوز سر پر بائنسر لگنے سے زخمی ،حالت تشویشناک</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="3" pair_no="110">
+    <sentence_1> انہوں نے کہاکہ میں محنت، لگن اور جذبے سے کام کرتی ہوں، اس لئے مجھے کوئی ڈر نہیں</sentence_1>
+    <sentence_2>اور اس کے ساتھ کام کر کے کچھ نہ کچھ سیکھنے کا ماقع ملتا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="32" shared_words="8" pair_no="109">
+    <sentence_1>کراچی سٹاک ایکسچینج میں تیزی کا رجحان، کے ایس ای 100 انڈیکس 30180.30 پوائنٹس پر بند</sentence_1>
+    <sentence_2>منگل کو کاروبار کے اختتام پر مارکیٹ کے سرمائے میں 11ارب89کروڑ 43لاکھ33ہزارپر16روپے کا ضافہ ریکارڈکیا گیا جس کے نتیجے میں مارکیٹ کا مجموعی سرمایہ 70کھرب 19ارب اور89کروڑ19لاکھ98ہزار249روپے سے بڑھ کر 70کھرب31ارب78کروڑ63لاکھ 31ہزار 413روپے ہو گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="3" pair_no="108">
+    <sentence_1> انہوں نے کہاکہ میں محنت، لگن اور جذبے سے کام کرتی ہوں، اس لئے مجھے کوئی ڈر نہیں</sentence_1>
+    <sentence_2>میں نے چار برسوں مین پہلی ملٹی سٹاررفلم" ایکشن جیکسن " سائن کی ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="4" pair_no="107">
+    <sentence_1> انہوں نے کہاکہ میں محنت، لگن اور جذبے سے کام کرتی ہوں، اس لئے مجھے کوئی ڈر نہیں</sentence_1>
+    <sentence_2>میرا کردا رفلم" ایکشن جیکسن " میں بھی بہت اچھا ہے اور امید ہے کہ اس کردار میں سراہی جاؤں گی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="8" pair_no="106">
+    <sentence_1> انہوں نے کہاکہ میں محنت، لگن اور جذبے سے کام کرتی ہوں، اس لئے مجھے کوئی ڈر نہیں</sentence_1>
+    <sentence_2>انہوں نے سانتا بانتا نیوز سے انٹرویو میں کہاکہ میں ملٹی سٹار فلمیں سائن کرنے سے نہیں گھبراتی ہوں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="8" pair_no="105">
+    <sentence_1>کراچی سٹاک ایکسچینج میں تیزی کا رجحان، کے ایس ای 100 انڈیکس 30180.30 پوائنٹس پر بند</sentence_1>
+    <sentence_2>بازار حصص میں تیزی 100انڈیکس میں 110پوائنٹ کا اضافہ  مارکیٹ سرمائے میں 11ارب سے زاید کا اضافہ ،کاروباری لین دین پیر کی نسبت 6کروڑ شےئر ز زاید رہا، 100انڈیکس30ہزار180پوائنٹ پر بند ہوا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="26" shared_words="11" pair_no="104">
+    <sentence_1> 27 سالہ اداکارہ نے اپنے ایک جاری کردہ بیان میں کہا ہے کہ ان کے 4 سالہ کیریئر میں ایکشن جیکسن ان کی پہلی ملٹی سٹار فلم ہے</sentence_1>
+    <sentence_2>میں نے چار برسوں مین پہلی ملٹی سٹاررفلم" ایکشن جیکسن " سائن کی ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="13" shared_words="4" pair_no="103">
+    <sentence_1> رپورٹ کے مطابق بڑی کمپنیاں معلومات کے چوری ہونے سے متعلق آگاہ ہیں</sentence_1>
+    <sentence_2>ماسکو(مانیٹرنگ ڈیسک)ایک امریکی کمیٹی کے مطابق روسی ہیکرز نے1.2ارب صارفین کے انٹرنیٹ کوائف چرا لیے ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="26" shared_words="5" pair_no="102">
+    <sentence_1> 27 سالہ اداکارہ نے اپنے ایک جاری کردہ بیان میں کہا ہے کہ ان کے 4 سالہ کیریئر میں ایکشن جیکسن ان کی پہلی ملٹی سٹار فلم ہے</sentence_1>
+    <sentence_2>انہوں نے سانتا بانتا نیوز سے انٹرویو میں کہاکہ میں ملٹی سٹار فلمیں سائن کرنے سے نہیں گھبراتی ہوں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="27" shared_words="10" pair_no="101">
+    <sentence_1> 27 سالہ اداکارہ نے اپنے ایک جاری کردہ بیان میں کہا ہے کہ ان کے 4 سالہ کیریئر میں ایکشن جیکسن ان کی پہلی ملٹی سٹار فلم ہے</sentence_1>
+    <sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ سوناکشی سنہا کا کہنا ہے کہ میں ملٹی سٹار رفلمیں سائن کرنے سے نہیں گھبراتی ہوں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="3" pair_no="100">
+    <sentence_1> اس سے قبل وہ فلم میں اکیلی ہیروئن آتی رہی ہیں</sentence_1>
+    <sentence_2>میری جب کوئی فلم ریلیز ہوتی ہے تو سب ایک ساتھ دیکھتے ہیں اور مجھے میری غلطیاں بتاتے ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="23" shared_words="6" pair_no="99">
+    <sentence_1> ایک امریکی اخبار کی رپورٹ کے مطابق اس ڈیٹا کو چوری کرنے میں روسی سائبر گروپ سائبر وار کا ہاتھ ہے</sentence_1>
+    <sentence_2> اس طرح 50ملین کے قریب مختلف ویب سائٹس بھی متاثر ہوئی ہیں اور ان میں مصروف امریکی کمپنیوں کی ویب سائٹس بھی شامل ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="98">
+    <sentence_1> کمپنی کے مطابق روسی ہیکرز نے 500 ملین سے زائد منفرد ای میلز آئی ڈی ہیک کیں</sentence_1>
+    <sentence_2>ماسکو(مانیٹرنگ ڈیسک)ایک امریکی کمیٹی کے مطابق روسی ہیکرز نے1.2ارب صارفین کے انٹرنیٹ کوائف چرا لیے ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="22" shared_words="3" pair_no="97">
+    <sentence_1> ایک امریکی اخبار کی رپورٹ کے مطابق اس ڈیٹا کو چوری کرنے میں روسی سائبر گروپ سائبر وار کا ہاتھ ہے</sentence_1>
+    <sentence_2>ہولڈ سیکورٹی کمپنی نے اخبار نیویارک ٹائمز کو بتایا کہ چرائے گئے کوائف میں انٹرنیٹ پاس ورڈ اور یوزر نیم وغیرہ شامل ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="3" pair_no="96">
+    <sentence_1> کمپنی کے مطابق روسی ہیکرز نے 500 ملین سے زائد منفرد ای میلز آئی ڈی ہیک کیں</sentence_1>
+    <sentence_2>روسی ہیکرز نے1.2ارب صارفین کے انٹرنیٹ کوائف چرا لیے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="4" pair_no="95">
+    <sentence_1> ایک امریکی اخبار کی رپورٹ کے مطابق اس ڈیٹا کو چوری کرنے میں روسی سائبر گروپ سائبر وار کا ہاتھ ہے</sentence_1>
+    <sentence_2>ماسکو(مانیٹرنگ ڈیسک)ایک امریکی کمیٹی کے مطابق روسی ہیکرز نے1.2ارب صارفین کے انٹرنیٹ کوائف چرا لیے ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="94">
+    <sentence_1> اس سے قبل وہ فلم میں اکیلی ہیروئن آتی رہی ہیں</sentence_1>
+    <sentence_2>میرے والد نہیں چاہتے تھے کہ میں اس فیلڈ میں دم رکھوں تاہم سلمان نے میرے والد کو رضا مند کیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="6" pair_no="93">
+    <sentence_1> اس سے قبل وہ فلم میں اکیلی ہیروئن آتی رہی ہیں</sentence_1>
+    <sentence_2> میں " ایکشن جیکسن " کی شوٹنگ سے فارغ ہو کر فلم کے علاوہ بھی ان سے بہت کچھ سیکھتی تھی </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="6" pair_no="92">
+    <sentence_1> 6 اگست (اے پی پی) ایک سیکورٹی فرم نے الزام عائد کیا ہے کہ روسی ہیکرز نے دنیا بھر میں 1.2 ارب سے زائد انٹرنیٹ صارفین کا ڈیٹا چوری کیا ہے</sentence_1>
+    <sentence_2>ہولڈ سیکورٹی کمپنی نے اخبار نیویارک ٹائمز کو بتایا کہ چرائے گئے کوائف میں انٹرنیٹ پاس ورڈ اور یوزر نیم وغیرہ شامل ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="12" shared_words="3" pair_no="91">
+    <sentence_1> اس سے قبل وہ فلم میں اکیلی ہیروئن آتی رہی ہیں</sentence_1>
+    <sentence_2>میں ان کے رقص سے متاثر ہوں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="4" pair_no="90">
+    <sentence_1> 6 اگست (اے پی پی) ایک سیکورٹی فرم نے الزام عائد کیا ہے کہ روسی ہیکرز نے دنیا بھر میں 1.2 ارب سے زائد انٹرنیٹ صارفین کا ڈیٹا چوری کیا ہے</sentence_1>
+    <sentence_2>ماسکو(مانیٹرنگ ڈیسک)ایک امریکی کمیٹی کے مطابق روسی ہیکرز نے1.2ارب صارفین کے انٹرنیٹ کوائف چرا لیے ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="21" shared_words="4" pair_no="89">
+    <sentence_1>روسی ہیکرز نے دنیا بھر میں 1.2 ارب سے زائد انٹرنیٹ صارفین کا ڈیٹا چوری کیا،امریکی اخبار کی رپورٹ</sentence_1>
+    <sentence_2>ہولڈ سیکورٹی کمپنی نے اخبار نیویارک ٹائمز کو بتایا کہ چرائے گئے کوائف میں انٹرنیٹ پاس ورڈ اور یوزر نیم وغیرہ شامل ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="4" pair_no="88">
+    <sentence_1>روسی ہیکرز نے دنیا بھر میں 1.2 ارب سے زائد انٹرنیٹ صارفین کا ڈیٹا چوری کیا،امریکی اخبار کی رپورٹ</sentence_1>
+    <sentence_2>ماسکو(مانیٹرنگ ڈیسک)ایک امریکی کمیٹی کے مطابق روسی ہیکرز نے1.2ارب صارفین کے انٹرنیٹ کوائف چرا لیے ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="4" pair_no="87">
+    <sentence_1> 6 اگست (اے پی پی) ایک سیکورٹی فرم نے الزام عائد کیا ہے کہ روسی ہیکرز نے دنیا بھر میں 1.2 ارب سے زائد انٹرنیٹ صارفین کا ڈیٹا چوری کیا ہے</sentence_1>
+    <sentence_2>روسی ہیکرز نے1.2ارب صارفین کے انٹرنیٹ کوائف چرا لیے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="86">
+    <sentence_1>روسی ہیکرز نے دنیا بھر میں 1.2 ارب سے زائد انٹرنیٹ صارفین کا ڈیٹا چوری کیا،امریکی اخبار کی رپورٹ</sentence_1>
+    <sentence_2>روسی ہیکرز نے1.2ارب صارفین کے انٹرنیٹ کوائف چرا لیے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="5" pair_no="85">
+    <sentence_1> انہوں نے الزام عائدکیا کہ عالمی امن فوج دارفر میں قیام امن کے بجائے باغیوں کو تحفظ فراہم کر رہی ہے</sentence_1>
+    <sentence_2>امن فوج اپنا دفاع نہیں کر سکی، وہ ہمارے شہریوں کا تحفظ کیسے کریگی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="6" pair_no="84">
+    <sentence_1> انہوں نے الزام عائدکیا کہ عالمی امن فوج دارفر میں قیام امن کے بجائے باغیوں کو تحفظ فراہم کر رہی ہے</sentence_1>
+    <sentence_2>صدر عمرالبشیرنے کہا کہ اب امن فوج کی ضرورت نہیں ہے اور وہ ہمارے لئے بوجھ بنی ہوئی ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="13" pair_no="83">
+    <sentence_1> انہوں نے کہا کہ اب دارفر میں عالمی امن فوجی دستوں کی ضرورت نہیں رہی اور یہ فوج ہمارے لیے ایک بوجھ ثابت ہو رہی ہے</sentence_1>
+    <sentence_2>صدر عمرالبشیرنے کہا کہ اب امن فوج کی ضرورت نہیں ہے اور وہ ہمارے لئے بوجھ بنی ہوئی ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="34" shared_words="6" pair_no="82">
+    <sentence_1>سوڈانی صد عمر البشیر نے خرطوم میں ایک نیوز کانفرنس سے خطاب کرتے ہوئے کہا کہ ہمارے پاس ’’یواین اے ایم آئی ڈی ‘‘ کے امن فوجی دستوں کی واپسی کا ایک واضح پروگرام موجود ہے</sentence_1>
+    <sentence_2>صدر عمرالبشیرنے کہا کہ اب امن فوج کی ضرورت نہیں ہے اور وہ ہمارے لئے بوجھ بنی ہوئی ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="3" pair_no="81">
+    <sentence_1> فلم کی دیگر کاسٹ میں دپیکا پڈوکون، ارجن کپور اور نصیر الدین شاہ شامل ہیں</sentence_1>
+    <sentence_2> انہوں نے کہا کہ حقیقت میں میرے لئے یہ دلچسپ فلم ہے جسے دیکھنے کے لئے مر رہا ہوں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="80">
+    <sentence_1> اس سے قبل وہ فلم میں اکیلی ہیروئن آتی رہی ہیں</sentence_1>
+    <sentence_2>میرا کردا رفلم" ایکشن جیکسن " میں بھی بہت اچھا ہے اور امید ہے کہ اس کردار میں سراہی جاؤں گی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="79">
+    <sentence_1>ایکشن جیکسن کے سیٹ پرکوئی اجنبیت محسوس نہیں کرتی، سوناکشی سنہا</sentence_1>
+    <sentence_2> میں " ایکشن جیکسن " کی شوٹنگ سے فارغ ہو کر فلم کے علاوہ بھی ان سے بہت کچھ سیکھتی تھی </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="3" pair_no="78">
+    <sentence_1> اس سے قبل وہ فلم میں اکیلی ہیروئن آتی رہی ہیں</sentence_1>
+    <sentence_2> میں نے ہمیشہ سولو ہروئن کا کردار ادا کیا ہے اور بہت زیادہ شہرت سمیٹی ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="36" shared_words="10" pair_no="77">
+    <sentence_1>سوڈانی صد عمر البشیر نے خرطوم میں ایک نیوز کانفرنس سے خطاب کرتے ہوئے کہا کہ ہمارے پاس ’’یواین اے ایم آئی ڈی ‘‘ کے امن فوجی دستوں کی واپسی کا ایک واضح پروگرام موجود ہے</sentence_1>
+    <sentence_2>خرطوم(دنیا نیوز)سوڈان کے صدر عمرالبشیرنے مطالبہ کیا ہے کہ شورش زدہ علاقے دارفور میں متعین افریقی اور عالمی امن کے دستوں کو نکالا جائے، کیونکہ عالمی امن مشن حکومت کے لئے بوجھ ثابت ہو رہا ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="31" shared_words="8" pair_no="76">
+    <sentence_1> یکم دسمبر (اے پی پی) بالی وڈ اداکارہ سوناکشی سنہا نے کہا ہے کہ وہ اپنی نئی آنے والی فلم ایکشن جیکسن میں ملٹی سٹارز کی وجہ سے سیٹ پرکوئی اجنبیت محسوس نہیں کرتیں</sentence_1>
+    <sentence_2>میں نے چار برسوں مین پہلی ملٹی سٹاررفلم" ایکشن جیکسن " سائن کی ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="34" shared_words="6" pair_no="75">
+    <sentence_1>سوڈانی صد عمر البشیر نے خرطوم میں ایک نیوز کانفرنس سے خطاب کرتے ہوئے کہا کہ ہمارے پاس ’’یواین اے ایم آئی ڈی ‘‘ کے امن فوجی دستوں کی واپسی کا ایک واضح پروگرام موجود ہے</sentence_1>
+    <sentence_2>سوڈان کے صدر کا دار فور سے عالمی امن فوج نکالنے کا مطالبہ امن فوج ہمارے لئے بوجھ بنی ہوئی ہے،اب اس کی ضرورت نہیں ہے:عمرالبشیر</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="3" pair_no="74">
+    <sentence_1> فلم جلد ہی سینما گھروں میں نمائش کیلئے پیش کی جائے گی</sentence_1>
+    <sentence_2> انہوں نے کہا کہ حقیقت میں میرے لئے یہ دلچسپ فلم ہے جسے دیکھنے کے لئے مر رہا ہوں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="32" shared_words="5" pair_no="73">
+    <sentence_1> یکم دسمبر (اے پی پی) بالی وڈ اداکارہ سوناکشی سنہا نے کہا ہے کہ وہ اپنی نئی آنے والی فلم ایکشن جیکسن میں ملٹی سٹارز کی وجہ سے سیٹ پرکوئی اجنبیت محسوس نہیں کرتیں</sentence_1>
+    <sentence_2>انہوں نے سانتا بانتا نیوز سے انٹرویو میں کہاکہ میں ملٹی سٹار فلمیں سائن کرنے سے نہیں گھبراتی ہوں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="15" shared_words="3" pair_no="72">
+    <sentence_1> فلم کی دیگر کاسٹ میں دپیکا پڈوکون، ارجن کپور اور نصیر الدین شاہ شامل ہیں</sentence_1>
+    <sentence_2>اپنے والد کی فلم دیکھنے کیلئے بیتاب ہوں : شاہد کپور</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="27" shared_words="13" pair_no="71">
+    <sentence_1> یکم دسمبر (اے پی پی) بالی وڈ اداکارہ سوناکشی سنہا نے کہا ہے کہ وہ اپنی نئی آنے والی فلم ایکشن جیکسن میں ملٹی سٹارز کی وجہ سے سیٹ پرکوئی اجنبیت محسوس نہیں کرتیں</sentence_1>
+    <sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ سوناکشی سنہا کا کہنا ہے کہ میں ملٹی سٹار رفلمیں سائن کرنے سے نہیں گھبراتی ہوں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="6" pair_no="70">
+    <sentence_1> یکم دسمبر (اے پی پی) سوڈان کے صدر عمر البشیر نے شورش زدہ علاقے دارفر میں متعین افریقہ اور عالمی امن فوج کے دستوں کو نکالنے کا مطالبہ کیا ہے</sentence_1>
+    <sentence_2>صدر عمرالبشیرنے کہا کہ اب امن فوج کی ضرورت نہیں ہے اور وہ ہمارے لئے بوجھ بنی ہوئی ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="13" shared_words="3" pair_no="69">
+    <sentence_1> فلم جلد ہی سینما گھروں میں نمائش کیلئے پیش کی جائے گی</sentence_1>
+    <sentence_2>اپنے والد کی فلم دیکھنے کیلئے بیتاب ہوں : شاہد کپور</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="34" shared_words="3" pair_no="68">
+    <sentence_1> یکم دسمبر (اے پی پی) بالی وڈ اداکارہ سوناکشی سنہا نے کہا ہے کہ وہ اپنی نئی آنے والی فلم ایکشن جیکسن میں ملٹی سٹارز کی وجہ سے سیٹ پرکوئی اجنبیت محسوس نہیں کرتیں</sentence_1>
+    <sentence_2>ملٹی سٹار فلمیں سائن کرنے سے نہیں گھبراتی ،سوناکشی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="7" pair_no="67">
+    <sentence_1> اداکار نے کہا کہ وہ فلم کا مختصر ٹریلر دیکھ چکے ہیں یہ زبردست ہے</sentence_1>
+    <sentence_2> انہوں نے کہا کہ حقیقت میں میرے لئے یہ دلچسپ فلم ہے جسے دیکھنے کے لئے مر رہا ہوں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="21" pair_no="66">
+    <sentence_1> یکم دسمبر (اے پی پی) سوڈان کے صدر عمر البشیر نے شورش زدہ علاقے دارفر میں متعین افریقہ اور عالمی امن فوج کے دستوں کو نکالنے کا مطالبہ کیا ہے</sentence_1>
+    <sentence_2>خرطوم(دنیا نیوز)سوڈان کے صدر عمرالبشیرنے مطالبہ کیا ہے کہ شورش زدہ علاقے دارفور میں متعین افریقی اور عالمی امن کے دستوں کو نکالا جائے، کیونکہ عالمی امن مشن حکومت کے لئے بوجھ ثابت ہو رہا ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="10" pair_no="65">
+    <sentence_1> یکم دسمبر (اے پی پی) سوڈان کے صدر عمر البشیر نے شورش زدہ علاقے دارفر میں متعین افریقہ اور عالمی امن فوج کے دستوں کو نکالنے کا مطالبہ کیا ہے</sentence_1>
+    <sentence_2>سوڈان کے صدر کا دار فور سے عالمی امن فوج نکالنے کا مطالبہ امن فوج ہمارے لئے بوجھ بنی ہوئی ہے،اب اس کی ضرورت نہیں ہے:عمرالبشیر</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="6" pair_no="64">
+    <sentence_1> اداکار نے کہا کہ وہ فلم کا مختصر ٹریلر دیکھ چکے ہیں یہ زبردست ہے</sentence_1>
+    <sentence_2>ممبئی (وقت نیوز) بالی وڈ اداکار شاہد کپور نے کہا کہ اپنے والد کی فلم " فائنڈنگ فینی" دیکھنے کے لئے بے تاب ہوں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="24" shared_words="3" pair_no="63">
+    <sentence_1>ایکشن جیکسن کے سیٹ پرکوئی اجنبیت محسوس نہیں کرتی، سوناکشی سنہا</sentence_1>
+    <sentence_2>ممبئی (وقت نیوز ) بالی وڈ کی اداکارہ سوناکشی سنہا کا کہنا ہے کہ میں ملٹی سٹار رفلمیں سائن کرنے سے نہیں گھبراتی ہوں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="31" shared_words="6" pair_no="62">
+    <sentence_1> 16 اگست (اے پی پی) بالی ووڈ اداکار شاہد کپور نے کہا ہے کہ وہ اپنے والد پنکج کپور کی فلم ’’فائنڈنگ فینی‘‘ دیکھنے کیلئے بے صبری سے منتظر ہیں</sentence_1>
+    <sentence_2>انہوں نے کہا کہ فلم میں اپنے ڈیڈ کو میں پہلی بار اوپن شرٹ اور شارٹس میں ڈمپل کپاڈیہ کے ساتھ دیکھوں گا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="28" shared_words="6" pair_no="61">
+    <sentence_1> 16 اگست (اے پی پی) بالی ووڈ اداکار شاہد کپور نے کہا ہے کہ وہ اپنے والد پنکج کپور کی فلم ’’فائنڈنگ فینی‘‘ دیکھنے کیلئے بے صبری سے منتظر ہیں</sentence_1>
+    <sentence_2>میڈیا سے گفتگو کرتے ہوئے انہوں نے کہا کہ میں نے ابھی تک " فائنڈنگ فینی" نہیں دیکھی صرف اس کے پرموز دیکھے ہیں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="15" pair_no="60">
+    <sentence_1> 16 اگست (اے پی پی) بالی ووڈ اداکار شاہد کپور نے کہا ہے کہ وہ اپنے والد پنکج کپور کی فلم ’’فائنڈنگ فینی‘‘ دیکھنے کیلئے بے صبری سے منتظر ہیں</sentence_1>
+    <sentence_2>ممبئی (وقت نیوز) بالی وڈ اداکار شاہد کپور نے کہا کہ اپنے والد کی فلم " فائنڈنگ فینی" دیکھنے کے لئے بے تاب ہوں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="5" pair_no="59">
+    <sentence_1> فاسٹ باؤلر زخمی ہونے کے بعد جب ڈریسنگ روم میں گئے تو و ہاں چکرا کر گر پڑے </sentence_1>
+    <sentence_2>کولمبو(وقت نیوز)پاکستان ٹیم کے فاسٹ باؤلر جنید خان سر پر گیند لگنے سے زخمی ہو گئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="3" pair_no="58">
+    <sentence_1>سوڈان کا دارفر سے عالمی امن فوج کے دستوں کو نکالنے کا مطالبہ</sentence_1>
+    <sentence_2>امن فوج اپنا دفاع نہیں کر سکی، وہ ہمارے شہریوں کا تحفظ کیسے کریگی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="25" shared_words="9" pair_no="57">
+    <sentence_1> 16 اگست (اے پی پی) بالی ووڈ اداکار شاہد کپور نے کہا ہے کہ وہ اپنے والد پنکج کپور کی فلم ’’فائنڈنگ فینی‘‘ دیکھنے کیلئے بے صبری سے منتظر ہیں</sentence_1>
+    <sentence_2>اپنے والد کی فلم دیکھنے کیلئے بیتاب ہوں : شاہد کپور</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="33" shared_words="10" pair_no="56">
+    <sentence_1>سوڈان کا دارفر سے عالمی امن فوج کے دستوں کو نکالنے کا مطالبہ</sentence_1>
+    <sentence_2>خرطوم(دنیا نیوز)سوڈان کے صدر عمرالبشیرنے مطالبہ کیا ہے کہ شورش زدہ علاقے دارفور میں متعین افریقی اور عالمی امن کے دستوں کو نکالا جائے، کیونکہ عالمی امن مشن حکومت کے لئے بوجھ ثابت ہو رہا ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="7" pair_no="55">
+    <sentence_1> گیند لگنے سے ان کے دائیں گال پر زخم آیا تاہم ہیلمٹ کی وجہ سے بڑی چوٹ سے محفوظ رہے </sentence_1>
+    <sentence_2>کولمبو(وقت نیوز)پاکستان ٹیم کے فاسٹ باؤلر جنید خان سر پر گیند لگنے سے زخمی ہو گئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="12" pair_no="54">
+    <sentence_1>سوڈان کا دارفر سے عالمی امن فوج کے دستوں کو نکالنے کا مطالبہ</sentence_1>
+    <sentence_2>سوڈان کے صدر کا دار فور سے عالمی امن فوج نکالنے کا مطالبہ امن فوج ہمارے لئے بوجھ بنی ہوئی ہے،اب اس کی ضرورت نہیں ہے:عمرالبشیر</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="6" pair_no="53">
+    <sentence_1> گیند لگنے سے ان کے دائیں گال پر زخم آیا تاہم ہیلمٹ کی وجہ سے بڑی چوٹ سے محفوظ رہے </sentence_1>
+    <sentence_2>جنید خان سر پر گیند لگنے سے زخمی ، ہسپتال منتقل</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="21" shared_words="7" pair_no="52">
+    <sentence_1>اپنے والد کی فلم ’’فائنڈنگ فینی‘‘ دیکھنے کیلئے بے صبری سے منتظر ہوں،شاہد کپور</sentence_1>
+    <sentence_2>ممبئی (وقت نیوز) بالی وڈ اداکار شاہد کپور نے کہا کہ اپنے والد کی فلم " فائنڈنگ فینی" دیکھنے کے لئے بے تاب ہوں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="32" shared_words="7" pair_no="51">
+    <sentence_1> ذرائع ابلاغ کی رپورٹس کے مطابق سری لنکا کے خلاف دوسرے کرکٹ ٹیسٹ کے تیسرے روز پاکستان کی پہلی اننگز کے دوران فاسٹ باؤلر جنید خان بیٹنگ کرتے ہوئے زخمی ہوگئے </sentence_1>
+    <sentence_2>قومی ٹیم کے منیجر معین خان نے بتایا کہ وہ جنید کو اسپتال لے کر آئے ہیں جہاں ٹیسٹ کے بعد اصل صورت حال سامنے آئے گی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="7" shared_words="7" pair_no="50">
+    <sentence_1>اپنے والد کی فلم ’’فائنڈنگ فینی‘‘ دیکھنے کیلئے بے صبری سے منتظر ہوں،شاہد کپور</sentence_1>
+    <sentence_2>اپنے والد کی فلم دیکھنے کیلئے بیتاب ہوں : شاہد کپور</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="9" pair_no="49">
+    <sentence_1> ذرائع ابلاغ کی رپورٹس کے مطابق سری لنکا کے خلاف دوسرے کرکٹ ٹیسٹ کے تیسرے روز پاکستان کی پہلی اننگز کے دوران فاسٹ باؤلر جنید خان بیٹنگ کرتے ہوئے زخمی ہوگئے </sentence_1>
+    <sentence_2>کولمبو(وقت نیوز)پاکستان ٹیم کے فاسٹ باؤلر جنید خان سر پر گیند لگنے سے زخمی ہو گئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="33" shared_words="3" pair_no="48">
+    <sentence_1> ذرائع ابلاغ کی رپورٹس کے مطابق سری لنکا کے خلاف دوسرے کرکٹ ٹیسٹ کے تیسرے روز پاکستان کی پہلی اننگز کے دوران فاسٹ باؤلر جنید خان بیٹنگ کرتے ہوئے زخمی ہوگئے </sentence_1>
+    <sentence_2>جنید خان سر پر گیند لگنے سے زخمی ، ہسپتال منتقل</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="32" shared_words="8" pair_no="47">
+    <sentence_1>16 اگست (اے پی پی) سری لنکا کے خلاف دوسرے کرکٹ ٹیسٹ کے دوران پاکستانی کرکٹ ٹیم کی باؤلنگ کو بڑا جھٹکا ، فاسٹ باؤلر جنید خان بیٹنگ کے دوران زخمی ہوگئے </sentence_1>
+    <sentence_2>قومی ٹیم کے منیجر معین خان نے بتایا کہ وہ جنید کو اسپتال لے کر آئے ہیں جہاں ٹیسٹ کے بعد اصل صورت حال سامنے آئے گی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="9" pair_no="46">
+    <sentence_1>16 اگست (اے پی پی) سری لنکا کے خلاف دوسرے کرکٹ ٹیسٹ کے دوران پاکستانی کرکٹ ٹیم کی باؤلنگ کو بڑا جھٹکا ، فاسٹ باؤلر جنید خان بیٹنگ کے دوران زخمی ہوگئے </sentence_1>
+    <sentence_2>کولمبو(وقت نیوز)پاکستان ٹیم کے فاسٹ باؤلر جنید خان سر پر گیند لگنے سے زخمی ہو گئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="32" shared_words="4" pair_no="45">
+    <sentence_1>16 اگست (اے پی پی) سری لنکا کے خلاف دوسرے کرکٹ ٹیسٹ کے دوران پاکستانی کرکٹ ٹیم کی باؤلنگ کو بڑا جھٹکا ، فاسٹ باؤلر جنید خان بیٹنگ کے دوران زخمی ہوگئے </sentence_1>
+    <sentence_2>جنید خان سر پر گیند لگنے سے زخمی ، ہسپتال منتقل</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="25" shared_words="4" pair_no="44">
+    <sentence_1>جنید خان بیٹنگ کے دوران زخمی ہوگئے</sentence_1>
+    <sentence_2>قومی ٹیم کے منیجر معین خان نے بتایا کہ وہ جنید کو اسپتال لے کر آئے ہیں جہاں ٹیسٹ کے بعد اصل صورت حال سامنے آئے گی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="4" pair_no="43">
+    <sentence_1> محمد اللہ نے 51 رنز کی ناقابل شکست اننگز کھیل کر ٹیم کی فتح میں اہم کردار ادا کیا</sentence_1>
+    <sentence_2>فتح کے ساتھ بنگلہ دیش نے سیریز میں وائٹ واش کر دیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="13" shared_words="4" pair_no="42">
+    <sentence_1>جنید خان بیٹنگ کے دوران زخمی ہوگئے</sentence_1>
+    <sentence_2>کولمبو(وقت نیوز)پاکستان ٹیم کے فاسٹ باؤلر جنید خان سر پر گیند لگنے سے زخمی ہو گئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="11" shared_words="9" pair_no="41">
+    <sentence_1> زمبابوے کی جانب سے ٹینڈائی چتارا نے تین اور تناشے پینگارا نے دو وکٹیں حاصل کیں</sentence_1>
+    <sentence_2> زمبابوے کی جانب سے چتارہ نے 3 اور پنیا نگارا نے 2 کھلاڑیوں کو آؤٹ کیا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="5" pair_no="40">
+    <sentence_1> محمد اللہ نے 51 رنز کی ناقابل شکست اننگز کھیل کر ٹیم کی فتح میں اہم کردار ادا کیا</sentence_1>
+    <sentence_2> زمبابوے کی جانب سے چتارہ نے 3 اور پنیا نگارا نے 2 کھلاڑیوں کو آؤٹ کیا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="8" shared_words="3" pair_no="39">
+    <sentence_1>جنید خان بیٹنگ کے دوران زخمی ہوگئے</sentence_1>
+    <sentence_2>جنید خان سر پر گیند لگنے سے زخمی ، ہسپتال منتقل</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="15" shared_words="7" pair_no="38">
+    <sentence_1> محمد اللہ نے 51 رنز کی ناقابل شکست اننگز کھیل کر ٹیم کی فتح میں اہم کردار ادا کیا</sentence_1>
+    <sentence_2>محمد اللہ نے51 رنز کی میچ وننگ اننگز کھیلی جبکہ صابر رحمٰن13 رنز بنا کر ناٹ آؤٹ رہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="11" shared_words="3" pair_no="37">
+    <sentence_1> عثمان غنی نے 107 رنز کی دلکش اننگز کھیلی</sentence_1>
+    <sentence_2>ورلڈ کپ تیاریاں ،افغانستان نے آکلینڈ کو شکست دیدی، عثمان کی سنچری</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="5" pair_no="36">
+    <sentence_1> شکیب الحسن نے تین اور زبیر حسین نے دو وکٹیں حاصل کیں</sentence_1>
+    <sentence_2> زمبابوے کی جانب سے چتارہ نے 3 اور پنیا نگارا نے 2 کھلاڑیوں کو آؤٹ کیا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="4" pair_no="35">
+    <sentence_1> زمبابوے کی جانب سے ٹینڈائی چتارا نے تین اور تناشے پینگارا نے دو وکٹیں حاصل کیں</sentence_1>
+    <sentence_2>بنگال ٹائیگرز کی جانب سے عمدہ باؤلنگ کے نتیجے میں کپتان چکمبورا سمیت 8 کھلاڑی ڈبل فیگر کراس نہ کر سکے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="3" pair_no="34">
+    <sentence_1> افغانستان کی طرف سے دولت زدران نے تین اور یامین احمدزئی نے دو وکٹیں حاصل کیں</sentence_1>
+    <sentence_2>ورلڈ کپ تیاریاں ،افغانستان نے آکلینڈ کو شکست دیدی، عثمان کی سنچری</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="33">
+    <sentence_1> زمبابوے کی جانب سے ٹینڈائی چتارا نے تین اور تناشے پینگارا نے دو وکٹیں حاصل کیں</sentence_1>
+    <sentence_2>آخری میچ میں زمبابوے کے 129 رنز کا ہدف بنگال ٹائیگرز نے 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="13" shared_words="7" pair_no="32">
+    <sentence_1> جواب میں بنگلہ دیش نے ہدف 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_1>
+    <sentence_2>فتح کے ساتھ بنگلہ دیش نے سیریز میں وائٹ واش کر دیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="4" pair_no="31">
+    <sentence_1> جواب میں بنگلہ دیش نے ہدف 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_1>
+    <sentence_2> زمبابوے کی جانب سے چتارہ نے 3 اور پنیا نگارا نے 2 کھلاڑیوں کو آؤٹ کیا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="34" shared_words="5" pair_no="30">
+    <sentence_1>16 اگست (اے پی پی) سری لنکا کرکٹ ٹیم کے مایہ ناز سپنر رنگنا ہیراتھ کی عمدہ کارکردگی کا سلسلہ جاری ہے، انہوں نے پاکستان کے خلاف کیریئر بیسٹ باؤلنگ کی اور 9 کھلاڑیوں کو آؤٹ کیا</sentence_1>
+    <sentence_2>سیریز میں زیادہ وکٹیں، ہیراتھ کی نگاہیں مرلی کے ریکارڈ پر مرکوز</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="5" pair_no="29">
+    <sentence_1> محمد اللہ نے 51 رنز کی ناقابل شکست اننگز کھیلی</sentence_1>
+    <sentence_2> زمبابوے کی جانب سے چتارہ نے 3 اور پنیا نگارا نے 2 کھلاڑیوں کو آؤٹ کیا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="21" shared_words="5" pair_no="28">
+    <sentence_1> 05اکتوبر (اے پی پی) آئی سی سی کرکٹ ورلڈ ایسوسی ایٹ وارم اپ میچز، افغانستان نے آکلینڈ کو 9 وکٹوں سے شکست دے دی</sentence_1>
+    <sentence_2>ورلڈ کپ تیاریاں ،افغانستان نے آکلینڈ کو شکست دیدی، عثمان کی سنچری</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="4" pair_no="27">
+    <sentence_1> جواب میں بنگلہ دیش نے ہدف 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_1>
+    <sentence_2>بنگال ٹائیگرز کی جانب سے عمدہ باؤلنگ کے نتیجے میں کپتان چکمبورا سمیت 8 کھلاڑی ڈبل فیگر کراس نہ کر سکے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="7" pair_no="26">
+    <sentence_1> محمد اللہ نے 51 رنز کی ناقابل شکست اننگز کھیلی</sentence_1>
+    <sentence_2>محمد اللہ نے51 رنز کی میچ وننگ اننگز کھیلی جبکہ صابر رحمٰن13 رنز بنا کر ناٹ آؤٹ رہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="10" shared_words="15" pair_no="25">
+    <sentence_1> جواب میں بنگلہ دیش نے ہدف 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_1>
+    <sentence_2>آخری میچ میں زمبابوے کے 129 رنز کا ہدف بنگال ٹائیگرز نے 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="12" shared_words="5" pair_no="24">
+    <sentence_1>ورلڈ ایسوسی ایٹ وارم اپ میچز، افغانستان نے آکلینڈ کو 9 وکٹوں سے شکست دے دی</sentence_1>
+    <sentence_2>ورلڈ کپ تیاریاں ،افغانستان نے آکلینڈ کو شکست دیدی، عثمان کی سنچری</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="23">
+    <sentence_1> جواب میں بنگلہ دیش نے ہدف 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_1>
+    <sentence_2>بنگلہ دیش کا زمبابوے کا ون ڈے سیریز میں 5-0 سے وائٹ واش</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="13" shared_words="7" pair_no="22">
+    <sentence_1> جواب میں بنگلہ دیش نے ہدف 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_1>
+    <sentence_2>فتح کے ساتھ بنگلہ دیش نے سیریز میں وائٹ واش کر دیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="4" pair_no="21">
+    <sentence_1> جواب میں بنگلہ دیش نے ہدف 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_1>
+    <sentence_2> زمبابوے کی جانب سے چتارہ نے 3 اور پنیا نگارا نے 2 کھلاڑیوں کو آؤٹ کیا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="28" shared_words="12" pair_no="20">
+    <sentence_1> سیریز کے پانچویں اور آخری ون ڈے میچ میں بنگال ٹائیگرز نے زمبابوے کو 5 وکٹوں سے شکست دے دی، مہمان ٹیم پہلے بیٹنگ کرتے ہوئے 128 رنز پر ڈھیر ہوگئی</sentence_1>
+    <sentence_2>آخری میچ میں زمبابوے کے 129 رنز کا ہدف بنگال ٹائیگرز نے 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="32" shared_words="6" pair_no="19">
+    <sentence_1> سیریز کے پانچویں اور آخری ون ڈے میچ میں بنگال ٹائیگرز نے زمبابوے کو 5 وکٹوں سے شکست دے دی، مہمان ٹیم پہلے بیٹنگ کرتے ہوئے 128 رنز پر ڈھیر ہوگئی</sentence_1>
+    <sentence_2>میر پور(وقت نیوز) بنگلہ دیش نے 5 میچوں کی سیریز کےآ خری میچ میں بھی فتح حاصل کر کے سیریز میں وائٹ واش کر دیا،زمبابوے ایک میچ بھی نہ جیت سکا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="28" shared_words="6" pair_no="18">
+    <sentence_1> سیریز کے پانچویں اور آخری ون ڈے میچ میں بنگال ٹائیگرز نے زمبابوے کو 5 وکٹوں سے شکست دے دی، مہمان ٹیم پہلے بیٹنگ کرتے ہوئے 128 رنز پر ڈھیر ہوگئی</sentence_1>
+    <sentence_2>بنگلہ دیش کا زمبابوے کا ون ڈے سیریز میں 5-0 سے وائٹ واش</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="4" pair_no="17">
+    <sentence_1> جواب میں بنگلہ دیش نے ہدف 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_1>
+    <sentence_2>بنگال ٹائیگرز کی جانب سے عمدہ باؤلنگ کے نتیجے میں کپتان چکمبورا سمیت 8 کھلاڑی ڈبل فیگر کراس نہ کر سکے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="10" shared_words="15" pair_no="16">
+    <sentence_1> جواب میں بنگلہ دیش نے ہدف 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_1>
+    <sentence_2>آخری میچ میں زمبابوے کے 129 رنز کا ہدف بنگال ٹائیگرز نے 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="10" pair_no="15">
+    <sentence_1> یکم دسمبر (اے پی پی) بنگلہ دیش نے زمبابوے کو ٹیسٹ کے بعد ون ڈے سیریز میں بھی وائٹ واش کر دیا</sentence_1>
+    <sentence_2>فتح کے ساتھ بنگلہ دیش نے سیریز میں وائٹ واش کر دیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="14">
+    <sentence_1> جواب میں بنگلہ دیش نے ہدف 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_1>
+    <sentence_2>بنگلہ دیش کا زمبابوے کا ون ڈے سیریز میں 5-0 سے وائٹ واش</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="22" shared_words="7" pair_no="13">
+    <sentence_1> یکم دسمبر (اے پی پی) بنگلہ دیش نے زمبابوے کو ٹیسٹ کے بعد ون ڈے سیریز میں بھی وائٹ واش کر دیا</sentence_1>
+    <sentence_2>آخری میچ میں زمبابوے کے 129 رنز کا ہدف بنگال ٹائیگرز نے 24.3 اوورز میں 5 وکٹوں کے نقصان پر حاصل کر لیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="27" shared_words="14" pair_no="12">
+    <sentence_1> یکم دسمبر (اے پی پی) بنگلہ دیش نے زمبابوے کو ٹیسٹ کے بعد ون ڈے سیریز میں بھی وائٹ واش کر دیا</sentence_1>
+    <sentence_2>میر پور(وقت نیوز) بنگلہ دیش نے 5 میچوں کی سیریز کےآ خری میچ میں بھی فتح حاصل کر کے سیریز میں وائٹ واش کر دیا،زمبابوے ایک میچ بھی نہ جیت سکا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="15" shared_words="9" pair_no="11">
+    <sentence_1> یکم دسمبر (اے پی پی) بنگلہ دیش نے زمبابوے کو ٹیسٹ کے بعد ون ڈے سیریز میں بھی وائٹ واش کر دیا</sentence_1>
+    <sentence_2>بنگلہ دیش کا زمبابوے کا ون ڈے سیریز میں 5-0 سے وائٹ واش</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="3" pair_no="10">
+    <sentence_1> پیٹر کاسنگ یہاں بے گھر افراد کے لیے امدادی سرگرمیوں میں مصروف تھا</sentence_1>
+    <sentence_2>امریکی ترجمان کے مطابق پیٹرکیسک کو یکم اکتوبر 2013ء کو یرغمال بنایا گیا تھا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="24" shared_words="4" pair_no="9">
+    <sentence_1> 05اکتوبر (اے پی پی) امریکہ کے مغوی شہری کے والدین نے داعش (دولت اسلامیہ ) سے اپنے بیٹے کی رہائی کی اپیل کی ہے</sentence_1>
+    <sentence_2>مزید یہ کہ قید کے دوران وہ اسلام بھی قبول کر چکا ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="24" shared_words="3" pair_no="8">
+    <sentence_1> 05اکتوبر (اے پی پی) امریکہ کے مغوی شہری کے والدین نے داعش (دولت اسلامیہ ) سے اپنے بیٹے کی رہائی کی اپیل کی ہے</sentence_1>
+    <sentence_2>امریکی ترجمان کے مطابق پیٹرکیسک کو یکم اکتوبر 2013ء کو یرغمال بنایا گیا تھا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="30" shared_words="12" pair_no="7">
+    <sentence_1> 05اکتوبر (اے پی پی) امریکہ کے مغوی شہری کے والدین نے داعش (دولت اسلامیہ ) سے اپنے بیٹے کی رہائی کی اپیل کی ہے</sentence_1>
+    <sentence_2>واشنگٹن (نیوز ایجنسیاں)انتہا پسند تنظیم داعش کی قید میں موجود ایک امریکی یر غمال کے والدین نے داعش میں پر زور اپیل کی ہے کہ وہ ان کے بیٹے کو رہا کر دیں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="5" pair_no="6">
+    <sentence_1> داعش کے شدت پسندوں نے امریکی شہری پیٹر کاسنگ کو گزشتہ سال شام سے اغوا کیا تھا</sentence_1>
+    <sentence_2>امریکی ترجمان کے مطابق پیٹرکیسک کو یکم اکتوبر 2013ء کو یرغمال بنایا گیا تھا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="32" shared_words="8" pair_no="5">
+    <sentence_1> داعش کے شدت پسندوں نے امریکی شہری پیٹر کاسنگ کو گزشتہ سال شام سے اغوا کیا تھا</sentence_1>
+    <sentence_2>واشنگٹن (نیوز ایجنسیاں)انتہا پسند تنظیم داعش کی قید میں موجود ایک امریکی یر غمال کے والدین نے داعش میں پر زور اپیل کی ہے کہ وہ ان کے بیٹے کو رہا کر دیں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="9" pair_no="4">
+    <sentence_1> 05اکتوبر (اے پی پی) امریکہ کے مغوی شہری کے والدین نے داعش (دولت اسلامیہ ) سے اپنے بیٹے کی رہائی کی اپیل کی ہے</sentence_1>
+    <sentence_2>امریکی یر غمال کے والدین کی داعش سے رحم دلی کی اپیل</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="4" pair_no="3">
+    <sentence_1> داعش کے شدت پسندوں نے امریکی شہری پیٹر کاسنگ کو گزشتہ سال شام سے اغوا کیا تھا</sentence_1>
+    <sentence_2>امریکی یر غمال کے والدین کی داعش سے رحم دلی کی اپیل</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="31" shared_words="8" pair_no="2">
+    <sentence_1>"رحم کریں" اور ہمارے بیٹے کو چھوڑ دیں،امریکی والدین کی داعش سے اپیل</sentence_1>
+    <sentence_2>واشنگٹن (نیوز ایجنسیاں)انتہا پسند تنظیم داعش کی قید میں موجود ایک امریکی یر غمال کے والدین نے داعش میں پر زور اپیل کی ہے کہ وہ ان کے بیٹے کو رہا کر دیں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="11" shared_words="5" pair_no="1">
+    <sentence_1>"رحم کریں" اور ہمارے بیٹے کو چھوڑ دیں،امریکی والدین کی داعش سے اپیل</sentence_1>
+    <sentence_2>امریکی یر غمال کے والدین کی داعش سے رحم دلی کی اپیل</sentence_2>
+  </sentence_pair>
+</sentence_pairs>

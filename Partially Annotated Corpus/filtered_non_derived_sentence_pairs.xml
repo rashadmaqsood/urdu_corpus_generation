@@ -1,0 +1,803 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sentence_pairs>
+  <sentence_pair classification="" edit_distance="19" shared_words="6" pair_no="200">
+    <sentence_1> پیپلز پارٹی سنٹرل ایگزیکٹو کمیٹی کا اجلاس دبئی میں ساڑھے چار گھنٹے جاری رہنے کے بعد ختم ہو گیا</sentence_1>
+    <sentence_2> پیپلز پارٹی نے انتخابی اصلاحات کا عمل وسیع تر مشاورت اور مقررہ وقت کے اندر مکمل کرنے کا بھی مطالبہ کیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="6" pair_no="199">
+    <sentence_1>جسٹس ثاقب نثار نے ریمارکس دیتے ہوئے کہا کہ حکومت کنٹینر ہٹائے اور مظاہرین شاہراہ دستور خالی کردیں</sentence_1>
+    <sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="198">
+    <sentence_1>بھارتی پولیس نے دعویٰ کیا ہے کہ شہید ہونے والے نوجوان عسکریت پسند تھے</sentence_1>
+    <sentence_2>دریں اثنا ایمنسٹی انٹرنیشنل نے بھارتی فوجیوں کو عمر قید کی سزادیئے جانے کا خیرمقدم کیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="15" shared_words="3" pair_no="197">
+    <sentence_1>جسٹس ثاقب نثار نے ریمارکس دیتے ہوئے کہا کہ حکومت کنٹینر ہٹائے اور مظاہرین شاہراہ دستور خالی کردیں</sentence_1>
+    <sentence_2> عمران خان نے یقین دہانی کرائی کہ احتجاج پُرامن ہے اور پُرامن ہی رہے گا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="6" pair_no="196">
+    <sentence_1>پیپلزپارٹی کی سنٹرل ایگزیکٹو کمیٹی نے پاکستان کی سیاسی صورتحال پر تشویش کا اظہار کیا ہے</sentence_1>
+    <sentence_2> بلاول بھٹو نے سندھ حکومت کی کارکردگی پر عدم اطمینان کا اظہار کرتے ہوئے شدید تنقید کی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="7" pair_no="195">
+    <sentence_1> فوجیوں نے علاقے میں دو رہائشی مکانات بھی گولہ باری کر کے مسمار کر دیے</sentence_1>
+    <sentence_2>فوج نے علاقے میں گولہ باری کی جسکے نتیجے میں دو گھر تباہ اور متعدد افراد زخمی ہوگئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="7" pair_no="194">
+    <sentence_1>انہوں نے پاکستان عوامی تحریک سے کہا کہ وہ درخواست گزاروں کے اعتراضات کا پیراوائز مفصل جواب داخل کرائیں</sentence_1>
+    <sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="4" pair_no="193">
+    <sentence_1> کمیٹی نے بدلتی صورتحال میں فیصلوں کا اختیار آصف علی زرداری اور بلاول بھٹو کو دے دیا ہے</sentence_1>
+    <sentence_2> بلاول بھٹو نے کہا کہ حکومت اگر پرفارم کرے گی تو کوئی غیرآئینی کام نہیں ہو گا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="192">
+    <sentence_1>بھارتی پولیس نے دعویٰ کیا ہے کہ شہید ہونے والے نوجوان عسکریت پسند تھے</sentence_1>
+    <sentence_2>کولگام میں ہی بھارتی فوج نے ایک نوجوان طالبعلم کو بھی گولی ما ر کر شہید کر ڈالا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="3" pair_no="191">
+    <sentence_1> آخری اطلاعات ملنے تک علاقے میں فوجی کارروائی جاری تھی</sentence_1>
+    <sentence_2>فوج نے علاقے میں گولہ باری کی جسکے نتیجے میں دو گھر تباہ اور متعدد افراد زخمی ہوگئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="11" shared_words="7" pair_no="190">
+    <sentence_1> پیپلزپارٹی کی قیادت کا کہنا تھا کہ پاکستان سپریم اور آئین کی بالادستی ترجیح ہے</sentence_1>
+    <sentence_2> بیشتر ارکان کا کہنا تھا کہ موجودہ صورتحال مسلم لیگ ن کی ہی پیدا کردہ ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="25" shared_words="7" pair_no="189">
+    <sentence_1>پیرکوسپریم کورٹ کی طرف سے جاری ایک پریس ریلیزکے مطابق قائم مقام چیف الیکشن کمشنرکی تقرری واپس لینے کے حوالے سے سیکرٹری الیکشن کمیشن کوآگاہ کردیاگیاہے</sentence_1>
+    <sentence_2>چیف جسٹس کے اس فیصلے سے الیکشن کمیشن کو بھی باضابطہ طور پر آگاہ کر دیا گیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="28" shared_words="5" pair_no="188">
+    <sentence_1>24 نومبر (اے پی پی) چیف جسٹس ناصرالملک نے سپریم کورٹ کے جج انورظہیرجمالی کی بطورقائم مقام چیف الیکشن کمشنرکی نامزدگی واپس لے لی، یہ فیصلہ 5 دسمبرسے نافذ العمل ہوگا </sentence_1>
+    <sentence_2>چیف جسٹس کے اس فیصلے سے الیکشن کمیشن کو بھی باضابطہ طور پر آگاہ کر دیا گیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="3" pair_no="187">
+    <sentence_1> کمیٹی نے بدلتی صورتحال میں فیصلوں کا اختیار آصف علی زرداری اور بلاول بھٹو کو دے دیا ہے</sentence_1>
+    <sentence_2> کچھ ارکان نے یہی رائے دی کہ وزیراعظم کو مستعفی ہوجانا چاہئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="21" shared_words="6" pair_no="186">
+    <sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+    <sentence_2>سرکاری ٹی وی کے مطابق ملک کے مشرق میں واقع صنعتی صوبے جیانگ سو کے کنشان شہرکی فیکٹری میں دھماکہ ہوا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="3" pair_no="185">
+    <sentence_1> پیپلزپارٹی کی قیادت کا کہنا تھا کہ پاکستان سپریم اور آئین کی بالادستی ترجیح ہے</sentence_1>
+    <sentence_2> ساڑھے 4 گھنٹے کے اجلاس میں ملکی سیاسی صورتحال پر سخت تشویش کا اظہارکیا  گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="4" pair_no="184">
+    <sentence_1> کمیٹی نے بدلتی صورتحال میں فیصلوں کا اختیار آصف علی زرداری اور بلاول بھٹو کو دے دیا ہے</sentence_1>
+    <sentence_2> بیشتر ارکان کا کہنا تھا کہ موجودہ صورتحال مسلم لیگ ن کی ہی پیدا کردہ ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="7" pair_no="183">
+    <sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+    <sentence_2>بیجنگ (نیٹ نیوز) چین میں فیکٹری میں دھماکے سے65 افراد ہلاک جبکہ تقریباً 120 کے زخمی ہونے کی اطلاعات ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="35" shared_words="11" pair_no="182">
+    <sentence_1>پیرکوسپریم کورٹ کی طرف سے جاری ایک پریس ریلیزکے مطابق قائم مقام چیف الیکشن کمشنرکی تقرری واپس لینے کے حوالے سے سیکرٹری الیکشن کمیشن کوآگاہ کردیاگیاہے</sentence_1>
+    <sentence_2>اسلام آباد(نیوز ایجنسیاں)چیف جسٹس آف پاکستان جسٹس ناصر الملک نے حکومت کو مستقل چیف الیکشن کمشنرکیلئے 5تک کی مہلت دیتے ہوئے قائم مقام چیف الیکشن کمشنرانور ظہیر جمالی کی خدمات کو واپس لینے حکم نامہ جاری کر دیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="6" pair_no="181">
+    <sentence_1>جسٹس جواد ایس خواجہ نے کہا کہ عدالت کا دروازہ شاہراہ دستور پر کھلتا ہے ہمیں متبادل راستے سے آنا پڑا</sentence_1>
+    <sentence_2> جسٹس جواد ایس خواجہ نے کہاکہ حکومت آئین اور قانون نافذ کرے،کوئی حائل ہورہا ہے تو بتائیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="33" shared_words="11" pair_no="180">
+    <sentence_1>24 نومبر (اے پی پی) چیف جسٹس ناصرالملک نے سپریم کورٹ کے جج انورظہیرجمالی کی بطورقائم مقام چیف الیکشن کمشنرکی نامزدگی واپس لے لی، یہ فیصلہ 5 دسمبرسے نافذ العمل ہوگا </sentence_1>
+    <sentence_2>اسلام آباد(نیوز ایجنسیاں)چیف جسٹس آف پاکستان جسٹس ناصر الملک نے حکومت کو مستقل چیف الیکشن کمشنرکیلئے 5تک کی مہلت دیتے ہوئے قائم مقام چیف الیکشن کمشنرانور ظہیر جمالی کی خدمات کو واپس لینے حکم نامہ جاری کر دیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="8" pair_no="179">
+    <sentence_1> کمیٹی نے بدلتی صورتحال میں فیصلوں کا اختیار آصف علی زرداری اور بلاول بھٹو کو دے دیا ہے</sentence_1>
+    <sentence_2> بلاول بھٹو نے مذاکرات کو ہی موجودہ سیاسی صورتحال کا بہترین حل قرار دیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="4" pair_no="178">
+    <sentence_1> کمیٹی نے بدلتی صورتحال میں فیصلوں کا اختیار آصف علی زرداری اور بلاول بھٹو کو دے دیا ہے</sentence_1>
+    <sentence_2> ساڑھے 4 گھنٹے کے اجلاس میں ملکی سیاسی صورتحال پر سخت تشویش کا اظہارکیا  گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="21" shared_words="4" pair_no="177">
+    <sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+    <sentence_2>چین :فیکٹری میں دھماکہ،65 افراد ہلاک</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="3" pair_no="176">
+    <sentence_1> کمیٹی نے بدلتی صورتحال میں فیصلوں کا اختیار آصف علی زرداری اور بلاول بھٹو کو دے دیا ہے</sentence_1>
+    <sentence_2> آصف زرداری نے کہاکہ جمہوریت کے تحفظ کے لئے پیپلز پارٹی ذمہ داریاں ادا کرے گی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="10" shared_words="18" pair_no="175">
+    <sentence_1>جسٹس جواد ایس خواجہ نے کہا کہ عدالت کا دروازہ شاہراہ دستور پر کھلتا ہے ہمیں متبادل راستے سے آنا پڑا</sentence_1>
+    <sentence_2> جسٹس جواد ایس خواجہ نے کہاکہ سپریم کورٹ کا دروازہ شاہراہ دستور پر کھلتا ہے اور احتجاج کے باعث ہمیں متبادل راستے سے عدالت آنا پڑا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="174">
+    <sentence_1>پیپلزپارٹی کی سنٹرل ایگزیکٹو کمیٹی نے پاکستان کی سیاسی صورتحال پر تشویش کا اظہار کیا ہے</sentence_1>
+    <sentence_2> بیشتر ارکان کا کہنا تھا کہ موجودہ صورتحال مسلم لیگ ن کی ہی پیدا کردہ ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="173">
+    <sentence_1>جسٹس جواد ایس خواجہ نے کہا کہ عدالت کا دروازہ شاہراہ دستور پر کھلتا ہے ہمیں متبادل راستے سے آنا پڑا</sentence_1>
+    <sentence_2> سپریم کورٹ نے احتجاج کرنیوالوں کو دھرنے کی جگہ تبدیل کرنے کا حکم دیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="172">
+    <sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>فیکٹری میں دھات کا کام ہوتا تھااوراس میں بیرونی سرمایہ کاری بھی ہوئی ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="8" pair_no="171">
+    <sentence_1> پیپلز پارٹی سنٹرل ایگزیکٹو کمیٹی کا اجلاس دبئی میں ساڑھے چار گھنٹے جاری رہنے کے بعد ختم ہو گیا</sentence_1>
+    <sentence_2> ساڑھے 4 گھنٹے کے اجلاس میں ملکی سیاسی صورتحال پر سخت تشویش کا اظہارکیا  گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="4" pair_no="170">
+    <sentence_1> فلم پیکو کی مرکزی کاسٹ میں امیتابھ بچن بھی شامل ہیں جو کہ فلم میں دپیکا کے والد بنیں گے</sentence_1>
+    <sentence_2>میں نے کبھی کسی کی زندگی میں مداخلت نہیں کی </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="4" pair_no="169">
+    <sentence_1>پیپلزپارٹی کی سنٹرل ایگزیکٹو کمیٹی نے پاکستان کی سیاسی صورتحال پر تشویش کا اظہار کیا ہے</sentence_1>
+    <sentence_2> بلاول بھٹو نے مذاکرات کو ہی موجودہ سیاسی صورتحال کا بہترین حل قرار دیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="3" pair_no="168">
+    <sentence_1> پیپلزپارٹی کی قیادت کا کہنا تھا کہ پاکستان سپریم اور آئین کی بالادستی ترجیح ہے</sentence_1>
+    <sentence_2> وہ دبئی میں  پارٹی کی سنٹرل ایگزیکٹو کمیٹی کے پہلے اجلاس سے خطاب کر رہے تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="6" pair_no="167">
+    <sentence_1>جسٹس جواد ایس خواجہ نے کہا کہ عدالت کا دروازہ شاہراہ دستور پر کھلتا ہے ہمیں متبادل راستے سے آنا پڑا</sentence_1>
+    <sentence_2> چیف جسٹس نے کہا کہ تحریک انصاف نے واضح کر دیا کہ وہ ماورائے آئین اقدام کی حمایت نہیں کرتی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="25" shared_words="10" pair_no="166">
+    <sentence_1>14 نومبر (اے پی پی) مقبوضہ کشمیرمیں بھارتی فوجیوں نے ریاستی دہشت گردی کی تازہ کارروائی کے دوران ضلع کولگام میں دو کشمیری نوجوا ن شہید کر دیے </sentence_1>
+    <sentence_2>ذرائع کے مطابق بھارتی فوجیوں نے کو لگام میں محاصرے اور تلاشی کی کارروائی کے دوران تین نوجوانوں کو شہید کر ڈالااور انہیں مجاہدین قرار دیدیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="3" pair_no="165">
+    <sentence_1>ہفتہ کی صبح ہونیوالا دھماکہ میٹل فیکٹری میں ہوا </sentence_1>
+    <sentence_2>حکام دھامکے کی وجوہات کا پتہ چلانے کی کوشش میں لگے ہوئے ہیں جبکہ امدادی کام زوروں کا جاری ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="4" pair_no="164">
+    <sentence_1> پیپلز پارٹی سنٹرل ایگزیکٹو کمیٹی کا اجلاس دبئی میں ساڑھے چار گھنٹے جاری رہنے کے بعد ختم ہو گیا</sentence_1>
+    <sentence_2> آصف زرداری نے کہاکہ جمہوریت کے تحفظ کے لئے پیپلز پارٹی ذمہ داریاں ادا کرے گی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="6" pair_no="163">
+    <sentence_1> فلم پیکو کی مرکزی کاسٹ میں امیتابھ بچن بھی شامل ہیں جو کہ فلم میں دپیکا کے والد بنیں گے</sentence_1>
+    <sentence_2>میں عرفان خان اور امتیاز علی کی فلم"تماشہ" کے علاوہ سنجے لیلا بھنسالی فلم "باجی راؤ مستانی "کر رہی ہوں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="3" pair_no="162">
+    <sentence_1>پیپلزپارٹی کی سنٹرل ایگزیکٹو کمیٹی نے پاکستان کی سیاسی صورتحال پر تشویش کا اظہار کیا ہے</sentence_1>
+    <sentence_2> انہوں نے کہا کہ ہمیں عالمی سطح پر ہونے والی تبدیلیوں پر بھی نظر رکھنی چاہئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="28" shared_words="3" pair_no="161">
+    <sentence_1>14 نومبر (اے پی پی) مقبوضہ کشمیرمیں بھارتی فوجیوں نے ریاستی دہشت گردی کی تازہ کارروائی کے دوران ضلع کولگام میں دو کشمیری نوجوا ن شہید کر دیے </sentence_1>
+    <sentence_2>یہ اقدام چند روز قبل مصنوعی جھڑپ میں ملوث 7فوجیوں کو عمر قید کی سزا سنائے جانے کے بعد کیا گیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="6" pair_no="160">
+    <sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>سرکاری ٹی وی کے مطابق ملک کے مشرق میں واقع صنعتی صوبے جیانگ سو کے کنشان شہرکی فیکٹری میں دھماکہ ہوا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="13" shared_words="3" pair_no="159">
+    <sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>فیکٹری میں دھات کا کام ہوتا تھااوراس میں بیرونی سرمایہ کاری بھی ہوئی ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="8" pair_no="158">
+    <sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+    <sentence_2>مکامی لوگوں کا کہنا ہے کہ دھماکے کے وقت فیکٹری میں 200 سے زائد افراد موجود تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="3" pair_no="157">
+    <sentence_1> کمیٹی نے بدلتی صورتحال میں فیصلوں کا اختیار آصف علی زرداری اور بلاول بھٹو کو دے دیا ہے</sentence_1>
+    <sentence_2> وہ دبئی میں  پارٹی کی سنٹرل ایگزیکٹو کمیٹی کے پہلے اجلاس سے خطاب کر رہے تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="3" pair_no="156">
+    <sentence_1> پیپلز پارٹی سنٹرل ایگزیکٹو کمیٹی کا اجلاس دبئی میں ساڑھے چار گھنٹے جاری رہنے کے بعد ختم ہو گیا</sentence_1>
+    <sentence_2> ذرائع کے مطابق بلاول بھٹو زرداری نے کہا کہ مذاکرات کے ذریعے جمہوری عمل جاری رہنا چاہئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="4" pair_no="155">
+    <sentence_1> فلم پیکو کی مرکزی کاسٹ میں امیتابھ بچن بھی شامل ہیں جو کہ فلم میں دپیکا کے والد بنیں گے</sentence_1>
+    <sentence_2>میری آج کامیابی کی بڑی وجہ یہ ہے کہ میں نے اپنے برے وقت سے بہت کچھ سیکھا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="4" pair_no="154">
+    <sentence_1>سپریم کورٹ نے جسٹس انورظہیرجمالی کی بطورقائم مقام چیف الیکشن کمشنر نامزدگی واپس لے لی فیصلہ 5 دسمبرسے نافذ العمل ہوگا</sentence_1>
+    <sentence_2>عدالت نے قرار دیا کہ قائم مقام چیف الیکشن کمشنرجسٹس انور ظہیر جمالی اضافی خدمات پیش کر رہے ہیں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="7" pair_no="153">
+    <sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>بیجنگ (نیٹ نیوز) چین میں فیکٹری میں دھماکے سے65 افراد ہلاک جبکہ تقریباً 120 کے زخمی ہونے کی اطلاعات ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="7" pair_no="152">
+    <sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>بیجنگ (نیٹ نیوز) چین میں فیکٹری میں دھماکے سے65 افراد ہلاک جبکہ تقریباً 120 کے زخمی ہونے کی اطلاعات ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="30" shared_words="8" pair_no="151">
+    <sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+    <sentence_2>زخمیوں کو فوری طورپر قریبی ہسپتالوں میں منتقل کر دیا گیا جہاں بیشتر افراد کی حالت نازک بتائی جاتی ہے جس سے ہلاکتوں میں اضافے کا خدشہ ظاہر کیا گیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="5" pair_no="150">
+    <sentence_1>بھارتی فوجیوں کے ہاتھوں کولگام میں دو کشمیر ی نوجوان شہید</sentence_1>
+    <sentence_2>کولگام میں ہی بھارتی فوج نے ایک نوجوان طالبعلم کو بھی گولی ما ر کر شہید کر ڈالا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="3" pair_no="149">
+    <sentence_1>جسٹس جواد ایس خواجہ نے کہا کہ عدالت کا دروازہ شاہراہ دستور پر کھلتا ہے ہمیں متبادل راستے سے آنا پڑا</sentence_1>
+    <sentence_2> عمران خان نے یقین دہانی کرائی کہ احتجاج پُرامن ہے اور پُرامن ہی رہے گا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="4" pair_no="148">
+    <sentence_1> فلم پیکو کی مرکزی کاسٹ میں امیتابھ بچن بھی شامل ہیں جو کہ فلم میں دپیکا کے والد بنیں گے</sentence_1>
+    <sentence_2>مجھے اس فلم کی کامیابی نے اچھا پلیٹ فارم دیا اور اس کے بعد مجھے بہت سے پراجیکٹس ملے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="6" pair_no="147">
+    <sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>سرکاری ٹی وی کے مطابق ملک کے مشرق میں واقع صنعتی صوبے جیانگ سو کے کنشان شہرکی فیکٹری میں دھماکہ ہوا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="33" shared_words="12" pair_no="146">
+    <sentence_1>14 نومبر (اے پی پی) مقبوضہ کشمیرمیں بھارتی فوجیوں نے ریاستی دہشت گردی کی تازہ کارروائی کے دوران ضلع کولگام میں دو کشمیری نوجوا ن شہید کر دیے </sentence_1>
+    <sentence_2>مقبوضہ کشمیربھارتی فوج نے 4 نوجوانوں کو شہید کر ڈالا 3نوجوانوں کوکولگام میں محاصرے اور تلاشی کی کارروائی کے دوران شہید کیا گیا،بمباری سے دو گھر تباہ،عوام کا شہادتوں کیخلاف احتجاج،پولیس نے گولی چلا دی،متعدد افراد زخمی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="5" pair_no="145">
+    <sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>چین :فیکٹری میں دھماکہ،65 افراد ہلاک</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="9" shared_words="4" pair_no="144">
+    <sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>چین :فیکٹری میں دھماکہ،65 افراد ہلاک</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="3" pair_no="143">
+    <sentence_1>بھارتی فوجیوں کے ہاتھوں کولگام میں دو کشمیر ی نوجوان شہید</sentence_1>
+    <sentence_2>فوج نے علاقے میں گولہ باری کی جسکے نتیجے میں دو گھر تباہ اور متعدد افراد زخمی ہوگئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="3" pair_no="142">
+    <sentence_1> کمیٹی نے بدلتی صورتحال میں فیصلوں کا اختیار آصف علی زرداری اور بلاول بھٹو کو دے دیا ہے</sentence_1>
+    <sentence_2>سب کچھ بھلا کر جمہوریت کی بقا کیلئے ’’چھوٹے بھائی‘‘ کا ساتھ دے رہے ہیں: زرداری</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="9" pair_no="141">
+    <sentence_1> پیپلز پارٹی سنٹرل ایگزیکٹو کمیٹی کا اجلاس دبئی میں ساڑھے چار گھنٹے جاری رہنے کے بعد ختم ہو گیا</sentence_1>
+    <sentence_2> وہ دبئی میں  پارٹی کی سنٹرل ایگزیکٹو کمیٹی کے پہلے اجلاس سے خطاب کر رہے تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="9" pair_no="140">
+    <sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+    <sentence_2>چین(مانیٹرنگ ڈیسک) چین کے مشرقی علاقےمیں ایک فیکٹری میں دھماکے کے نتیجے میں،65 افراد ہلاک اور 150 زخمی ہو گے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="22" shared_words="6" pair_no="139">
+    <sentence_1>بھارتی فوجیوں کے ہاتھوں کولگام میں دو کشمیر ی نوجوان شہید</sentence_1>
+    <sentence_2>ذرائع کے مطابق بھارتی فوجیوں نے کو لگام میں محاصرے اور تلاشی کی کارروائی کے دوران تین نوجوانوں کو شہید کر ڈالااور انہیں مجاہدین قرار دیدیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="138">
+    <sentence_1> فلم پیکو کی مرکزی کاسٹ میں امیتابھ بچن بھی شامل ہیں جو کہ فلم میں دپیکا کے والد بنیں گے</sentence_1>
+    <sentence_2>دیپیکا نے مزید کہا کہ میں سوچ سمجھ کر سکرپٹ سائن کرتی ہوں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="35" shared_words="5" pair_no="137">
+    <sentence_1>بھارتی فوجیوں کے ہاتھوں کولگام میں دو کشمیر ی نوجوان شہید</sentence_1>
+    <sentence_2>مقبوضہ کشمیربھارتی فوج نے 4 نوجوانوں کو شہید کر ڈالا 3نوجوانوں کوکولگام میں محاصرے اور تلاشی کی کارروائی کے دوران شہید کیا گیا،بمباری سے دو گھر تباہ،عوام کا شہادتوں کیخلاف احتجاج،پولیس نے گولی چلا دی،متعدد افراد زخمی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="25" shared_words="9" pair_no="136">
+    <sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+    <sentence_2>چین ،دھات کی فیکٹری میں دھماکہ،65 افراد ہلاک ،150زخمی فیکٹری کنشان شہر میں واقع تھی،دھماکے کے وقت 200 افراد سے زائد پوجود تھے، بیشتر زخمیوں کی حالت نازک</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="135">
+    <sentence_1> چائنہ سینٹرل ٹیلی ویژن نے انٹر نیٹ خبر میں کہا کہ حکام نے دھماکہ کو صنعتی حادثہ قرار دیا ہے </sentence_1>
+    <sentence_2>حکام دھامکے کی وجوہات کا پتہ چلانے کی کوشش میں لگے ہوئے ہیں جبکہ امدادی کام زوروں کا جاری ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="10" pair_no="134">
+    <sentence_1> فلم پیکو کی مرکزی کاسٹ میں امیتابھ بچن بھی شامل ہیں جو کہ فلم میں دپیکا کے والد بنیں گے</sentence_1>
+    <sentence_2>شوجت سرکار کی ہدایتکاری میں بننے والی فلم " پیکو" میں امیتابھ بچن ،دیپیکا کے والد کا کردار کریں گے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="24" shared_words="5" pair_no="133">
+    <sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+    <sentence_2>زخمیوں کو ہسپتال منتقل کر دیا گیا جہاں کئی کی حالت تشویشناک بتائی جاتی ہے جس کے باعث ہلاکتوں میں اضافے کا خدشہ ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="8" pair_no="132">
+    <sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+    <sentence_2>چین کے سرکاری ٹی وی کی رپورٹ کے مطابق ملک کے مشرقی صوبےجیانگ سو کے کنشان شہرکی فیکٹری میں صبح کے وقت دھماکہ ہوا جس کے نتیجے میں68افراد ہلاک اور 120 زخمی ہو گئے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="12" shared_words="5" pair_no="131">
+    <sentence_1>پیپلزپارٹی کی سنٹرل ایگزیکٹو کمیٹی نے پاکستان کی سیاسی صورتحال پر تشویش کا اظہار کیا ہے</sentence_1>
+    <sentence_2> ساڑھے 4 گھنٹے کے اجلاس میں ملکی سیاسی صورتحال پر سخت تشویش کا اظہارکیا  گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="5" pair_no="130">
+    <sentence_1>سپریم کورٹ نے جسٹس انورظہیرجمالی کی بطورقائم مقام چیف الیکشن کمشنر نامزدگی واپس لے لی فیصلہ 5 دسمبرسے نافذ العمل ہوگا</sentence_1>
+    <sentence_2>انہوں نے عدالت سے استدعاکی کہ چیف الیکشن کمشنر کی تعیناتی کے لئے مزید قوت دیا جائے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="4" pair_no="129">
+    <sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>مکامی لوگوں کا کہنا ہے کہ دھماکے کے وقت فیکٹری میں 200 سے زائد افراد موجود تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="22" shared_words="6" pair_no="128">
+    <sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+    <sentence_2>بیجنگ(نیوز ایجنسیاں،مانیٹرنگ ڈیسک) چین کے مشرقی علاقے میں کاروں کے پرزے بنانے والی ایک فیکٹری میں دھماکہ ،68 افراد ہلاک،120 زخمی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="127">
+    <sentence_1> فلم پیکو کی مرکزی کاسٹ میں امیتابھ بچن بھی شامل ہیں جو کہ فلم میں دپیکا کے والد بنیں گے</sentence_1>
+    <sentence_2>انہوں نے مڈ ڈے سے انٹرویو میں کہا کی بنگالی سیکھنے کا تجربہ یادگار ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="6" pair_no="126">
+    <sentence_1>جمہوریت کے تحفظ میں اپنی ذمہ داری پوری کریں گے، زرداری</sentence_1>
+    <sentence_2> آصف زرداری نے کہاکہ جمہوریت کے تحفظ کے لئے پیپلز پارٹی ذمہ داریاں ادا کرے گی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="23" shared_words="7" pair_no="125">
+    <sentence_1> سرکاریاعلانمیں کہا گیا ہے کہ ہفتہ کو مشرقی چین میں واقع فیکٹری میں دھماکے سے 65افراد ہلاک اور 100سے زائد زخمی ہوگئے </sentence_1>
+    <sentence_2>چین میں کاروں کے پرزے بنانیوالی فیکٹری میں دھماکہ،68 ہلاک  120 افراد زخمی،کئی کی حالت تشویشناک،امدادی کاروائیاں جاری ،تحقیقات شروع</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="124">
+    <sentence_1> فلم پیکو کی مرکزی کاسٹ میں امیتابھ بچن بھی شامل ہیں جو کہ فلم میں دپیکا کے والد بنیں گے</sentence_1>
+    <sentence_2>میں بنگالن کے روپ سے شائقین کو متاثر کروں گی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="3" pair_no="123">
+    <sentence_1>جمہوریت کے تحفظ میں اپنی ذمہ داری پوری کریں گے، زرداری</sentence_1>
+    <sentence_2> ذرائع کے مطابق بلاول بھٹو زرداری نے کہا کہ مذاکرات کے ذریعے جمہوری عمل جاری رہنا چاہئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="13" shared_words="9" pair_no="122">
+    <sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>چین(مانیٹرنگ ڈیسک) چین کے مشرقی علاقےمیں ایک فیکٹری میں دھماکے کے نتیجے میں،65 افراد ہلاک اور 150 زخمی ہو گے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="3" pair_no="121">
+    <sentence_1>جج لوگوں کو شاہراہ دستور سے نہیں ہٹا سکتے ،سپریم کورٹ</sentence_1>
+    <sentence_2> کنٹینرز کی وجہ سے لوگوں کو پیدل چلنا پڑ رہا ہے، اٹارنی جنرل جواب دیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="3" pair_no="120">
+    <sentence_1>سپریم کورٹ نے جسٹس انورظہیرجمالی کی بطورقائم مقام چیف الیکشن کمشنر نامزدگی واپس لے لی فیصلہ 5 دسمبرسے نافذ العمل ہوگا</sentence_1>
+    <sentence_2>چیف جسٹس کے اس فیصلے سے الیکشن کمیشن کو بھی باضابطہ طور پر آگاہ کر دیا گیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="3" pair_no="119">
+    <sentence_1>24 نومبر (اے پی پی) بالی وڈ اداکارہ دپیکا پڈوکون نے فلم پیکو کے لئے بنگالی زبان سیکھنا شروع کردی</sentence_1>
+    <sentence_2>مجھے اس فلم کی کامیابی نے اچھا پلیٹ فارم دیا اور اس کے بعد مجھے بہت سے پراجیکٹس ملے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="25" shared_words="7" pair_no="118">
+    <sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>چین ،دھات کی فیکٹری میں دھماکہ،65 افراد ہلاک ،150زخمی فیکٹری کنشان شہر میں واقع تھی،دھماکے کے وقت 200 افراد سے زائد پوجود تھے، بیشتر زخمیوں کی حالت نازک</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="4" pair_no="117">
+    <sentence_1>پیپلزپارٹی کی سنٹرل ایگزیکٹو کمیٹی نے پاکستان کی سیاسی صورتحال پر تشویش کا اظہار کیا ہے</sentence_1>
+    <sentence_2> وہ دبئی میں  پارٹی کی سنٹرل ایگزیکٹو کمیٹی کے پہلے اجلاس سے خطاب کر رہے تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="13" pair_no="116">
+    <sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>چین کے سرکاری ٹی وی کی رپورٹ کے مطابق ملک کے مشرقی صوبےجیانگ سو کے کنشان شہرکی فیکٹری میں صبح کے وقت دھماکہ ہوا جس کے نتیجے میں68افراد ہلاک اور 120 زخمی ہو گئے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="10" shared_words="3" pair_no="115">
+    <sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>فیکٹری میں امدادی سر گرمیاں جاری ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="34" shared_words="11" pair_no="114">
+    <sentence_1>سپریم کورٹ نے جسٹس انورظہیرجمالی کی بطورقائم مقام چیف الیکشن کمشنر نامزدگی واپس لے لی فیصلہ 5 دسمبرسے نافذ العمل ہوگا</sentence_1>
+    <sentence_2>اسلام آباد(نیوز ایجنسیاں)چیف جسٹس آف پاکستان جسٹس ناصر الملک نے حکومت کو مستقل چیف الیکشن کمشنرکیلئے 5تک کی مہلت دیتے ہوئے قائم مقام چیف الیکشن کمشنرانور ظہیر جمالی کی خدمات کو واپس لینے حکم نامہ جاری کر دیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="6" pair_no="113">
+    <sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>بیجنگ(نیوز ایجنسیاں،مانیٹرنگ ڈیسک) چین کے مشرقی علاقے میں کاروں کے پرزے بنانے والی ایک فیکٹری میں دھماکہ ،68 افراد ہلاک،120 زخمی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="28" shared_words="13" pair_no="112">
+    <sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>چین کے سرکاری ٹی وی کی رپورٹ کے مطابق ملک کے مشرقی صوبےجیانگ سو کے کنشان شہرکی فیکٹری میں صبح کے وقت دھماکہ ہوا جس کے نتیجے میں68افراد ہلاک اور 120 زخمی ہو گئے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="30" shared_words="5" pair_no="111">
+    <sentence_1>جج لوگوں کو شاہراہ دستور سے نہیں ہٹا سکتے ،سپریم کورٹ</sentence_1>
+    <sentence_2>مظاہرین شاہراہ دستور کی بجائے دوسری جگہ دھرنا دیں : سپریم کورٹ حکومت کو کنٹینر ہٹانے کی ہدایت‘ کسی غیر آئینی اقدام کی حمایت نہیں کرینگے عمران نے جواب داخل کرا دیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="6" pair_no="110">
+    <sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>بیجنگ(نیوز ایجنسیاں،مانیٹرنگ ڈیسک) چین کے مشرقی علاقے میں کاروں کے پرزے بنانے والی ایک فیکٹری میں دھماکہ ،68 افراد ہلاک،120 زخمی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="27" shared_words="5" pair_no="109">
+    <sentence_1> گروپ اے میں کولکتہ نائٹ رائیڈرز کی ٹیم تین میچز جیت کر 12 پوائنٹس کے ساتھ سیمی فائنل کیلئے کوالیفائی کر چکی ہے</sentence_1>
+    <sentence_2>چیمپئنز لیگ :لاہور لائنز کے لیے ’’کرو یا مرو ‘‘ کی صورتحال سیمی فائنل میں رسائی کیلیے آج پرتھ اسکور چرز کو بھاری مارجن سے کچلنا ہو گا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="4" pair_no="108">
+    <sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>مکامی لوگوں کا کہنا ہے کہ دھماکے کے وقت فیکٹری میں 200 سے زائد افراد موجود تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="6" pair_no="107">
+    <sentence_1>02 اگست (اے پی پی) چین میں فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>چین میں کاروں کے پرزے بنانیوالی فیکٹری میں دھماکہ،68 ہلاک  120 افراد زخمی،کئی کی حالت تشویشناک،امدادی کاروائیاں جاری ،تحقیقات شروع</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="3" pair_no="106">
+    <sentence_1> تھرڈ سیڈ جرمنی کی اینجلیق کربر نے سپین کی گیبرائن بلانکو کو بآسانی 6-2 اور 6-1 سے ہرایا</sentence_1>
+    <sentence_2>دوسرے سیمی فائنل میں جاپان کی کرومی ناراکو نیوزی لینڈ کی مرینا ایرا کووچ کا چیلنج در پیش ہو گا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="6" pair_no="105">
+    <sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>چین میں کاروں کے پرزے بنانیوالی فیکٹری میں دھماکہ،68 ہلاک  120 افراد زخمی،کئی کی حالت تشویشناک،امدادی کاروائیاں جاری ،تحقیقات شروع</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="3" pair_no="104">
+    <sentence_1>دپیکا پڈوکون نے فلم ’’پیکو‘‘ کے لئے بنگالی زبان سیکھنا شروع کردی</sentence_1>
+    <sentence_2>مجھے اس فلم کی کامیابی نے اچھا پلیٹ فارم دیا اور اس کے بعد مجھے بہت سے پراجیکٹس ملے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="12" shared_words="9" pair_no="103">
+    <sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>چین(مانیٹرنگ ڈیسک) چین کے مشرقی علاقےمیں ایک فیکٹری میں دھماکے کے نتیجے میں،65 افراد ہلاک اور 150 زخمی ہو گے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="30" shared_words="17" pair_no="102">
+    <sentence_1>چیمپئنز لیگ ٹی 20 میں لاہور لائنز اپنا آخری اور اہم لیگ میچ (آج) آسٹریلیا کی پرتھ سکارچرز کے خلاف کھیلے گی لاہور لائنز کو سیمی فائنل میں پہنچنے کیلئے پرتھ سکارچر کو بڑے مارجن سے شکست دینا ہوگی</sentence_1>
+    <sentence_2>چیمپئنز لیگ :لاہور لائنز کے لیے ’’کرو یا مرو ‘‘ کی صورتحال سیمی فائنل میں رسائی کیلیے آج پرتھ اسکور چرز کو بھاری مارجن سے کچلنا ہو گا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="24" shared_words="7" pair_no="101">
+    <sentence_1>چین ، فیکٹری میں دھماکے کے نتیجے میں 65افراد ہلاک ہو گئے</sentence_1>
+    <sentence_2>چین ،دھات کی فیکٹری میں دھماکہ،65 افراد ہلاک ،150زخمی فیکٹری کنشان شہر میں واقع تھی،دھماکے کے وقت 200 افراد سے زائد پوجود تھے، بیشتر زخمیوں کی حالت نازک</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="3" pair_no="100">
+    <sentence_1>24 نومبر (اے پی پی) بالی وڈ اداکارہ دپیکا پڈوکون نے فلم پیکو کے لئے بنگالی زبان سیکھنا شروع کردی</sentence_1>
+    <sentence_2>ممبئی(وقت نیوز)بالی وڈ کی اداکارہ دیپیکا پدوکون کا کہنا ہے کہ بنگالی سیکھنے کا تجربہ یادگار ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="99">
+    <sentence_1> سات مرتبہ کی گرینڈ سلم چیمپئن وینس ولیمز شکست کے بعد ایونٹ سے باہر ہوگئیں</sentence_1>
+    <sentence_2>دوسرے سیمی فائنل میں جاپان کی کرومی ناراکو نیوزی لینڈ کی مرینا ایرا کووچ کا چیلنج در پیش ہو گا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="7" pair_no="98">
+    <sentence_1> ان خیالات کا اظہار انہوں نے جمعرات کے روز پارلیمنٹ کے سامنے انقلاب مارچ کے شرکاء سے خطاب کرتے ہوئے کیا</sentence_1>
+    <sentence_2> عمران خان نے نماز کے بعد آزادی کا جشن منانے کا بھی اعلان کیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="97">
+    <sentence_1> ان خیالات کا اظہار انہوں نے جمعرات کے روز پارلیمنٹ کے سامنے انقلاب مارچ کے شرکاء سے خطاب کرتے ہوئے کیا</sentence_1>
+    <sentence_2> دریں اثناء طاہر القادری نے آج ڈی چوک میں نماز جمعہ کرانے کا اعلان کرا دیا، خد امامت کرینگے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="4" pair_no="96">
+    <sentence_1> ان خیالات کا اظہار انہوں نے جمعرات کے روز پارلیمنٹ کے سامنے انقلاب مارچ کے شرکاء سے خطاب کرتے ہوئے کیا</sentence_1>
+    <sentence_2> ان کی اعتکاف کی قبولیت کا سورج جلد طلوع ہوگا اور اور عوام جلد انقلاب کی عید منائینگے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="4" pair_no="95">
+    <sentence_1> 02 اگست (اے پی پی)سرینا ولیمز اور اینجلیق کربر نے سٹینفورڈ ویمنز ٹینس ٹورنامنٹ کے سیمی فائنل کیلئے کوالیفائی کر لیا</sentence_1>
+    <sentence_2>امریکہ میں ہی جاری سٹی اوپن ٹینس ٹورنامنٹ کی سیمی فائنل لائن اپ بھی مکمل ہوگئی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="8" pair_no="94">
+    <sentence_1> ان خیالات کا اظہار انہوں نے جمعرات کے روز پارلیمنٹ کے سامنے انقلاب مارچ کے شرکاء سے خطاب کرتے ہوئے کیا</sentence_1>
+    <sentence_2> ریڈ زون میں خطاب کرتے ہوئے طاہر القادری کا کہنا تھا کہ انقلاب کے تمام شرکاء نفلی اعتکاف کی نیت کر لیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="6" pair_no="93">
+    <sentence_1> ان خیالات کا اظہار انہوں نے جمعرات کے روز پارلیمنٹ کے سامنے انقلاب مارچ کے شرکاء سے خطاب کرتے ہوئے کیا</sentence_1>
+    <sentence_2>اسلام آباد (آن لائن) عوامی تحریک کے سربراہ ڈاکٹر طاہر القادری نے انقلاب مارچ کے شرکاء کو نفلی اعتکاف کی نیت کروا دی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="3" pair_no="92">
+    <sentence_1>سٹینفورڈ ویمنز ٹینس، سرینا ولیمز اور اینجلیق کربر سیمی فائنل میں داخل</sentence_1>
+    <sentence_2>امریکہ میں ہی جاری سٹی اوپن ٹینس ٹورنامنٹ کی سیمی فائنل لائن اپ بھی مکمل ہوگئی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="21" shared_words="4" pair_no="91">
+    <sentence_1> 02 اگست (اے پی پی)سرینا ولیمز اور اینجلیق کربر نے سٹینفورڈ ویمنز ٹینس ٹورنامنٹ کے سیمی فائنل کیلئے کوالیفائی کر لیا</sentence_1>
+    <sentence_2>سٹین فورڈ ،واشنگٹن، کٹز بوہیل(سپورٹس ڈیسک) امریکہ میں جاری سٹین فورڈ ٹینس کلاسک کی سیمی فائنل لائن اپ مکمل ہو گئی </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="90">
+    <sentence_1>سٹینفورڈ ویمنز ٹینس، سرینا ولیمز اور اینجلیق کربر سیمی فائنل میں داخل</sentence_1>
+    <sentence_2>سٹین فورڈ ،واشنگٹن، کٹز بوہیل(سپورٹس ڈیسک) امریکہ میں جاری سٹین فورڈ ٹینس کلاسک کی سیمی فائنل لائن اپ مکمل ہو گئی </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="8" shared_words="5" pair_no="89">
+    <sentence_1>دپیکا پڈوکون نے فلم ’’پیکو‘‘ کے لئے بنگالی زبان سیکھنا شروع کردی</sentence_1>
+    <sentence_2>میں نے فلم " پیکو" کے لئے بنگالی سیکھی ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="33" shared_words="6" pair_no="88">
+    <sentence_1> منگل کو امریکی ڈالر، برطانوی پاؤنڈ اور یورو کی قدروں میں بالترتیب 31 پیسے، 35 پیسے اور 19 پیسے کا اضافہ ہوگیا</sentence_1>
+    <sentence_2>کراچی (کامرس رپورٹر ) انٹر بینک میں روپے کے مقابلے میں ڈالر کی قدر 103کی سطح پر دوبارہ جا پہنچی جبکہ اقپن مارکیٹ میں ڈالر103 روپے تک آنے میں صرف 5یسے کی دوری پر ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="24" shared_words="5" pair_no="87">
+    <sentence_1> منگل کو امریکی ڈالر، برطانوی پاؤنڈ اور یورو کی قدروں میں بالترتیب 31 پیسے، 35 پیسے اور 19 پیسے کا اضافہ ہوگیا</sentence_1>
+    <sentence_2>انٹر بینک میں ڈالر کی قدر 103کی سطح پر پہنچ گئی  اوپن مارکیٹ میں 45پیسے کے اضافے سے ڈالر 102.95روپے میں فروخت ہوا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="3" pair_no="86">
+    <sentence_1> انہوں نے کہا کہ سارک ممالک ایک دوسرے کے ساتھ اقتصادی و تجارتی اشتراک کار کے ذریعے خوشحال ہو سکتے ہیں</sentence_1>
+    <sentence_2> نیپالی عوام مہمانوں کا استقبال کرنے کے لئے جوق درجوق سڑکوں کے گرد دو رویہ جمع تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="85">
+    <sentence_1> انہوں نے کہا کہ سارک ممالک ایک دوسرے کے ساتھ اقتصادی و تجارتی اشتراک کار کے ذریعے خوشحال ہو سکتے ہیں</sentence_1>
+    <sentence_2> وزیر اعظم پاکستان اپنے وفد کے ہمراہ ہوٹل روانہ ہوئے توان کا سارے راستے پرتپاک استقبال کیا گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="25" shared_words="3" pair_no="84">
+    <sentence_1> یہ انکشاف ایسوسی ایشن آف ڈیمو کریٹک ریفارمز نامی ادارے نے بھارتی الیکشن کمیشن کے پاس جمع کروائی گئی دساویزات کی روشنی میں کیا ہے</sentence_1>
+    <sentence_2>لوک سجھا کی 3اور11ریاستوں کی32نشستوں پر دونوں کی گنتی کے ابتدائی نتائج بی جے پی کے لئے کچھ زیادہ خوشگوار ثابت نہیں ہوئے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="25" shared_words="6" pair_no="83">
+    <sentence_1> یہ انکشاف ایسوسی ایشن آف ڈیمو کریٹک ریفارمز نامی ادارے نے بھارتی الیکشن کمیشن کے پاس جمع کروائی گئی دساویزات کی روشنی میں کیا ہے</sentence_1>
+    <sentence_2> بھارتی میڈیا کے مطابق وزیر اعظم نریندر مودی بھارتی عوام کو اچھے دن نہ دکھا سکے لیکن ان کے برے دن ضرور شروع ہوگئے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="30" shared_words="12" pair_no="82">
+    <sentence_1> 16 ستمبر (اے پی پی) پاکستانی روپے کے مقابلے میں امریکی ڈالر سمیت یورپین ممالک کی اہم کرنسیوں بشمول برطانوی پاؤنڈ اور یورو کی قدر میں تیزی کا رجحان رہا</sentence_1>
+    <sentence_2>کراچی (کامرس رپورٹر ) انٹر بینک میں روپے کے مقابلے میں ڈالر کی قدر 103کی سطح پر دوبارہ جا پہنچی جبکہ اقپن مارکیٹ میں ڈالر103 روپے تک آنے میں صرف 5یسے کی دوری پر ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="6" pair_no="81">
+    <sentence_1> بیان میں کہا گیا کہ سیاسی ڈائیلاگ کیلئے کافی گنجائش موجود ہے اور اسے پرامن رہنا چاہیے</sentence_1>
+    <sentence_2> پاکستان میں ہونیوالا احتجاج پرامن ہے اور اس صورتحال میں مذاکرات کی گنجائش بھی ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="30" shared_words="8" pair_no="80">
+    <sentence_1> 16 ستمبر (اے پی پی) پاکستانی روپے کے مقابلے میں امریکی ڈالر سمیت یورپین ممالک کی اہم کرنسیوں بشمول برطانوی پاؤنڈ اور یورو کی قدر میں تیزی کا رجحان رہا</sentence_1>
+    <sentence_2>انٹر بینک میں ڈالر کی قدر 103کی سطح پر پہنچ گئی  اوپن مارکیٹ میں 45پیسے کے اضافے سے ڈالر 102.95روپے میں فروخت ہوا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="5" pair_no="79">
+    <sentence_1> بیان میں کہا گیا کہ سیاسی ڈائیلاگ کیلئے کافی گنجائش موجود ہے اور اسے پرامن رہنا چاہیے</sentence_1>
+    <sentence_2> ترجمان نے کہا کہ نواز شریف پاکستان کے انتخابات میں منتخب ہوئے اور وہ ملک کے وزیراعظم ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="11" pair_no="78">
+    <sentence_1> کرن جوہر نے ٹویٹ کیا کہ انہیں بہت خوشی ہے کہ ٹوئیٹر پر ان کے مداحوں کی تعداد بڑھ کر 50 لاکھ ہوگئی ہے</sentence_1>
+    <sentence_2>تاہم اب ان کی مقبولیت میں اتنا اضافہ ہو گیا ہے کہ ٹوئٹر پر ان کے فالورز کی تعداد بڑھ رہی ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="31" shared_words="5" pair_no="77">
+    <sentence_1> کرن جوہر نے ٹویٹ کیا کہ انہیں بہت خوشی ہے کہ ٹوئیٹر پر ان کے مداحوں کی تعداد بڑھ کر 50 لاکھ ہوگئی ہے</sentence_1>
+    <sentence_2>مڈ ڈے کی رپورت کے مطابق \" کچھ کچھ ہوتا ہے\" اور \" کل ہو نہ ہو\" جیسی مقبول فلمیں دینے والے ڈائرکٹر کرن جوہر نے2009 میں ٹوئٹر جوائن کیا تھا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="31" shared_words="3" pair_no="76">
+    <sentence_1> یکم دسمبر (اے پی پی) بالی وڈ فلمساز کرن جوہر کی سماجی رابطہ ویب سائٹ ٹوئیٹر پر مداحوں کی تعداد 50 لاکھ ہوگئی</sentence_1>
+    <sentence_2>مڈ ڈے کی رپورت کے مطابق \" کچھ کچھ ہوتا ہے\" اور \" کل ہو نہ ہو\" جیسی مقبول فلمیں دینے والے ڈائرکٹر کرن جوہر نے2009 میں ٹوئٹر جوائن کیا تھا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="23" shared_words="5" pair_no="75">
+    <sentence_1> یکم دسمبر (اے پی پی) بالی وڈ فلمساز کرن جوہر کی سماجی رابطہ ویب سائٹ ٹوئیٹر پر مداحوں کی تعداد 50 لاکھ ہوگئی</sentence_1>
+    <sentence_2>تاہم اب ان کی مقبولیت میں اتنا اضافہ ہو گیا ہے کہ ٹوئٹر پر ان کے فالورز کی تعداد بڑھ رہی ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="33" shared_words="5" pair_no="74">
+    <sentence_1>امریکی ڈالر، برطانوی پاؤنڈ اور یوروکی قدر میں اضافہ</sentence_1>
+    <sentence_2>کراچی (کامرس رپورٹر ) انٹر بینک میں روپے کے مقابلے میں ڈالر کی قدر 103کی سطح پر دوبارہ جا پہنچی جبکہ اقپن مارکیٹ میں ڈالر103 روپے تک آنے میں صرف 5یسے کی دوری پر ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="22" shared_words="6" pair_no="73">
+    <sentence_1> کرن جوہر نے ٹویٹ کیا کہ انہیں بہت خوشی ہے کہ ٹوئیٹر پر ان کے مداحوں کی تعداد بڑھ کر 50 لاکھ ہوگئی ہے</sentence_1>
+    <sentence_2>ممبئی (وقت نیوز )بالی وڈ کے فلمساز کرن جوہر کے ٹوئٹر پر فالورز کی تعداد پانچ ملین سے زیادہ ہو گئی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="21" shared_words="8" pair_no="72">
+    <sentence_1> یکم دسمبر (اے پی پی) بالی وڈ فلمساز کرن جوہر کی سماجی رابطہ ویب سائٹ ٹوئیٹر پر مداحوں کی تعداد 50 لاکھ ہوگئی</sentence_1>
+    <sentence_2>ممبئی (وقت نیوز )بالی وڈ کے فلمساز کرن جوہر کے ٹوئٹر پر فالورز کی تعداد پانچ ملین سے زیادہ ہو گئی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="23" shared_words="4" pair_no="71">
+    <sentence_1>امریکی ڈالر، برطانوی پاؤنڈ اور یوروکی قدر میں اضافہ</sentence_1>
+    <sentence_2>انٹر بینک میں ڈالر کی قدر 103کی سطح پر پہنچ گئی  اوپن مارکیٹ میں 45پیسے کے اضافے سے ڈالر 102.95روپے میں فروخت ہوا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="21" shared_words="5" pair_no="70">
+    <sentence_1> کرن جوہر نے ٹویٹ کیا کہ انہیں بہت خوشی ہے کہ ٹوئیٹر پر ان کے مداحوں کی تعداد بڑھ کر 50 لاکھ ہوگئی ہے</sentence_1>
+    <sentence_2>کرن کے ٹوئٹر پر فالورز کی تعداد 5 ملین سے زیادہ</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="21" shared_words="5" pair_no="69">
+    <sentence_1> یکم دسمبر (اے پی پی) بالی وڈ فلمساز کرن جوہر کی سماجی رابطہ ویب سائٹ ٹوئیٹر پر مداحوں کی تعداد 50 لاکھ ہوگئی</sentence_1>
+    <sentence_2>کرن کے ٹوئٹر پر فالورز کی تعداد 5 ملین سے زیادہ</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="30" shared_words="9" pair_no="68">
+    <sentence_1> 16ستمبر (اے پی پی) بھارت کی 12 کروڑ آبادی والی دوسری بڑی ریاست مہاراشٹر کی اسمبلی کے نصف سے زیادہ ارکان کے خلاف فوجداری مقدمات جبکہ 2تہائی سے زیادہ کروڑ پتی ہیں </sentence_1>
+    <sentence_2>لوک سجھا کی 3اور11ریاستوں کی32نشستوں پر دونوں کی گنتی کے ابتدائی نتائج بی جے پی کے لئے کچھ زیادہ خوشگوار ثابت نہیں ہوئے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="3" pair_no="67">
+    <sentence_1> وزیراعظم کی اہلیہ بیگم کلثوم نواز، وزیراعظم کے معاونین خصوصی طارق فاطمی اور عرفان صدیقی بھی ان کے ہمراہ ہیں</sentence_1>
+    <sentence_2> نیپالی عوام مہمانوں کا استقبال کرنے کے لئے جوق درجوق سڑکوں کے گرد دو رویہ جمع تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="31" shared_words="4" pair_no="66">
+    <sentence_1> 16ستمبر (اے پی پی) بھارت کی 12 کروڑ آبادی والی دوسری بڑی ریاست مہاراشٹر کی اسمبلی کے نصف سے زیادہ ارکان کے خلاف فوجداری مقدمات جبکہ 2تہائی سے زیادہ کروڑ پتی ہیں </sentence_1>
+    <sentence_2> بھارتی میڈیا کے مطابق وزیر اعظم نریندر مودی بھارتی عوام کو اچھے دن نہ دکھا سکے لیکن ان کے برے دن ضرور شروع ہوگئے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="4" pair_no="65">
+    <sentence_1> وزیراعظم کی اہلیہ بیگم کلثوم نواز، وزیراعظم کے معاونین خصوصی طارق فاطمی اور عرفان صدیقی بھی ان کے ہمراہ ہیں</sentence_1>
+    <sentence_2> وزیر اعظم پاکستان اپنے وفد کے ہمراہ ہوٹل روانہ ہوئے توان کا سارے راستے پرتپاک استقبال کیا گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="64">
+    <sentence_1> بیان میں کہا گیا کہ سیاسی ڈائیلاگ کیلئے کافی گنجائش موجود ہے اور اسے پرامن رہنا چاہیے</sentence_1>
+    <sentence_2> بیان کے مطابق پرامن احتجاج اور اظہار کی آزادی جمہوریت کے اہم پہلو ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="4" pair_no="63">
+    <sentence_1> بیان میں کہا گیا کہ سیاسی ڈائیلاگ کیلئے کافی گنجائش موجود ہے اور اسے پرامن رہنا چاہیے</sentence_1>
+    <sentence_2> تشدد اور نجی املاک اور سرکاری عمارات کی توڑ پھوڑ سیاسی اختلافات کے حل کے قابل قبول طریقے نہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="14" pair_no="62">
+    <sentence_1> انہوں نے کہا کہ اقوام متحدہ کی جنرل اسمبلی سے خطاب اور کشمیر پر موقف پاکستان اور کشمیری عوام کے جذبات کا عکاس ہے</sentence_1>
+    <sentence_2> وزیراعظم نے کہا کہ جنرل اسمبلی میں کی جانے والی تقریر پاکستانی اور کشمیری عوام کے جذبات کی عکاسی کرتی ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="5" pair_no="61">
+    <sentence_1> انہوں نے کہا کہ پارلیمنٹ نے جمہوریت کے استحکام کے لئے اہم کردار ادا کیا ہے</sentence_1>
+    <sentence_2> پارلیمنٹ کی تمام جماعتوں نے اکٹھے ہوکر ایک پیغام دیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="3" pair_no="60">
+    <sentence_1> وزیراعظم کی اہلیہ بیگم کلثوم نواز، وزیراعظم کے معاونین خصوصی طارق فاطمی اور عرفان صدیقی بھی ان کے ہمراہ ہیں</sentence_1>
+    <sentence_2> نیپالی افواج کی طرف سے انہیںگارڈ آف آنر بھی پیش کیا گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="4" pair_no="59">
+    <sentence_1> ایک سوال کے جواب میں وزیراعظم نے کہا کہ میرا خیال نہیں کہ عدلیہ حکومت کے خلاف کسی سازش میں ملوث ہے</sentence_1>
+    <sentence_2> پارلیمنٹ کی تمام جماعتوں نے اکٹھے ہوکر ایک پیغام دیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="3" pair_no="58">
+    <sentence_1> بیان میں کہا گیا کہ سیاسی ڈائیلاگ کیلئے کافی گنجائش موجود ہے اور اسے پرامن رہنا چاہیے</sentence_1>
+    <sentence_2> ایسی کوئی قیاس آرائی غلط اور فریقین کے درمیان مذاکرات کے لئے نقصان دہ ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="12" shared_words="6" pair_no="57">
+    <sentence_1> انہوں نے کہا کہ پارلیمنٹ نے جمہوریت کے استحکام کے لئے اہم کردار ادا کیا ہے</sentence_1>
+    <sentence_2> انہوں نے کہا کہ سیاستدان شعور کا مظاہرہ کر رہے ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="5" pair_no="56">
+    <sentence_1> وزیراعظم کی اہلیہ بیگم کلثوم نواز، وزیراعظم کے معاونین خصوصی طارق فاطمی اور عرفان صدیقی بھی ان کے ہمراہ ہیں</sentence_1>
+    <sentence_2> نیپال کے ڈپٹی وزیر اعظم اور وزیر برائے وفاقی امور ہرکاش مان سنگھ نے ان کا استقبال کیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="3" pair_no="55">
+    <sentence_1> اس موقع پر پاکستان اور نیپال کے قومی ترانے بجائے گئے</sentence_1>
+    <sentence_2> نیپالی عوام مہمانوں کا استقبال کرنے کے لئے جوق درجوق سڑکوں کے گرد دو رویہ جمع تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="5" pair_no="54">
+    <sentence_1> ایک سوال کے جواب میں وزیراعظم نے کہا کہ میرا خیال نہیں کہ عدلیہ حکومت کے خلاف کسی سازش میں ملوث ہے</sentence_1>
+    <sentence_2> انہوں نے کہا کہ سیاستدان شعور کا مظاہرہ کر رہے ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="27" shared_words="6" pair_no="53">
+    <sentence_1>بھارت کی دوسری بڑی ریاست مہاراشٹر کی اسمبلی کے نصف سے زائد ارکان کے خلاف فوجداری مقدمات، 2تہائی سے زیادہ کروڑ پتی ہیں،ایسوسی ایشن آف ڈیمو کریٹک ریفارمز کی رپورٹ</sentence_1>
+    <sentence_2>لوک سجھا کی 3اور11ریاستوں کی32نشستوں پر دونوں کی گنتی کے ابتدائی نتائج بی جے پی کے لئے کچھ زیادہ خوشگوار ثابت نہیں ہوئے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="11" pair_no="52">
+    <sentence_1> ایک سوال کے جواب میں وزیراعظم نے کہا کہ میرا خیال نہیں کہ عدلیہ حکومت کے خلاف کسی سازش میں ملوث ہے</sentence_1>
+    <sentence_2> وزیراعظم نے کہا کہ جنرل اسمبلی میں کی جانے والی تقریر پاکستانی اور کشمیری عوام کے جذبات کی عکاسی کرتی ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="6" pair_no="51">
+    <sentence_1> انہوں نے کہا کہ پارلیمنٹ نے جمہوریت کے استحکام کے لئے اہم کردار ادا کیا ہے</sentence_1>
+    <sentence_2> وزیراعظم نے کہا کہ جنرل اسمبلی میں کی جانے والی تقریر پاکستانی اور کشمیری عوام کے جذبات کی عکاسی کرتی ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="5" pair_no="50">
+    <sentence_1>بیان میں کہا گیا کہ امریکا پاکستان کیساتھ جمہوریت کے استحکام کیلئے کام کررہا ہے فریقین کو تشدد سے گریز کرنا چاہیے</sentence_1>
+    <sentence_2> ترجمان نے کہا کہ نواز شریف پاکستان کے انتخابات میں منتخب ہوئے اور وہ ملک کے وزیراعظم ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="3" pair_no="49">
+    <sentence_1> اس موقع پر پاکستان اور نیپال کے قومی ترانے بجائے گئے</sentence_1>
+    <sentence_2> وزیر اعظم پاکستان اپنے وفد کے ہمراہ ہوٹل روانہ ہوئے توان کا سارے راستے پرتپاک استقبال کیا گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="48">
+    <sentence_1> ایک سوال کے جواب میں وزیراعظم نے کہا کہ میرا خیال نہیں کہ عدلیہ حکومت کے خلاف کسی سازش میں ملوث ہے</sentence_1>
+    <sentence_2> نظام میں خرابیاں ہیں اور وہ خرابیاں ہماری نظر میں ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="11" shared_words="3" pair_no="47">
+    <sentence_1> وزیراعظم کو سلامی پیش کی گئی</sentence_1>
+    <sentence_2> نیپالی افواج کی طرف سے انہیںگارڈ آف آنر بھی پیش کیا گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="4" pair_no="46">
+    <sentence_1> اس موقع پر پاکستان اور نیپال کے قومی ترانے بجائے گئے</sentence_1>
+    <sentence_2> نیپال کے ڈپٹی وزیر اعظم اور وزیر برائے وفاقی امور ہرکاش مان سنگھ نے ان کا استقبال کیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="7" pair_no="45">
+    <sentence_1>الطاف حسین نے بگڑتی ہوئی سیاسی صورتحال پر تشویش کا اظہار کرتے ہوئے کہا کہ فریقین فوری طور پر دوبارہ مذاکرات شروع کریں</sentence_1>
+    <sentence_2> بلاول بھٹو نے سندھ حکومت کی کارکردگی پر عدم اطمینان کا اظہار کرتے ہوئے شدید تنقید کی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="14" shared_words="4" pair_no="44">
+    <sentence_1> انہوں نے کہا کہ پارلیمنٹ نے جمہوریت کے استحکام کے لئے اہم کردار ادا کیا ہے</sentence_1>
+    <sentence_2> عدالتوں نے بھی دھرنوں سے متعلق اپنے تحفظات کا اظہار کیا تھا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="43">
+    <sentence_1> انہوں نے کہا کہ پارلیمنٹ نے جمہوریت کے استحکام کے لئے اہم کردار ادا کیا ہے</sentence_1>
+    <sentence_2> اسلام آباد میں دھرنے شروع ہوئے تو عدالتوں کے خیالات بھی سب نے دیکھ لئے تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="3" pair_no="42">
+    <sentence_1> انہوں نے یہ بات وطن واپسی کے لئے ہیتھرو ایئرپورٹ روانگی سے قبل صحافیوں سے گفتگو کرتے ہوئے کہی</sentence_1>
+    <sentence_2> انہوں نے کہا کہ سیاستدان شعور کا مظاہرہ کر رہے ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="5" pair_no="41">
+    <sentence_1> نواز شریف نے کہا کہ ان کی حکومت بھی نظام میں موجود خرابیوں کو دور کرنے کی خواہاں ہے</sentence_1>
+    <sentence_2> پارلیمنٹ کی تمام جماعتوں نے اکٹھے ہوکر ایک پیغام دیا ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="40">
+    <sentence_1> نواز شریف نے کہا کہ ان کی حکومت بھی نظام میں موجود خرابیوں کو دور کرنے کی خواہاں ہے</sentence_1>
+    <sentence_2> انہوں نے کہا کہ سیاستدان شعور کا مظاہرہ کر رہے ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="4" pair_no="39">
+    <sentence_1> انہوں نے یہ بات وطن واپسی کے لئے ہیتھرو ایئرپورٹ روانگی سے قبل صحافیوں سے گفتگو کرتے ہوئے کہی</sentence_1>
+    <sentence_2> دھرنوں کی وجہ سے ملکی معیشت پر منفی اثرات مرتب ہوئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="31" shared_words="3" pair_no="38">
+    <sentence_1> 25 نومبر (اے پی پی) وزیراعظم محمد نواز شریف اٹھارویں سارک سربراہ اجلاس میں شرکت کیلئے منگل کی سہ پہر یہاں پہنچ گئے جو 26 اور 27 نومبر کو منعقد ہو رہا ہے</sentence_1>
+    <sentence_2> بیگم کلثوم نواز شریف بھی ان کے ہمراہ تھیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="3" pair_no="37">
+    <sentence_1> انہوں نے یہ بات وطن واپسی کے لئے ہیتھرو ایئرپورٹ روانگی سے قبل صحافیوں سے گفتگو کرتے ہوئے کہی</sentence_1>
+    <sentence_2> وزیراعظم نے کہا کہ جنرل اسمبلی میں کی جانے والی تقریر پاکستانی اور کشمیری عوام کے جذبات کی عکاسی کرتی ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="34" shared_words="13" pair_no="36">
+    <sentence_1> انہوں نے یہ بات وطن واپسی کے لئے ہیتھرو ایئرپورٹ روانگی سے قبل صحافیوں سے گفتگو کرتے ہوئے کہی</sentence_1>
+    <sentence_2> پیر کو لندن سے وطن روانگی سے قبل میڈیا سے گفتگو کرتے ہوئے انہوں نے کہا کہ حکومت اپنا کام کررہی ہے دھرنے والوں نے دھرنا دیا ہے وہ دھرنا دیں ہم اپنا کام جاری رکھیں گے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="15" shared_words="3" pair_no="35">
+    <sentence_1>سیاسی بحران کا جلد حل نکالا جائے ، الطاف حسین</sentence_1>
+    <sentence_2> بلاول بھٹو نے مذاکرات کو ہی موجودہ سیاسی صورتحال کا بہترین حل قرار دیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="30" shared_words="5" pair_no="34">
+    <sentence_1> 25 نومبر (اے پی پی) وزیراعظم محمد نواز شریف اٹھارویں سارک سربراہ اجلاس میں شرکت کیلئے منگل کی سہ پہر یہاں پہنچ گئے جو 26 اور 27 نومبر کو منعقد ہو رہا ہے</sentence_1>
+    <sentence_2>کھٹمنڈو(خصوصی رپورٹر)وزیر اعظم نواز شریف 18 ویں سارک سربراہی کانفرنس میں شرکت کے لئے کھٹمنڈو پہنچے تو ان کا پرتپاک استقبال کیا گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="8" pair_no="33">
+    <sentence_1> نواز شریف نے کہا کہ ان کی حکومت بھی نظام میں موجود خرابیوں کو دور کرنے کی خواہاں ہے</sentence_1>
+    <sentence_2> وزیراعظم نے کہا کہ جنرل اسمبلی میں کی جانے والی تقریر پاکستانی اور کشمیری عوام کے جذبات کی عکاسی کرتی ہے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="4" pair_no="32">
+    <sentence_1> انہوں نے یہ بات وطن واپسی کے لئے ہیتھرو ایئرپورٹ روانگی سے قبل صحافیوں سے گفتگو کرتے ہوئے کہی</sentence_1>
+    <sentence_2> عدالتوں نے بھی دھرنوں سے متعلق اپنے تحفظات کا اظہار کیا تھا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="8" pair_no="31">
+    <sentence_1> نواز شریف نے کہا کہ ان کی حکومت بھی نظام میں موجود خرابیوں کو دور کرنے کی خواہاں ہے</sentence_1>
+    <sentence_2> انہیں حل کرنا ہمارے ایجنڈے میں شامل ہے‘ موقع ملا تو انتخابی عمل میں خامیوں سمیت تمام خرابیوں کو دور کرنے کی کوشش کریں گے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="5" pair_no="30">
+    <sentence_1> انہوں نے یہ بات وطن واپسی کے لئے ہیتھرو ایئرپورٹ روانگی سے قبل صحافیوں سے گفتگو کرتے ہوئے کہی</sentence_1>
+    <sentence_2> اسلام آباد میں دھرنے شروع ہوئے تو عدالتوں کے خیالات بھی سب نے دیکھ لئے تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="3" pair_no="29">
+    <sentence_1> نواز شریف نے کہا کہ ان کی حکومت بھی نظام میں موجود خرابیوں کو دور کرنے کی خواہاں ہے</sentence_1>
+    <sentence_2> نظام میں خرابیاں ہیں اور وہ خرابیاں ہماری نظر میں ہیں</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="7" pair_no="28">
+    <sentence_1>بیان میں کہا گیا کہ امریکا پاکستان کیساتھ جمہوریت کے استحکام کیلئے کام کررہا ہے فریقین کو تشدد سے گریز کرنا چاہیے</sentence_1>
+    <sentence_2>پاکستان میں فریقین تشدد سے گریز کریں، مذاکرات کے عمل میں شامل نہیں: امریکہ</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="29" shared_words="7" pair_no="27">
+    <sentence_1>بیان میں واضح کیا گیا کہ امریکا پاکستان کے آئینی اور انتخابی عمل کی ہمیشہ حمایت کرتا رہا ہے لہٰذا پاکستان میں جمہوریت کو مضبوط کرنے کے لیے اقدامات اْٹھائے جانے چاہئیں </sentence_1>
+    <sentence_2>پاکستان میں فریقین تشدد سے گریز کریں، مذاکرات کے عمل میں شامل نہیں: امریکہ</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="3" pair_no="26">
+    <sentence_1> ترائی بھون انٹرنیشنل ایئرپورٹ پر نیپال کے نائب وزیراعظم بام دیو گوتم نے وزیراعظم کا پرتپاک خیر مقدم کیا</sentence_1>
+    <sentence_2> نیپالی عوام مہمانوں کا استقبال کرنے کے لئے جوق درجوق سڑکوں کے گرد دو رویہ جمع تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="3" pair_no="25">
+    <sentence_1> ترائی بھون انٹرنیشنل ایئرپورٹ پر نیپال کے نائب وزیراعظم بام دیو گوتم نے وزیراعظم کا پرتپاک خیر مقدم کیا</sentence_1>
+    <sentence_2> ایئر پورٹ سے ہوٹل تک کاراستہ پرتپاک خیر مقدمی بینرز سے سجایا گیا تھا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="4" pair_no="24">
+    <sentence_1>ٹویٹر پرکرن جوہر کے مداحوں کی تعداد 50 لاکھ ہوگئی</sentence_1>
+    <sentence_2>تاہم اب ان کی مقبولیت میں اتنا اضافہ ہو گیا ہے کہ ٹوئٹر پر ان کے فالورز کی تعداد بڑھ رہی ہے </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="5" pair_no="23">
+    <sentence_1> ترائی بھون انٹرنیشنل ایئرپورٹ پر نیپال کے نائب وزیراعظم بام دیو گوتم نے وزیراعظم کا پرتپاک خیر مقدم کیا</sentence_1>
+    <sentence_2> وزیر اعظم پاکستان اپنے وفد کے ہمراہ ہوٹل روانہ ہوئے توان کا سارے راستے پرتپاک استقبال کیا گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="3" pair_no="22">
+    <sentence_1> نواز شریف نے کہا کہ ان کی حکومت بھی نظام میں موجود خرابیوں کو دور کرنے کی خواہاں ہے</sentence_1>
+    <sentence_2> عدالتوں نے بھی دھرنوں سے متعلق اپنے تحفظات کا اظہار کیا تھا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="30" shared_words="3" pair_no="21">
+    <sentence_1>ٹویٹر پرکرن جوہر کے مداحوں کی تعداد 50 لاکھ ہوگئی</sentence_1>
+    <sentence_2>مڈ ڈے کی رپورت کے مطابق \" کچھ کچھ ہوتا ہے\" اور \" کل ہو نہ ہو\" جیسی مقبول فلمیں دینے والے ڈائرکٹر کرن جوہر نے2009 میں ٹوئٹر جوائن کیا تھا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="4" pair_no="20">
+    <sentence_1> نواز شریف نے کہا کہ ان کی حکومت بھی نظام میں موجود خرابیوں کو دور کرنے کی خواہاں ہے</sentence_1>
+    <sentence_2> اسلام آباد میں دھرنے شروع ہوئے تو عدالتوں کے خیالات بھی سب نے دیکھ لئے تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="5" pair_no="19">
+    <sentence_1>ٹویٹر پرکرن جوہر کے مداحوں کی تعداد 50 لاکھ ہوگئی</sentence_1>
+    <sentence_2>ممبئی (وقت نیوز )بالی وڈ کے فلمساز کرن جوہر کے ٹوئٹر پر فالورز کی تعداد پانچ ملین سے زیادہ ہو گئی</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="6" pair_no="18">
+    <sentence_1> ترائی بھون انٹرنیشنل ایئرپورٹ پر نیپال کے نائب وزیراعظم بام دیو گوتم نے وزیراعظم کا پرتپاک خیر مقدم کیا</sentence_1>
+    <sentence_2> نیپال کے ڈپٹی وزیر اعظم اور وزیر برائے وفاقی امور ہرکاش مان سنگھ نے ان کا استقبال کیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="3" pair_no="17">
+    <sentence_1> نواز شریف نے کہا کہ ان کی حکومت بھی نظام میں موجود خرابیوں کو دور کرنے کی خواہاں ہے</sentence_1>
+    <sentence_2> دھرنوں کی وجہ سے ملکی معیشت پر منفی اثرات مرتب ہوئے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="9" shared_words="3" pair_no="16">
+    <sentence_1>ٹویٹر پرکرن جوہر کے مداحوں کی تعداد 50 لاکھ ہوگئی</sentence_1>
+    <sentence_2>کرن کے ٹوئٹر پر فالورز کی تعداد 5 ملین سے زیادہ</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="21" shared_words="4" pair_no="15">
+    <sentence_1> ترائی بھون انٹرنیشنل ایئرپورٹ پر نیپال کے نائب وزیراعظم بام دیو گوتم نے وزیراعظم کا پرتپاک خیر مقدم کیا</sentence_1>
+    <sentence_2>کھٹمنڈو(خصوصی رپورٹر)وزیر اعظم نواز شریف 18 ویں سارک سربراہی کانفرنس میں شرکت کے لئے کھٹمنڈو پہنچے تو ان کا پرتپاک استقبال کیا گیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="3" pair_no="14">
+    <sentence_1> 22 سالہ سپنر نے تناشے پیانگارا، جان نیومبو اور ٹینڈائی چتارا کو آؤٹ کرکے ہیٹ ٹرک مکمل کی</sentence_1>
+    <sentence_2>ٹنڈائی چتارا نے 3 جبکہ پانیا نگرا نے2 وکٹیں لیں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="20" shared_words="8" pair_no="13">
+    <sentence_1> پہلا میچ بھوٹان کا مقابلہ سری لنکا سے دن گیارہ بجے جبکہ دوسرا میچ پاکستان کا مقابلہ نیپال سے دوپہر ڈھائی بجے ہوگا</sentence_1>
+    <sentence_2>ساف ویمن فٹبال چیمپئن شپ ، پاکستان کا مقابلہ آج نیپال سے ہو گا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="3" shared_words="8" pair_no="12">
+    <sentence_1>سیاسی بحران کا جلد حل نکالا جائے ، الطاف حسین</sentence_1>
+    <sentence_2>سیاسی بحران کا جلد حل نکالا جائے ، آصف علی زرداری</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="18" shared_words="5" pair_no="11">
+    <sentence_1> 22 سالہ سپنر نے تناشے پیانگارا، جان نیومبو اور ٹینڈائی چتارا کو آؤٹ کرکے ہیٹ ٹرک مکمل کی</sentence_1>
+    <sentence_2> شکیبالحسن نے 3 اور جوبیر حسین نے 2 وکٹین لے کر تیج کا بھر پور ساتھ دیا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="17" shared_words="3" pair_no="10">
+    <sentence_1> ان کی شاندار باؤلنگ کی بدولت زمبابوے کی ٹیم محض 128 رنز پر ڈھیر ہوگئی</sentence_1>
+    <sentence_2>محموداللہ 51 رنز پر ناقابل شکست رہے جبکہ دوسرے ٹاپ سکورر 20 رنز کے ساتھ سومیا سرکار تھے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="3" pair_no="9">
+    <sentence_1> 22 سالہ سپنر نے تناشے پیانگارا، جان نیومبو اور ٹینڈائی چتارا کو آؤٹ کرکے ہیٹ ٹرک مکمل کی</sentence_1>
+    <sentence_2> سپنر نے 7 اوور میں صرف 11 رنز دے کر 4 وکٹیں لیں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="35" shared_words="8" pair_no="8">
+    <sentence_1> 29 ستمبر (اے پی پی) وزیراعظم محمد نواز شریف نے کہا ہے کہ موجودہ حکومت مظاہرین کے دھرنوں کے باعث پیدا ہونے والے خلل کے باوجود عوام کی انتھک خدمت میں مصروف ہے</sentence_1>
+    <sentence_2> پیر کو لندن سے وطن روانگی سے قبل میڈیا سے گفتگو کرتے ہوئے انہوں نے کہا کہ حکومت اپنا کام کررہی ہے دھرنے والوں نے دھرنا دیا ہے وہ دھرنا دیں ہم اپنا کام جاری رکھیں گے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="38" shared_words="10" pair_no="7">
+    <sentence_1>حکومت مظاہرین کے دھرنوں کے باعث پیدا ہونے والے خلل کے باوجود عوام کی انتھک خدمت میں مصروف ہے وزیراعظم محمد نواز شریف کی وطن واپسی کیلئے ہیتھرو ایئرپورٹ روانگی سے قبل صحافیوں سے گفتگو</sentence_1>
+    <sentence_2> پیر کو لندن سے وطن روانگی سے قبل میڈیا سے گفتگو کرتے ہوئے انہوں نے کہا کہ حکومت اپنا کام کررہی ہے دھرنے والوں نے دھرنا دیا ہے وہ دھرنا دیں ہم اپنا کام جاری رکھیں گے</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="33" shared_words="3" pair_no="6">
+    <sentence_1> 29 ستمبر (اے پی پی) وزیراعظم محمد نواز شریف نے کہا ہے کہ موجودہ حکومت مظاہرین کے دھرنوں کے باعث پیدا ہونے والے خلل کے باوجود عوام کی انتھک خدمت میں مصروف ہے</sentence_1>
+    <sentence_2>مٹھی بھر لوگ الگ کھڑے ہیں‘ موجودہ نظام میں خامیاں دور کرنا میرا عزم ہے‘ ہم نے جلسے کئے تو لگ پتہ جائیگا: نوازشریف</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="4" pair_no="5">
+    <sentence_1>سیف ویمن فٹ بال چیمپئن شپ، دفاعی چیمپئن بھارت اور بنگلہ دیش کی ٹیموں نے اپنے ، اپنے میچز جیت لئے</sentence_1>
+    <sentence_2>ساف ویمن فٹبال چیمپئن شپ ، پاکستان کا مقابلہ آج نیپال سے ہو گا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="3" pair_no="4">
+    <sentence_1>بنگلہ دیشی سپنر تیج الاسلام نے ون ڈے ڈیبیو میں ہیٹ ٹرک کرکے نئی تاریخ رقم کر دی</sentence_1>
+    <sentence_2>جواب میں میزبان سائیڈ نے 24.3 اوورز میں5 وکٹ پر ہدف حاصل کر لیا</sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="19" shared_words="4" pair_no="3">
+    <sentence_1>بنگلہ دیشی سپنر تیج الاسلام نے ون ڈے ڈیبیو میں ہیٹ ٹرک کرکے نئی تاریخ رقم کر دی</sentence_1>
+    <sentence_2> شکیبالحسن نے 3 اور جوبیر حسین نے 2 وکٹین لے کر تیج کا بھر پور ساتھ دیا </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="16" shared_words="4" pair_no="2">
+    <sentence_1>بنگلہ دیشی سپنر تیج الاسلام نے ون ڈے ڈیبیو میں ہیٹ ٹرک کرکے نئی تاریخ رقم کر دی</sentence_1>
+    <sentence_2> سپنر نے 7 اوور میں صرف 11 رنز دے کر 4 وکٹیں لیں </sentence_2>
+  </sentence_pair>
+  <sentence_pair classification="" edit_distance="24" shared_words="8" pair_no="1">
+    <sentence_1>بنگلہ دیشی سپنر تیج الاسلام نے ون ڈے ڈیبیو میں ہیٹ ٹرک کرکے نئی تاریخ رقم کر دی</sentence_1>
+    <sentence_2>تیج نے کرکٹ تاریخ میں سنہری حروف سے نام درج کرالیا ون ڈے ڈیبیو پر ہیٹرک کرنیوالے دنیا کے پہلے پلےئر،سیریز میں بنکلہ دیش کا کلین سوائپ</sentence_2>
+  </sentence_pair>
+</sentence_pairs>
